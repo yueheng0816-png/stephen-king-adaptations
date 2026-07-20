@@ -4,6 +4,8 @@ import { Star } from 'lucide-react';
 import { prisma } from '@/lib/db';
 import { getAdaptationTypeLabel, formatRating } from '@/lib/utils';
 
+export const dynamic = 'force-static';
+
 export const metadata: Metadata = {
   title: 'Top Rated Stephen King Adaptations',
   description:

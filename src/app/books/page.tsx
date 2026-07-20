@@ -4,6 +4,8 @@ import Image from 'next/image';
 import { prisma } from '@/lib/db';
 import { BookOpen, Film, Clock } from 'lucide-react';
 
+export const dynamic = 'force-static';
+
 export const metadata: Metadata = {
   title: 'Stephen King Books — Complete Bibliography of Adapted Works',
   description: 'Every Stephen King book, novella, and short story collection that has been adapted into a movie or TV series.',
