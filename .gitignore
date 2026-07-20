@@ -8,9 +8,7 @@ node_modules/
 out/
 dist/
 
-# Database
-prisma/dev.db
-prisma/dev.db-journal
+# Database (committed for Vercel SSG — SQLite is the MVP data store)
 
 # Environment
 .env
@@ -49,3 +47,5 @@ next-env.d.ts
 
 # Testing
 coverage/
+
+.vercel
