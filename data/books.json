@@ -1,0 +1,1009 @@
+[
+  {
+    "slug": "carrie",
+    "title": "Carrie",
+    "publicationYear": 1974,
+    "type": "NOVEL",
+    "adaptations": [
+      "Carrie",
+      "The Rage: Carrie 2"
+    ],
+    "coverImage": "/images/books/carrie.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Carrie&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Carrie%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "salems-lot",
+    "title": "'Salem's Lot",
+    "publicationYear": 1975,
+    "type": "NOVEL",
+    "adaptations": [
+      "Salem's Lot",
+      "A Return to Salem's Lot"
+    ],
+    "coverImage": "/images/books/salems-lot.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20'Salem's%20Lot&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20'Salem's%20Lot%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-shining",
+    "title": "The Shining",
+    "publicationYear": 1977,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Shining",
+      "Doctor Sleep"
+    ],
+    "coverImage": "/images/books/the-shining.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Shining&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Shining%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-stand",
+    "title": "The Stand",
+    "publicationYear": 1978,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Stand"
+    ],
+    "coverImage": "/images/books/the-stand.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Stand&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Stand%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-dead-zone",
+    "title": "The Dead Zone",
+    "publicationYear": 1979,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Dead Zone"
+    ],
+    "coverImage": "/images/books/the-dead-zone.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dead%20Zone&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dead%20Zone%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "firestarter",
+    "title": "Firestarter",
+    "publicationYear": 1980,
+    "type": "NOVEL",
+    "adaptations": [
+      "Firestarter"
+    ],
+    "coverImage": "/images/books/firestarter.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Firestarter&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Firestarter%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "cujo",
+    "title": "Cujo",
+    "publicationYear": 1981,
+    "type": "NOVEL",
+    "adaptations": [
+      "Cujo"
+    ],
+    "coverImage": "/images/books/cujo.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cujo&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cujo%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "christine",
+    "title": "Christine",
+    "publicationYear": 1983,
+    "type": "NOVEL",
+    "adaptations": [
+      "Christine"
+    ],
+    "coverImage": "/images/books/christine.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Christine&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Christine%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "pet-sematary",
+    "title": "Pet Sematary",
+    "publicationYear": 1983,
+    "type": "NOVEL",
+    "adaptations": [
+      "Pet Sematary",
+      "Pet Sematary II"
+    ],
+    "coverImage": "/images/books/pet-sematary.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Pet%20Sematary&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Pet%20Sematary%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "cycle-of-the-werewolf",
+    "title": "Cycle of the Werewolf",
+    "publicationYear": 1983,
+    "type": "NOVEL",
+    "adaptations": [
+      "Silver Bullet"
+    ],
+    "coverImage": "/images/books/cycle-of-the-werewolf.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cycle%20of%20the%20Werewolf&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cycle%20of%20the%20Werewolf%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-running-man",
+    "title": "The Running Man",
+    "publicationYear": 1982,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Running Man"
+    ],
+    "coverImage": "/images/books/the-running-man.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Running%20Man&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Running%20Man%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "thinner",
+    "title": "Thinner",
+    "publicationYear": 1984,
+    "type": "NOVEL",
+    "adaptations": [
+      "Thinner"
+    ],
+    "coverImage": "/images/books/thinner.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Thinner&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Thinner%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "it",
+    "title": "It",
+    "publicationYear": 1986,
+    "type": "NOVEL",
+    "adaptations": [
+      "It",
+      "It Chapter Two"
+    ],
+    "coverImage": "/images/books/it.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20It&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20It%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "misery",
+    "title": "Misery",
+    "publicationYear": 1987,
+    "type": "NOVEL",
+    "adaptations": [
+      "Misery"
+    ],
+    "coverImage": "/images/books/misery.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Misery&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Misery%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-tommyknockers",
+    "title": "The Tommyknockers",
+    "publicationYear": 1987,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/the-tommyknockers.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Tommyknockers&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Tommyknockers%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-dark-half",
+    "title": "The Dark Half",
+    "publicationYear": 1989,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Dark Half"
+    ],
+    "coverImage": "/images/books/the-dark-half.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dark%20Half&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dark%20Half%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "needful-things",
+    "title": "Needful Things",
+    "publicationYear": 1991,
+    "type": "NOVEL",
+    "adaptations": [
+      "Needful Things"
+    ],
+    "coverImage": "/images/books/needful-things.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Needful%20Things&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Needful%20Things%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "dolores-claiborne",
+    "title": "Dolores Claiborne",
+    "publicationYear": 1992,
+    "type": "NOVEL",
+    "adaptations": [
+      "Dolores Claiborne"
+    ],
+    "coverImage": "/images/books/dolores-claiborne.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dolores%20Claiborne&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dolores%20Claiborne%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "gerald-game",
+    "title": "Gerald's Game",
+    "publicationYear": 1992,
+    "type": "NOVEL",
+    "adaptations": [
+      "Gerald's Game"
+    ],
+    "coverImage": "/images/books/gerald-game.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Gerald's%20Game&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Gerald's%20Game%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "insomnia",
+    "title": "Insomnia",
+    "publicationYear": 1994,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/insomnia.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Insomnia&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Insomnia%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-green-mile",
+    "title": "The Green Mile",
+    "publicationYear": 1996,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Green Mile"
+    ],
+    "coverImage": "/images/books/the-green-mile.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Green%20Mile&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Green%20Mile%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "desperation",
+    "title": "Desperation",
+    "publicationYear": 1996,
+    "type": "NOVEL",
+    "adaptations": [
+      "Desperation"
+    ],
+    "coverImage": "/images/books/desperation.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Desperation&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Desperation%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "bag-of-bones",
+    "title": "Bag of Bones",
+    "publicationYear": 1998,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/bag-of-bones.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Bag%20of%20Bones&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Bag%20of%20Bones%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-girl-who-loved-tom-gordon",
+    "title": "The Girl Who Loved Tom Gordon",
+    "publicationYear": 1999,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/the-girl-who-loved-tom-gordon.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Girl%20Who%20Loved%20Tom%20Gordon&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Girl%20Who%20Loved%20Tom%20Gordon%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "dreamcatcher",
+    "title": "Dreamcatcher",
+    "publicationYear": 2001,
+    "type": "NOVEL",
+    "adaptations": [
+      "Dreamcatcher"
+    ],
+    "coverImage": "/images/books/dreamcatcher.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dreamcatcher&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dreamcatcher%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "from-a-buick-8",
+    "title": "From a Buick 8",
+    "publicationYear": 2002,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/from-a-buick-8.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20From%20a%20Buick%208&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20From%20a%20Buick%208%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "cell",
+    "title": "Cell",
+    "publicationYear": 2006,
+    "type": "NOVEL",
+    "adaptations": [
+      "Cell"
+    ],
+    "coverImage": "/images/books/cell.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cell&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cell%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "liseys-story",
+    "title": "Lisey's Story",
+    "publicationYear": 2006,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/liseys-story.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Lisey's%20Story&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Lisey's%20Story%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "duma-key",
+    "title": "Duma Key",
+    "publicationYear": 2008,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/duma-key.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Duma%20Key&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Duma%20Key%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "under-the-dome",
+    "title": "Under the Dome",
+    "publicationYear": 2009,
+    "type": "NOVEL",
+    "adaptations": [
+      "Under the Dome"
+    ],
+    "coverImage": "/images/books/under-the-dome.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Under%20the%20Dome&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Under%20the%20Dome%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "11-22-63",
+    "title": "11/22/63",
+    "publicationYear": 2011,
+    "type": "NOVEL",
+    "adaptations": [
+      "11.22.63"
+    ],
+    "coverImage": "/images/books/11-22-63.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%2011%2F22%2F63&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%2011%2F22%2F63%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "doctor-sleep",
+    "title": "Doctor Sleep",
+    "publicationYear": 2013,
+    "type": "NOVEL",
+    "adaptations": [
+      "Doctor Sleep"
+    ],
+    "coverImage": "/images/books/doctor-sleep.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Doctor%20Sleep&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Doctor%20Sleep%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "mr-mercedes",
+    "title": "Mr. Mercedes",
+    "publicationYear": 2014,
+    "type": "NOVEL",
+    "adaptations": [
+      "Mr. Mercedes"
+    ],
+    "coverImage": "/images/books/mr-mercedes.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Mr.%20Mercedes&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Mr.%20Mercedes%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "finders-keepers",
+    "title": "Finders Keepers",
+    "publicationYear": 2015,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/finders-keepers.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Finders%20Keepers&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Finders%20Keepers%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "end-of-watch",
+    "title": "End of Watch",
+    "publicationYear": 2016,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/end-of-watch.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20End%20of%20Watch&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20End%20of%20Watch%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-outsider",
+    "title": "The Outsider",
+    "publicationYear": 2018,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/the-outsider.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Outsider&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Outsider%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-institute",
+    "title": "The Institute",
+    "publicationYear": 2019,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/the-institute.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Institute&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Institute%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "fairy-tale",
+    "title": "Fairy Tale",
+    "publicationYear": 2022,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/fairy-tale.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Fairy%20Tale&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Fairy%20Tale%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "holly",
+    "title": "Holly",
+    "publicationYear": 2023,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/holly.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Holly&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Holly%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "night-shift",
+    "title": "Night Shift",
+    "publicationYear": 1978,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Children of the Corn",
+      "Trucks",
+      "The Mangler",
+      "Graveyard Shift",
+      "Sometimes They Come Back",
+      "The Woman in the Room",
+      "Quicksilver Highway"
+    ],
+    "coverImage": "/images/books/night-shift.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Night%20Shift&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Night%20Shift%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "different-seasons",
+    "title": "Different Seasons",
+    "publicationYear": 1982,
+    "type": "COLLECTION",
+    "adaptations": [
+      "The Shawshank Redemption",
+      "Stand by Me",
+      "Apt Pupil"
+    ],
+    "coverImage": "/images/books/different-seasons.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Different%20Seasons&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Different%20Seasons%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "skeleton-crew",
+    "title": "Skeleton Crew",
+    "publicationYear": 1985,
+    "type": "COLLECTION",
+    "adaptations": [
+      "The Mist"
+    ],
+    "coverImage": "/images/books/skeleton-crew.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Skeleton%20Crew&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Skeleton%20Crew%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "four-past-midnight",
+    "title": "Four Past Midnight",
+    "publicationYear": 1990,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Secret Window",
+      "The Night Flier"
+    ],
+    "coverImage": "/images/books/four-past-midnight.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Four%20Past%20Midnight&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Four%20Past%20Midnight%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "nightmares-and-dreamscapes",
+    "title": "Nightmares & Dreamscapes",
+    "publicationYear": 1993,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Dolan's Cadillac"
+    ],
+    "coverImage": "/images/books/nightmares-and-dreamscapes.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Nightmares%20%26%20Dreamscapes&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Nightmares%20%26%20Dreamscapes%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "hearts-in-atlantis",
+    "title": "Hearts in Atlantis",
+    "publicationYear": 1999,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Hearts in Atlantis"
+    ],
+    "coverImage": "/images/books/hearts-in-atlantis.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Hearts%20in%20Atlantis&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Hearts%20in%20Atlantis%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "everythings-eventual",
+    "title": "Everything's Eventual",
+    "publicationYear": 2002,
+    "type": "COLLECTION",
+    "adaptations": [
+      "1408",
+      "Riding the Bullet"
+    ],
+    "coverImage": "/images/books/everythings-eventual.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Everything's%20Eventual&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Everything's%20Eventual%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "just-after-sunset",
+    "title": "Just After Sunset",
+    "publicationYear": 2008,
+    "type": "COLLECTION",
+    "adaptations": [],
+    "coverImage": "/images/books/just-after-sunset.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Just%20After%20Sunset&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Just%20After%20Sunset%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "full-dark-no-stars",
+    "title": "Full Dark, No Stars",
+    "publicationYear": 2010,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Big Driver",
+      "A Good Marriage"
+    ],
+    "coverImage": "/images/books/full-dark-no-stars.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Full%20Dark%2C%20No%20Stars&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Full%20Dark%2C%20No%20Stars%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "bazaar-of-bad-dreams",
+    "title": "The Bazaar of Bad Dreams",
+    "publicationYear": 2015,
+    "type": "COLLECTION",
+    "adaptations": [],
+    "coverImage": "/images/books/bazaar-of-bad-dreams.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Bazaar%20of%20Bad%20Dreams&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Bazaar%20of%20Bad%20Dreams%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "if-it-bleeds",
+    "title": "If It Bleeds",
+    "publicationYear": 2020,
+    "type": "COLLECTION",
+    "adaptations": [],
+    "coverImage": "/images/books/if-it-bleeds.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20If%20It%20Bleeds&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20If%20It%20Bleeds%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "you-like-it-darker",
+    "title": "You Like It Darker",
+    "publicationYear": 2024,
+    "type": "COLLECTION",
+    "adaptations": [],
+    "coverImage": "/images/books/you-like-it-darker.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20You%20Like%20It%20Darker&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20You%20Like%20It%20Darker%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-long-walk",
+    "title": "The Long Walk",
+    "publicationYear": 1979,
+    "type": "NOVELLA",
+    "adaptations": [
+      "The Long Walk"
+    ],
+    "coverImage": "/images/books/the-long-walk.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Long%20Walk&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Long%20Walk%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-lawnmower-man",
+    "title": "The Lawnmower Man",
+    "publicationYear": 1978,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "The Lawnmower Man",
+      "Lawnmower Man 2"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Lawnmower%20Man&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Lawnmower%20Man%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "the-dark-tower",
+    "title": "The Dark Tower",
+    "publicationYear": 1982,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Dark Tower"
+    ],
+    "coverImage": "/images/books/the-dark-tower.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dark%20Tower&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Dark%20Tower%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "creepshow",
+    "title": "Creepshow",
+    "publicationYear": 1982,
+    "type": "COLLECTION",
+    "adaptations": [
+      "Creepshow",
+      "Creepshow 2",
+      "Creepshow 3"
+    ],
+    "coverImage": "/images/books/creepshow.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Creepshow&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Creepshow%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "cats-eye",
+    "title": "Cat's Eye",
+    "publicationYear": 1985,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Cat's Eye"
+    ],
+    "coverImage": "/images/books/cats-eye.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cat's%20Eye&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Cat's%20Eye%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "sleepwalkers",
+    "title": "Sleepwalkers",
+    "publicationYear": 1992,
+    "type": "NOVEL",
+    "adaptations": [
+      "Sleepwalkers"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Sleepwalkers&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Sleepwalkers%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/sleepwalkers.jpg"
+  },
+  {
+    "slug": "golden-years",
+    "title": "Golden Years",
+    "publicationYear": 1991,
+    "type": "NOVEL",
+    "adaptations": [
+      "Golden Years"
+    ],
+    "coverImage": "/images/books/golden-years.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Golden%20Years&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Golden%20Years%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "in-the-tall-grass",
+    "title": "In the Tall Grass",
+    "publicationYear": 2012,
+    "type": "NOVELLA",
+    "adaptations": [
+      "In the Tall Grass"
+    ],
+    "coverImage": "/images/books/in-the-tall-grass.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20In%20the%20Tall%20Grass&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20In%20the%20Tall%20Grass%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "mercy",
+    "title": "Mercy",
+    "publicationYear": 1984,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Mercy"
+    ],
+    "coverImage": "/images/books/mercy.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Mercy&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Mercy%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "no-smoking",
+    "title": "No Smoking",
+    "publicationYear": 1978,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "No Smoking"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20No%20Smoking&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20No%20Smoking%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "1922",
+    "title": "1922",
+    "publicationYear": 2010,
+    "type": "NOVELLA",
+    "adaptations": [
+      "1922"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%201922&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%201922%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/full-dark-no-stars.jpg"
+  },
+  {
+    "slug": "a-good-marriage",
+    "title": "A Good Marriage",
+    "publicationYear": 2010,
+    "type": "NOVELLA",
+    "adaptations": [
+      "A Good Marriage"
+    ],
+    "coverImage": "/images/books/a-good-marriage.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20A%20Good%20Marriage&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20A%20Good%20Marriage%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "big-driver",
+    "title": "Big Driver",
+    "publicationYear": 2010,
+    "type": "NOVELLA",
+    "adaptations": [
+      "Big Driver"
+    ],
+    "coverImage": "/images/books/big-driver.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Big%20Driver&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Big%20Driver%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-diary-of-ellen-rimbauer",
+    "title": "The Diary of Ellen Rimbauer",
+    "publicationYear": 2001,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Diary of Ellen Rimbauer"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Diary%20of%20Ellen%20Rimbauer&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Diary%20of%20Ellen%20Rimbauer%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/the-diary-of-ellen-rimbauer.jpg"
+  },
+  {
+    "slug": "kingdom-hospital",
+    "title": "Kingdom Hospital",
+    "publicationYear": 2004,
+    "type": "NOVEL",
+    "adaptations": [
+      "Kingdom Hospital"
+    ],
+    "coverImage": "/images/books/kingdom-hospital.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Kingdom%20Hospital&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Kingdom%20Hospital%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "haven",
+    "title": "Haven",
+    "publicationYear": 2010,
+    "type": "NOVEL",
+    "adaptations": [
+      "Haven"
+    ],
+    "coverImage": "/images/books/haven.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Haven&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Haven%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "castle-rock",
+    "title": "Castle Rock",
+    "publicationYear": 2018,
+    "type": "NOVEL",
+    "adaptations": [
+      "Castle Rock"
+    ],
+    "coverImage": "/images/books/castle-rock.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Castle%20Rock&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Castle%20Rock%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-mist",
+    "title": "The Mist",
+    "publicationYear": 1980,
+    "type": "NOVELLA",
+    "adaptations": [
+      "The Mist"
+    ],
+    "coverImage": "/images/books/the-mist.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Mist&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Mist%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "trucks",
+    "title": "Trucks",
+    "publicationYear": 1973,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Trucks"
+    ],
+    "coverImage": "/images/books/trucks.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Trucks&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Trucks%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "the-mangler",
+    "title": "The Mangler",
+    "publicationYear": 1972,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "The Mangler",
+      "The Mangler 2",
+      "The Mangler Reborn"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Mangler&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Mangler%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "graveyard-shift",
+    "title": "Graveyard Shift",
+    "publicationYear": 1970,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Graveyard Shift"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Graveyard%20Shift&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Graveyard%20Shift%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "sometimes-they-come-back",
+    "title": "Sometimes They Come Back",
+    "publicationYear": 1974,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Sometimes They Come Back",
+      "Sometimes They Come Back... Again",
+      "Sometimes They Come Back... for More"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Sometimes%20They%20Come%20Back&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Sometimes%20They%20Come%20Back%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "the-woman-in-the-room",
+    "title": "The Woman in the Room",
+    "publicationYear": 1978,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "The Woman in the Room"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Woman%20in%20the%20Room&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Woman%20in%20the%20Room%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/night-shift.jpg"
+  },
+  {
+    "slug": "quicksilver-highway",
+    "title": "Quicksilver Highway",
+    "publicationYear": 1997,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Quicksilver Highway"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Quicksilver%20Highway&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Quicksilver%20Highway%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/quicksilver-highway.jpg"
+  },
+  {
+    "slug": "the-night-flier",
+    "title": "The Night Flier",
+    "publicationYear": 1988,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "The Night Flier"
+    ],
+    "coverImage": "/images/books/the-night-flier.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Night%20Flier&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Night%20Flier%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "riding-the-bullet",
+    "title": "Riding the Bullet",
+    "publicationYear": 2000,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Riding the Bullet"
+    ],
+    "coverImage": "/images/books/riding-the-bullet.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Riding%20the%20Bullet&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Riding%20the%20Bullet%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "secret-window-secret-garden",
+    "title": "Secret Window, Secret Garden",
+    "publicationYear": 1990,
+    "type": "NOVELLA",
+    "adaptations": [
+      "Secret Window"
+    ],
+    "coverImage": "/images/books/secret-window-secret-garden.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Secret%20Window%2C%20Secret%20Garden&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Secret%20Window%2C%20Secret%20Garden%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "1408",
+    "title": "1408",
+    "publicationYear": 1999,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "1408"
+    ],
+    "coverImage": "/images/books/1408.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%201408&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%201408%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "dolans-cadillac",
+    "title": "Dolan's Cadillac",
+    "publicationYear": 1989,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Dolan's Cadillac"
+    ],
+    "coverImage": "/images/books/dolans-cadillac.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dolan's%20Cadillac&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Dolan's%20Cadillac%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "hearts-in-atlantis-2",
+    "title": "Low Men in Yellow Coats",
+    "publicationYear": 1999,
+    "type": "NOVELLA",
+    "adaptations": [
+      "Hearts in Atlantis"
+    ],
+    "coverImage": "/images/books/hearts-in-atlantis-2.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Low%20Men%20in%20Yellow%20Coats&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Low%20Men%20in%20Yellow%20Coats%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "apt-pupil",
+    "title": "Apt Pupil",
+    "publicationYear": 1982,
+    "type": "NOVELLA",
+    "adaptations": [
+      "Apt Pupil"
+    ],
+    "coverImage": "/images/books/apt-pupil.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Apt%20Pupil&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Apt%20Pupil%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  },
+  {
+    "slug": "maximum-overdrive",
+    "title": "Maximum Overdrive",
+    "publicationYear": 1986,
+    "type": "SHORT_STORY",
+    "adaptations": [
+      "Maximum Overdrive"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20Maximum%20Overdrive&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20Maximum%20Overdrive%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/maximum-overdrive.jpg"
+  },
+  {
+    "slug": "the-rage-carrie-2",
+    "title": "The Rage: Carrie 2",
+    "publicationYear": 1999,
+    "type": "NOVEL",
+    "adaptations": [
+      "The Rage: Carrie 2"
+    ],
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Rage%3A%20Carrie%202&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Rage%3A%20Carrie%202%20Kindle&i=digital-text&tag=stephenkingdb-20",
+    "coverImage": "/images/books/the-rage-carrie-2.jpg"
+  },
+  {
+    "slug": "desperation-regulators",
+    "title": "The Regulators",
+    "publicationYear": 1996,
+    "type": "NOVEL",
+    "adaptations": [],
+    "coverImage": "/images/books/desperation-regulators.jpg",
+    "amazonUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Regulators&tag=stephenkingdb-20",
+    "kindleUrl": "https://www.amazon.com/s?k=Stephen%20King%20The%20Regulators%20Kindle&i=digital-text&tag=stephenkingdb-20"
+  }
+]

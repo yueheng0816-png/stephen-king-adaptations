@@ -1,0 +1,1824 @@
+[
+  {
+    "tmdbId": 604079,
+    "imdbId": "tt10374610",
+    "title": "The Long Walk",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.7,
+        "maxScore": 10,
+        "voteCount": 110543
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 88,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 71,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 748230,
+    "imdbId": "tt10245072",
+    "title": "Salem's Lot",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.6,
+        "maxScore": 10,
+        "voteCount": 39469
+      },
+      {
+        "source": "METACRITIC",
+        "score": 47,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 86382,
+    "imdbId": "tt1831804",
+    "title": "The Stand",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.7,
+        "maxScore": 10,
+        "voteCount": 32429
+      }
+    ]
+  },
+  {
+    "tmdbId": 501170,
+    "imdbId": "tt5606664",
+    "title": "Doctor Sleep",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.3,
+        "maxScore": 10,
+        "voteCount": 233552
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 79,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 59,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 523139,
+    "imdbId": "tt4687108",
+    "title": "In the Tall Grass",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.5,
+        "maxScore": 10,
+        "voteCount": 72772
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 36,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 46,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 474350,
+    "imdbId": "tt7349950",
+    "title": "It Chapter Two",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.5,
+        "maxScore": 10,
+        "voteCount": 353654
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 62,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 58,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 157433,
+    "imdbId": "tt0837563",
+    "title": "Pet Sematary",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.7,
+        "maxScore": 10,
+        "voteCount": 102427
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 58,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 57,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 71116,
+    "imdbId": "tt6548228",
+    "title": "Castle Rock",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.5,
+        "maxScore": 10,
+        "voteCount": 54632
+      }
+    ]
+  },
+  {
+    "tmdbId": 445710,
+    "imdbId": "tt5565634",
+    "title": "Children of the Corn: Runaway",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.8,
+        "maxScore": 10,
+        "voteCount": 829
+      }
+    ]
+  },
+  {
+    "tmdbId": 452507,
+    "imdbId": "tt6214928",
+    "title": "1922",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.2,
+        "maxScore": 10,
+        "voteCount": 76666
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 92,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 70,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 343674,
+    "imdbId": "tt3748172",
+    "title": "Gerald's Game",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.5,
+        "maxScore": 10,
+        "voteCount": 140266
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 91,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 77,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 346364,
+    "imdbId": "tt1396484",
+    "title": "It",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.3,
+        "maxScore": 10,
+        "voteCount": 694027
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 85,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 69,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 70485,
+    "imdbId": "tt4354880",
+    "title": "Mr. Mercedes",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.7,
+        "maxScore": 10,
+        "voteCount": 37318
+      }
+    ]
+  },
+  {
+    "tmdbId": 353491,
+    "imdbId": "tt1648190",
+    "title": "The Dark Tower",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.6,
+        "maxScore": 10,
+        "voteCount": 154672
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 16,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 34,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 68315,
+    "imdbId": "tt5639976",
+    "title": "The Mist",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.4,
+        "maxScore": 10,
+        "voteCount": 28802
+      }
+    ]
+  },
+  {
+    "tmdbId": 168098,
+    "imdbId": "tt0775440",
+    "title": "Cell",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.4,
+        "maxScore": 10,
+        "voteCount": 32033
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 11,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 38,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 297961,
+    "imdbId": "tt3831810",
+    "title": "Big Driver",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.6,
+        "maxScore": 10,
+        "voteCount": 7047
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 50,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 180305,
+    "imdbId": "tt2481496",
+    "title": "Mercy",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.9,
+        "maxScore": 10,
+        "voteCount": 5996
+      }
+    ]
+  },
+  {
+    "tmdbId": 288281,
+    "imdbId": "tt2180994",
+    "title": "A Good Marriage",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.3,
+        "maxScore": 10,
+        "voteCount": 13970
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 32,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 43,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 133805,
+    "imdbId": "tt1939659",
+    "title": "Carrie",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.8,
+        "maxScore": 10,
+        "voteCount": 154408
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 51,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 53,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 46331,
+    "imdbId": "tt1553656",
+    "title": "Under the Dome",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.5,
+        "maxScore": 10,
+        "voteCount": 117732
+      }
+    ]
+  },
+  {
+    "tmdbId": 70575,
+    "imdbId": "tt1745672",
+    "title": "Children of the Corn: Genesis",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.6,
+        "maxScore": 10,
+        "voteCount": 3990
+      }
+    ]
+  },
+  {
+    "tmdbId": 33001,
+    "imdbId": "tt1519931",
+    "title": "Haven",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.5,
+        "maxScore": 10,
+        "voteCount": 43574
+      }
+    ]
+  },
+  {
+    "tmdbId": 19823,
+    "imdbId": "tt0963965",
+    "title": "Dolan's Cadillac",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.6,
+        "maxScore": 10,
+        "voteCount": 7817
+      }
+    ]
+  },
+  {
+    "tmdbId": 25754,
+    "imdbId": "tt1290135",
+    "title": "Children of the Corn",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.8,
+        "maxScore": 10,
+        "voteCount": 6667
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 0,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 5876,
+    "imdbId": "tt0884328",
+    "title": "The Mist",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.1,
+        "maxScore": 10,
+        "voteCount": 371131
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 74,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 58,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 36204,
+    "imdbId": "tt0995740",
+    "title": "No Smoking",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.3,
+        "maxScore": 10,
+        "voteCount": 9258
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 50,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 3021,
+    "imdbId": "tt0450385",
+    "title": "1408",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.8,
+        "maxScore": 10,
+        "voteCount": 312592
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 80,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 64,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10004,
+    "imdbId": "tt0129871",
+    "title": "Desperation",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.3,
+        "maxScore": 10,
+        "voteCount": 11978
+      }
+    ]
+  },
+  {
+    "tmdbId": 16304,
+    "imdbId": "tt0478125",
+    "title": "Creepshow 3",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.1,
+        "maxScore": 10,
+        "voteCount": 4660
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 0,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 28660,
+    "imdbId": "tt0449066",
+    "title": "The Mangler Reborn",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.1,
+        "maxScore": 10,
+        "voteCount": 1021
+      }
+    ]
+  },
+  {
+    "tmdbId": 12483,
+    "imdbId": "tt0355954",
+    "title": "Riding the Bullet",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.2,
+        "maxScore": 10,
+        "voteCount": 11381
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 23,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 37,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 1586,
+    "imdbId": "tt0363988",
+    "title": "Secret Window",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.5,
+        "maxScore": 10,
+        "voteCount": 219964
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 46,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 46,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 375569,
+    "imdbId": "tt0324864",
+    "title": "Kingdom Hospital",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.7,
+        "maxScore": 10,
+        "voteCount": 8036
+      }
+    ]
+  },
+  {
+    "tmdbId": 16175,
+    "imdbId": "tt0350811",
+    "title": "The Diary of Ellen Rimbauer",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.4,
+        "maxScore": 10,
+        "voteCount": 4285
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 17,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 6171,
+    "imdbId": "tt0285531",
+    "title": "Dreamcatcher",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.5,
+        "maxScore": 10,
+        "voteCount": 100049
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 27,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 35,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 352128,
+    "imdbId": "tt0341334",
+    "title": "The Dead Zone",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.2,
+        "maxScore": 10,
+        "voteCount": 1321
+      }
+    ]
+  },
+  {
+    "tmdbId": 7342,
+    "imdbId": "tt0319970",
+    "title": "Carrie",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.4,
+        "maxScore": 10,
+        "voteCount": 11875
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 20,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 1475,
+    "imdbId": "tt0281432",
+    "title": "The Dead Zone",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.3,
+        "maxScore": 10,
+        "voteCount": 10441
+      }
+    ]
+  },
+  {
+    "tmdbId": 27345,
+    "imdbId": "tt0260162",
+    "title": "The Mangler 2",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 2.4,
+        "maxScore": 10,
+        "voteCount": 1759
+      }
+    ]
+  },
+  {
+    "tmdbId": 25753,
+    "imdbId": "tt0279730",
+    "title": "Children of the Corn: Revelation",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.5,
+        "maxScore": 10,
+        "voteCount": 2527
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 0,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 11313,
+    "imdbId": "tt0252501",
+    "title": "Hearts in Atlantis",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.9,
+        "maxScore": 10,
+        "voteCount": 41796
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 49,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 55,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 497,
+    "imdbId": "tt0120689",
+    "title": "The Green Mile",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 8.6,
+        "maxScore": 10,
+        "voteCount": 1557536
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 78,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 61,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 25752,
+    "imdbId": "tt0177625",
+    "title": "Children of the Corn 666: Isaac's Return",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.5,
+        "maxScore": 10,
+        "voteCount": 4025
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 0,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 7341,
+    "imdbId": "tt0144814",
+    "title": "The Rage: Carrie 2",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.8,
+        "maxScore": 10,
+        "voteCount": 19197
+      },
+      {
+        "source": "METACRITIC",
+        "score": 42,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 27771,
+    "imdbId": "tt0171768",
+    "title": "Sometimes They Come Back... for More",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.3,
+        "maxScore": 10,
+        "voteCount": 2071
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 17,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 9445,
+    "imdbId": "tt0118636",
+    "title": "Apt Pupil",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.7,
+        "maxScore": 10,
+        "voteCount": 43869
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 54,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 53,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 25751,
+    "imdbId": "tt0150111",
+    "title": "Children of the Corn V: Fields of Terror",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.9,
+        "maxScore": 10,
+        "voteCount": 4322
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 14,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 17100,
+    "imdbId": "tt0120380",
+    "title": "Trucks",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 3.9,
+        "maxScore": 10,
+        "voteCount": 3850
+      }
+    ]
+  },
+  {
+    "tmdbId": 26215,
+    "imdbId": "tt0119975",
+    "title": "Quicksilver Highway",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.9,
+        "maxScore": 10,
+        "voteCount": 2935
+      }
+    ]
+  },
+  {
+    "tmdbId": 12238,
+    "imdbId": "tt0119784",
+    "title": "The Night Flier",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6,
+        "maxScore": 10,
+        "voteCount": 12503
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 33,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 36,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10280,
+    "imdbId": "tt0117894",
+    "title": "Thinner",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.8,
+        "maxScore": 10,
+        "voteCount": 35264
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 19,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 33,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 25750,
+    "imdbId": "tt0115885",
+    "title": "Children of the Corn IV: The Gathering",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.2,
+        "maxScore": 10,
+        "voteCount": 4395
+      }
+    ]
+  },
+  {
+    "tmdbId": 27770,
+    "imdbId": "tt0117692",
+    "title": "Sometimes They Come Back... Again",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.2,
+        "maxScore": 10,
+        "voteCount": 3293
+      }
+    ]
+  },
+  {
+    "tmdbId": 11525,
+    "imdbId": "tt0116839",
+    "title": "Lawnmower Man 2: Beyond Cyberspace",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 2.6,
+        "maxScore": 10,
+        "voteCount": 10475
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 18,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 29,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 25749,
+    "imdbId": "tt0109415",
+    "title": "Children of the Corn III: Urban Harvest",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.3,
+        "maxScore": 10,
+        "voteCount": 8737
+      }
+    ]
+  },
+  {
+    "tmdbId": 11929,
+    "imdbId": "tt0109642",
+    "title": "Dolores Claiborne",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.4,
+        "maxScore": 10,
+        "voteCount": 51981
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 87,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 62,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 13559,
+    "imdbId": "tt0113762",
+    "title": "The Mangler",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.4,
+        "maxScore": 10,
+        "voteCount": 10307
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 27,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 8,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 278,
+    "imdbId": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 9.3,
+        "maxScore": 10,
+        "voteCount": 3182645
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 89,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 82,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 9045,
+    "imdbId": "tt0108941",
+    "title": "The Stand",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.1,
+        "maxScore": 10,
+        "voteCount": 40965
+      }
+    ]
+  },
+  {
+    "tmdbId": 10657,
+    "imdbId": "tt0107665",
+    "title": "Needful Things",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.3,
+        "maxScore": 10,
+        "voteCount": 29742
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 33,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 43,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10349,
+    "imdbId": "tt0106664",
+    "title": "The Dark Half",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6,
+        "maxScore": 10,
+        "voteCount": 20667
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 55,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 53,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10906,
+    "imdbId": "tt0105128",
+    "title": "Pet Sematary II",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.9,
+        "maxScore": 10,
+        "voteCount": 24193
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 20,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 35,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 11428,
+    "imdbId": "tt0105428",
+    "title": "Sleepwalkers",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.3,
+        "maxScore": 10,
+        "voteCount": 26003
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 32,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 38,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10163,
+    "imdbId": "tt0104692",
+    "title": "The Lawnmower Man",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.4,
+        "maxScore": 10,
+        "voteCount": 40365
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 35,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 42,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 25748,
+    "imdbId": "tt0106557",
+    "title": "Children of the Corn II: The Final Sacrifice",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.4,
+        "maxScore": 10,
+        "voteCount": 10069
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 30,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 18,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 36560,
+    "imdbId": "tt0101206",
+    "title": "Golden Years",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.2,
+        "maxScore": 10,
+        "voteCount": 3415
+      }
+    ]
+  },
+  {
+    "tmdbId": 27769,
+    "imdbId": "tt0102960",
+    "title": "Sometimes They Come Back",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.7,
+        "maxScore": 10,
+        "voteCount": 12937
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 45,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 1700,
+    "imdbId": "tt0100157",
+    "title": "Misery",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.8,
+        "maxScore": 10,
+        "voteCount": 260167
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 86,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 75,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 19158,
+    "imdbId": "tt0099697",
+    "title": "Graveyard Shift",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5,
+        "maxScore": 10,
+        "voteCount": 13090
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 10,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 28,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 20701,
+    "imdbId": "tt0100740",
+    "title": "Tales from the Darkside: The Movie",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.2,
+        "maxScore": 10,
+        "voteCount": 19833
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 50,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 54,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 8913,
+    "imdbId": "tt0098084",
+    "title": "Pet Sematary",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.5,
+        "maxScore": 10,
+        "voteCount": 123316
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 55,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 38,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 865,
+    "imdbId": "tt0093894",
+    "title": "The Running Man",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.6,
+        "maxScore": 10,
+        "voteCount": 189583
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 59,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 45,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 27740,
+    "imdbId": "tt0093855",
+    "title": "A Return to Salem's Lot",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 4.3,
+        "maxScore": 10,
+        "voteCount": 5207
+      }
+    ]
+  },
+  {
+    "tmdbId": 16288,
+    "imdbId": "tt0092796",
+    "title": "Creepshow 2",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6,
+        "maxScore": 10,
+        "voteCount": 29941
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 36,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 39,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 235,
+    "imdbId": "tt0092005",
+    "title": "Stand by Me",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 8.1,
+        "maxScore": 10,
+        "voteCount": 480200
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 89,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 75,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 9980,
+    "imdbId": "tt0091499",
+    "title": "Maximum Overdrive",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.4,
+        "maxScore": 10,
+        "voteCount": 39099
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 14,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 24,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 17898,
+    "imdbId": "tt0090021",
+    "title": "Silver Bullet",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.4,
+        "maxScore": 10,
+        "voteCount": 33769
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 46,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 26,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10552,
+    "imdbId": "tt0088889",
+    "title": "Cat's Eye",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.3,
+        "maxScore": 10,
+        "voteCount": 29633
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 69,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 70,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 11495,
+    "imdbId": "tt0087262",
+    "title": "Firestarter",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.1,
+        "maxScore": 10,
+        "voteCount": 38341
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 40,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 50,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10823,
+    "imdbId": "tt0087050",
+    "title": "Children of the Corn",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 5.6,
+        "maxScore": 10,
+        "voteCount": 61879
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 38,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 45,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 8769,
+    "imdbId": "tt0085333",
+    "title": "Christine",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.8,
+        "maxScore": 10,
+        "voteCount": 101057
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 69,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 57,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 11336,
+    "imdbId": "tt0085407",
+    "title": "The Dead Zone",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.2,
+        "maxScore": 10,
+        "voteCount": 83095
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 89,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 69,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 10489,
+    "imdbId": "tt0085382",
+    "title": "Cujo",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.1,
+        "maxScore": 10,
+        "voteCount": 55094
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 60,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 57,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 63201,
+    "imdbId": "tt0086534",
+    "title": "The Woman in the Room",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.1,
+        "maxScore": 10,
+        "voteCount": 697
+      }
+    ]
+  },
+  {
+    "tmdbId": 16281,
+    "imdbId": "tt0083767",
+    "title": "Creepshow",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 6.8,
+        "maxScore": 10,
+        "voteCount": 55785
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 66,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 59,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 694,
+    "imdbId": "tt0081505",
+    "title": "The Shining",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 8.4,
+        "maxScore": 10,
+        "voteCount": 1216349
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 84,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 68,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  },
+  {
+    "tmdbId": 7340,
+    "imdbId": "tt0074285",
+    "title": "Carrie",
+    "ratings": [
+      {
+        "source": "IMDB",
+        "score": 7.4,
+        "maxScore": 10,
+        "voteCount": 226591
+      },
+      {
+        "source": "ROTTEN_TOMATOES",
+        "score": 94,
+        "maxScore": 100,
+        "voteCount": null
+      },
+      {
+        "source": "METACRITIC",
+        "score": 86,
+        "maxScore": 100,
+        "voteCount": null
+      }
+    ]
+  }
+]

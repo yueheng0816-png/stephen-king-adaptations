@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Book" ADD COLUMN "isbn" TEXT;
+ALTER TABLE "Book" ADD COLUMN "kindleUrl" TEXT;
+ALTER TABLE "Book" ADD COLUMN "pageCount" INTEGER;

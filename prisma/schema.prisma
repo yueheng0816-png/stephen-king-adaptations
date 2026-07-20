@@ -1,0 +1,205 @@
+// Stephen King Adaptations Database — Prisma Schema
+// Based on STS2 Wiki patterns, simplified for ~200 SSG pages
+// Provider: SQLite (MVP) → migrate to PostgreSQL if needed
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL") // default: "file:./dev.db"
+}
+
+// ============================================================
+// 核心实体
+// ============================================================
+
+model Book {
+  id              String        @id @default(cuid())
+  slug            String        @unique
+  title           String
+  titleCn         String?       // 中文译名
+  publicationYear Int?
+  type            String        @default("NOVEL") // NOVEL | COLLECTION | SHORT_STORY | NOVELLA
+  description     String?       // 简介（英文）
+  descriptionCn   String?       // 简介（中文）
+  coverImage      String?       // 本地路径: /images/books/{slug}.jpg
+  goodreadsUrl    String?
+  amazonUrl       String?       // Amazon 纸质书 affiliate 链接
+  kindleUrl       String?       // Amazon Kindle 电子书 affiliate 链接
+  isbn            String?       // ISBN-13
+  pageCount       Int?          // 页数
+
+  adaptations     Adaptation[]
+  collections     CollectionMember[]
+
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+
+  @@index([publicationYear])
+}
+
+model Adaptation {
+  id              String        @id @default(cuid())
+  slug            String        @unique
+  title           String
+  titleCn         String?       // 中文译名
+  type            String        @default("MOVIE") // MOVIE | TV_SERIES | MINISERIES | TV_MOVIE | STREAMING_ORIGINAL
+  releaseYear     Int?
+  releaseDate     String?       // ISO date string
+  runtime         Int?          // 片长（分钟）
+  tagline         String?
+  overview        String?       // 剧情简介（英文）
+  overviewCn      String?       // 剧情简介（中文）
+  posterImage     String?       // 本地路径: /images/posters/{slug}.jpg
+  posterBlurData  String?       // plaiceholder base64 blur
+  tmdbId          Int?          @unique
+  imdbId          String?       // tt0111161
+  rating          Float?        // 综合评分（IMDb 加权，最高 10）
+  ratingCount     Int?
+  mpaaRating      String?       // PG | PG-13 | R | TV-MA | etc.
+  language        String?       @default("en")
+  country         String?       @default("US")
+
+  // 关系
+  book            Book?         @relation(fields: [bookId], references: [id], onDelete: SetNull)
+  bookId          String?
+  director        Person?       @relation("DirectedAdaptations", fields: [directorId], references: [id], onDelete: SetNull)
+  directorId      String?
+  cast            CastMember[]
+
+  // 评分详情
+  ratings         Rating[]
+  // 流媒体可用性
+  streamingLinks  StreamingLink[]
+  // 与原著差异
+  differences     BookDifference[]
+
+  // AI 生成内容
+  review          String?       // 中文影评/分析 (Markdown)
+  reviewEn        String?       // English translation of review
+  trivia          String?       // 幕后花絮
+
+  // SEO
+  metaTitle       String?
+  metaDescription String?
+
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+
+  @@index([releaseYear])
+  @@index([type])
+  @@index([rating])
+  @@index([bookId])
+  @@index([directorId])
+}
+
+model Person {
+  id              String        @id @default(cuid())
+  slug            String        @unique
+  name            String
+  nameCn          String?
+  photoImage      String?       // /images/people/{slug}.jpg
+  tmdbId          Int?          @unique
+  role            String        @default("ACTOR") // DIRECTOR | ACTOR | BOTH
+
+  directedWorks   Adaptation[]  @relation("DirectedAdaptations")
+  castInWorks     CastMember[]
+
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+}
+
+model CastMember {
+  id              String        @id @default(cuid())
+  adaptation      Adaptation    @relation(fields: [adaptationId], references: [id], onDelete: Cascade)
+  adaptationId    String
+  person          Person        @relation(fields: [personId], references: [id], onDelete: Cascade)
+  personId        String
+  characterName   String?
+  order           Int?          // 演员表排序
+
+  @@unique([adaptationId, personId])
+  @@index([adaptationId])
+  @@index([personId])
+}
+
+// ============================================================
+// 评分
+// ============================================================
+
+model Rating {
+  id              String        @id @default(cuid())
+  adaptation      Adaptation    @relation(fields: [adaptationId], references: [id], onDelete: Cascade)
+  adaptationId    String
+  source          String        // IMDB | ROTTEN_TOMATOES | METACRITIC | DOUBAN | LETTERBOXD
+  score           Float
+  maxScore        Float         // IMDB=10, RT=100, Metacritic=100, Douban=10, Letterboxd=5
+  voteCount       Int?
+
+  @@unique([adaptationId, source])
+  @@index([adaptationId])
+}
+
+// ============================================================
+// 流媒体
+// ============================================================
+
+model StreamingLink {
+  id              String        @id @default(cuid())
+  adaptation      Adaptation    @relation(fields: [adaptationId], references: [id], onDelete: Cascade)
+  adaptationId    String
+  platform        String        // NETFLIX | AMAZON_PRIME | HBO_MAX | HULU | ...
+  country         String        @default("US")
+  linkType        String        @default("SUBSCRIPTION") // SUBSCRIPTION | RENT | BUY | FREE_WITH_ADS
+  url             String        // 带 affiliate tag 的跳转链接
+  price           String?       // "$3.99"
+  quality         String?       // SD | HD | 4K
+  lastVerified    DateTime      @default(now())
+
+  @@unique([adaptationId, platform, country, linkType])
+  @@index([adaptationId])
+  @@index([platform])
+  @@index([lastVerified])
+}
+
+// ============================================================
+// 原著-改编差异
+// ============================================================
+
+model BookDifference {
+  id              String        @id @default(cuid())
+  adaptation      Adaptation    @relation(fields: [adaptationId], references: [id], onDelete: Cascade)
+  adaptationId    String
+  category        String        // ENDING | CHARACTER | PLOT | TONE | CUT_CONTENT
+  description     String        // 中文描述
+  descriptionEn   String?       // English translation
+
+  @@index([adaptationId])
+}
+
+// ============================================================
+// 合集/系列（如 The Dark Tower, Castle Rock 宇宙等）
+// ============================================================
+
+model Collection {
+  id              String        @id @default(cuid())
+  slug            String        @unique
+  name            String
+  description     String?
+  members         CollectionMember[]
+
+  createdAt       DateTime      @default(now())
+}
+
+model CollectionMember {
+  id              String        @id @default(cuid())
+  collection      Collection    @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  collectionId    String
+  book            Book          @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  bookId          String
+  order           Int
+
+  @@unique([collectionId, bookId])
+}

@@ -1,0 +1,71 @@
+name: Update Streaming Availability
+
+# Runs daily to refresh JustWatch streaming data
+# Streaming platforms change frequently — this keeps the site accurate
+
+on:
+  schedule:
+    # Daily at 4:17 AM UTC (off-peak)
+    - cron: '17 4 * * *'
+  workflow_dispatch:  # Manual trigger via GitHub Actions UI
+
+jobs:
+  update-streaming:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Prisma client
+        run: npx prisma generate
+        env:
+          DATABASE_URL: 'file:./dev.db'
+
+      - name: Fetch latest streaming data
+        run: npm run pipeline:streaming
+        env:
+          DATABASE_URL: 'file:./dev.db'
+          TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Re-seed database with fresh streaming links
+        run: npx tsx scripts/09-normalize-and-seed.ts
+        env:
+          DATABASE_URL: 'file:./dev.db'
+
+      - name: Commit updated database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add the updated SQLite database and streaming data
+          git add prisma/dev.db data/streaming.json
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No streaming changes detected."
+          else
+            git commit -m "chore: update streaming availability [automated]"
+            git push
+          fi
+
+      - name: Trigger Vercel deploy
+        if: success()
+        run: |
+          if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
+            curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+            echo "Vercel deploy triggered."
+          else
+            echo "VERCEL_DEPLOY_HOOK not set — skipping deploy trigger."
+          fi
