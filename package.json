@@ -17,6 +17,7 @@
     "pipeline:adaptations": "tsx scripts/02-fetch-adaptations.ts",
     "pipeline:ratings": "tsx scripts/04-fetch-ratings.ts",
     "pipeline:posters": "tsx scripts/05-fetch-posters.ts",
+    "pipeline:streaming": "tsx scripts/07-fetch-streaming.ts",
     "pipeline:content": "tsx scripts/08-generate-content.ts",
     "prebuild": "npm run db:generate",
     "postinstall": "npx prisma generate"

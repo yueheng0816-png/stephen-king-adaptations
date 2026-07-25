@@ -30,9 +30,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Data intermediates (committed only final seed data)
-data/adaptations-raw.json
-data/adaptations-with-posters.json
+# Data intermediates (committed for CI pipeline)
 
 # Plaiceholder cache
 public/images/posters/.cache/
