@@ -239,6 +239,5 @@ async function PlatformFooter({ currentPlatform }: { currentPlatform: string }) 
         ))}
       </div>
     </footer>
-    </div>
   );
 }
