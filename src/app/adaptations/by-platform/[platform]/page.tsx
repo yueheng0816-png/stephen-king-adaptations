@@ -201,44 +201,44 @@ export default async function ByPlatformPage({
         );
       })}
 
-      {/* All platforms nav */}
-      <footer className="mt-12 pt-8 border-t">
-        <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mb-3">
-          Browse by Other Platforms
-        </h3>
-        <div className="flex flex-wrap gap-2">
-          {[
-            'NETFLIX',
-            'AMAZON_PRIME',
-            'HBO_MAX',
-            'HULU',
-            'DISNEY_PLUS',
-            'APPLE_TV_PLUS',
-            'PARAMOUNT_PLUS',
-            'PEACOCK',
-            'TUBI',
-            'PLUTO_TV',
-            'FREEVEE',
-            'STARZ',
-            'AMC_PLUS',
-            'YOUTUBE',
-            'VUDU',
-            'ITUNES',
-          ].map(p => (
-            <Link
-              key={p}
-              href={`/adaptations/by-platform/${p.toLowerCase()}`}
-              className={`px-3 py-1.5 rounded-full text-sm font-medium transition-colors ${
-                p === platform
-                  ? 'bg-primary text-primary-foreground'
-                  : 'bg-muted text-muted-foreground hover:bg-muted/70 hover:text-foreground'
-              }`}
-            >
-              {getPlatformLabel(p)}
-            </Link>
-          ))}
-        </div>
-      </footer>
+      {/* All platforms nav — dynamically fetched from actual data */}
+      <PlatformFooter currentPlatform={platform} />
+    </div>
+  );
+}
+
+async function PlatformFooter({ currentPlatform }: { currentPlatform: string }) {
+  const platforms = await prisma.streamingLink.findMany({
+    select: { platform: true },
+    distinct: ['platform'],
+    orderBy: { platform: 'asc' },
+  });
+
+  const platformList = platforms.map(p => p.platform);
+
+  if (platformList.length === 0) return null;
+
+  return (
+    <footer className="mt-12 pt-8 border-t">
+      <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mb-3">
+        Browse by Other Platforms
+      </h3>
+      <div className="flex flex-wrap gap-2">
+        {platformList.map(p => (
+          <Link
+            key={p}
+            href={`/adaptations/by-platform/${p.toLowerCase()}`}
+            className={`px-3 py-1.5 rounded-full text-sm font-medium transition-colors ${
+              p === currentPlatform
+                ? 'bg-primary text-primary-foreground'
+                : 'bg-muted text-muted-foreground hover:bg-muted/70 hover:text-foreground'
+            }`}
+          >
+            {getPlatformLabel(p)}
+          </Link>
+        ))}
+      </div>
+    </footer>
     </div>
   );
 }
