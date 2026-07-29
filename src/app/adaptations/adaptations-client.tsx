@@ -3,6 +3,7 @@
 import { useMemo } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { AdaptationGrid } from '@/components/adaptation/adaptation-grid';
+import { cn } from '@/lib/utils';
 import type { Adaptation, Rating } from '@prisma/client';
 
 type AdaptationWithRelations = Adaptation & {
@@ -11,8 +12,47 @@ type AdaptationWithRelations = Adaptation & {
   book: { title: string; slug: string } | null;
 };
 
-const SELECT_CLASS =
-  'px-3 py-1.5 rounded-lg border border-border bg-background text-foreground text-sm cursor-pointer';
+const TYPES = [
+  { value: '', label: 'All Types' },
+  { value: 'MOVIE', label: 'Movies' },
+  { value: 'TV_SERIES', label: 'TV Series' },
+  { value: 'MINISERIES', label: 'Miniseries' },
+  { value: 'TV_MOVIE', label: 'TV Movies' },
+];
+
+const DECADES = [
+  { value: '', label: 'All Years' },
+  { value: '2020', label: '2020s' },
+  { value: '2010', label: '2010s' },
+  { value: '2000', label: '2000s' },
+  { value: '1990', label: '1990s' },
+  { value: '1980', label: '1980s' },
+  { value: '1970', label: '1970s' },
+];
+
+const RATINGS = [
+  { value: '', label: 'Any Rating' },
+  { value: '8', label: '8+' },
+  { value: '7', label: '7+' },
+  { value: '6', label: '6+' },
+  { value: '5', label: '5+' },
+];
+
+const SORTS = [
+  { value: 'rating', label: 'Top Rated' },
+  { value: 'year_desc', label: 'Newest' },
+  { value: 'year_asc', label: 'Oldest' },
+  { value: 'title', label: 'A–Z' },
+];
+
+function activeClass(selected: boolean) {
+  return cn(
+    'px-3 py-1.5 rounded-full text-sm font-medium border transition-colors',
+    selected
+      ? 'bg-primary text-primary-foreground border-primary'
+      : 'bg-card text-muted-foreground border-border hover:text-foreground hover:border-muted-foreground/40',
+  );
+}
 
 export function AdaptationsClient({
   adaptations,
@@ -25,16 +65,12 @@ export function AdaptationsClient({
   const type = searchParams.get('type') || '';
   const decade = searchParams.get('decade') || '';
   const minRating = searchParams.get('minRating') || '';
-  const platform = searchParams.get('platform') || '';
   const sort = searchParams.get('sort') || 'rating';
 
   const updateParam = (key: string, value: string) => {
     const params = new URLSearchParams(searchParams.toString());
-    if (value) {
-      params.set(key, value);
-    } else {
-      params.delete(key);
-    }
+    if (value) params.set(key, value);
+    else params.delete(key);
     router.push(`/adaptations?${params.toString()}`, { scroll: false });
   };
 
@@ -55,10 +91,6 @@ export function AdaptationsClient({
       result = result.filter(a => a.rating && a.rating >= min);
     }
 
-    if (platform) {
-      result = result.filter(a => a.streamingLinks.some(l => l.platform === platform));
-    }
-
     switch (sort) {
       case 'year_desc':
         result.sort((a, b) => (b.releaseYear || 0) - (a.releaseYear || 0));
@@ -72,68 +104,66 @@ export function AdaptationsClient({
     }
 
     return result;
-  }, [adaptations, type, decade, minRating, platform, sort]);
+  }, [adaptations, type, decade, minRating, sort]);
 
   return (
     <>
-      <div className="flex flex-wrap gap-3 mb-6">
+      {/* Filters */}
+      <div className="space-y-3 mb-8">
         {/* Type */}
-        <select
-          value={type}
-          onChange={e => updateParam('type', e.target.value)}
-          className={SELECT_CLASS}
-        >
-          <option value="">All Types</option>
-          <option value="MOVIE">Movies</option>
-          <option value="TV_SERIES">TV Series</option>
-          <option value="MINISERIES">Miniseries</option>
-          <option value="TV_MOVIE">TV Movies</option>
-        </select>
+        <div className="flex flex-wrap gap-1.5">
+          {TYPES.map(({ value, label }) => (
+            <button
+              key={value}
+              onClick={() => updateParam('type', value)}
+              className={activeClass(type === value || (!type && value === ''))}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
 
         {/* Decade */}
-        <select
-          value={decade}
-          onChange={e => updateParam('decade', e.target.value)}
-          className={SELECT_CLASS}
-        >
-          <option value="">All Years</option>
-          <option value="2020">2020s</option>
-          <option value="2010">2010s</option>
-          <option value="2000">2000s</option>
-          <option value="1990">1990s</option>
-          <option value="1980">1980s</option>
-          <option value="1970">1970s</option>
-        </select>
+        <div className="flex flex-wrap gap-1.5">
+          {DECADES.map(({ value, label }) => (
+            <button
+              key={value}
+              onClick={() => updateParam('decade', value)}
+              className={activeClass(decade === value || (!decade && value === ''))}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
 
-        {/* Rating */}
-        <select
-          value={minRating}
-          onChange={e => updateParam('minRating', e.target.value)}
-          className={SELECT_CLASS}
-        >
-          <option value="">Any Rating</option>
-          <option value="8">8+ / 10</option>
-          <option value="7">7+ / 10</option>
-          <option value="6">6+ / 10</option>
-          <option value="5">5+ / 10</option>
-        </select>
+        {/* Rating + Sort + Count */}
+        <div className="flex flex-wrap items-center gap-1.5">
+          <span className="text-xs text-muted-foreground mr-1">Rating:</span>
+          {RATINGS.map(({ value, label }) => (
+            <button
+              key={value}
+              onClick={() => updateParam('minRating', value)}
+              className={activeClass(minRating === value || (!minRating && value === ''))}
+            >
+              {label}
+            </button>
+          ))}
 
-        {/* Sort */}
-        <select
-          value={sort}
-          onChange={e => updateParam('sort', e.target.value)}
-          className={SELECT_CLASS}
-        >
-          <option value="rating">Top Rated</option>
-          <option value="year_desc">Newest First</option>
-          <option value="year_asc">Oldest First</option>
-          <option value="title">A–Z</option>
-        </select>
+          <span className="text-xs text-muted-foreground ml-4 mr-1">Sort:</span>
+          {SORTS.map(({ value, label }) => (
+            <button
+              key={value}
+              onClick={() => updateParam('sort', value)}
+              className={activeClass(sort === value || (!sort && value === 'rating'))}
+            >
+              {label}
+            </button>
+          ))}
 
-        {/* Count */}
-        <span className="self-center text-sm text-muted-foreground ml-auto">
-          {filtered.length} {filtered.length === 1 ? 'result' : 'results'}
-        </span>
+          <span className="text-sm text-muted-foreground ml-auto">
+            {filtered.length} {filtered.length === 1 ? 'result' : 'results'}
+          </span>
+        </div>
       </div>
 
       <AdaptationGrid adaptations={filtered} />
