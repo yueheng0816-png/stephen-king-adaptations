@@ -3,9 +3,8 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, Film, BookOpen, Globe } from 'lucide-react';
+import { Menu, X, Film, BookOpen } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { useLanguage, type Lang } from '@/lib/i18n';
 
 const NAV_ITEMS = [
   { href: '/adaptations', label: 'Adaptations', icon: Film },
@@ -16,7 +15,6 @@ const NAV_ITEMS = [
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
-  const { lang, setLang } = useLanguage();
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
@@ -51,17 +49,6 @@ export function Header() {
               </Link>
             );
           })}
-
-          {/* Language Toggle */}
-          <button
-            onClick={() => setLang(lang === 'en' ? 'zh' : 'en')}
-            className="flex items-center gap-1 px-2 py-2 rounded-lg text-sm font-medium
-                       text-muted-foreground hover:text-foreground hover:bg-muted transition-colors ml-2"
-            title={lang === 'en' ? 'Switch to 中文' : 'Switch to English'}
-          >
-            <Globe className="w-4 h-4" />
-            <span className="w-7 text-center font-bold">{lang === 'en' ? 'EN' : '中'}</span>
-          </button>
         </nav>
 
         {/* Mobile hamburger */}
@@ -97,16 +84,6 @@ export function Header() {
               </Link>
             );
           })}
-
-          {/* Language Toggle (mobile) */}
-          <button
-            onClick={() => { setLang(lang === 'en' ? 'zh' : 'en'); setMobileOpen(false); }}
-            className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium w-full
-                       text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
-          >
-            <Globe className="w-4 h-4" />
-            {lang === 'en' ? 'Switch to 中文' : '切换到 English'}
-          </button>
         </nav>
       )}
     </header>
