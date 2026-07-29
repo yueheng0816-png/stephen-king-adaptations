@@ -7,10 +7,25 @@ import { Menu, X, Film, BookOpen } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const NAV_ITEMS = [
-  { href: '/adaptations', label: 'Adaptations', icon: Film },
+  { href: '/adaptations', label: 'Adaptations', icon: Film, isParent: true },
   { href: '/adaptations/top', label: 'Top Rated' },
-  { href: '/books', label: 'Books', icon: BookOpen },
+  { href: '/books', label: 'Books', icon: BookOpen, isParent: true },
 ];
+
+function isNavActive(pathname: string, item: (typeof NAV_ITEMS)[number]): boolean {
+  // Exact match
+  if (pathname === item.href) return true;
+  // Parent nav: highlight for child pages (/adaptations/[slug], /adaptations/by-decade/...)
+  // but NOT for sibling nav items (/adaptations/top, /adaptations/by-platform/...)
+  if ('isParent' in item && item.isParent && pathname.startsWith(item.href + '/')) {
+    const siblingMatch = NAV_ITEMS.some(
+      other => other.href !== item.href &&
+        (pathname === other.href || pathname.startsWith(other.href + '/')),
+    );
+    return !siblingMatch;
+  }
+  return false;
+}
 
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -31,7 +46,7 @@ export function Header() {
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-1">
           {NAV_ITEMS.map(item => {
-            const isActive = pathname === item.href || pathname.startsWith(item.href + '/');
+            const isActive = isNavActive(pathname, item);
             const Icon = item.icon;
             return (
               <Link
@@ -65,7 +80,7 @@ export function Header() {
       {mobileOpen && (
         <nav className="md:hidden border-t bg-background px-4 py-3 space-y-1">
           {NAV_ITEMS.map(item => {
-            const isActive = pathname === item.href || pathname.startsWith(item.href + '/');
+            const isActive = isNavActive(pathname, item);
             const Icon = item.icon;
             return (
               <Link
