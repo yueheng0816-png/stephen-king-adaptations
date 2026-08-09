@@ -945,7 +945,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.philo.com/player/show/U2hvdzo2MDg1NDg4OTk2NDg0NjEzODU",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -977,7 +977,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.90e281b2-45b9-4ca7-80fa-bed4de2abab1",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -1659,7 +1659,7 @@
       {
         "platform": "VUDU",
         "linkType": "RENT",
-        "url": "https://athome.fandango.com/content/browse/details/1408-Director-s-Cut-/143773",
+        "url": "https://athome.fandango.com/content/browse/details/1408/688221",
         "price": "$3.99",
         "quality": "4K",
         "country": "US"
@@ -1691,7 +1691,7 @@
       {
         "platform": "VUDU",
         "linkType": "BUY",
-        "url": "https://athome.fandango.com/content/browse/details/1408-Director-s-Cut-/143773",
+        "url": "https://athome.fandango.com/content/browse/details/1408/688221",
         "price": "$12.99",
         "quality": "4K",
         "country": "US"
@@ -2794,7 +2794,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.fubo.tv/welcome/program/MV000714670000?irmp=1206980&irad=599309",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2802,7 +2802,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.5eb49136-ec27-dee5-d799-a70a49af0883",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2810,7 +2810,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://therokuchannel.roku.com/details/0ec860a975985d5c821f3a9672593d63/the-rage-carrie-2?source=bing",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2858,7 +2858,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Rage-Carrie-2/140641",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -3351,7 +3351,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d1f07a3e-9f1d-4cde-9fa9-b954db9308d1",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3367,7 +3367,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Sometimes-They-Come-Back-Again/405296",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3420,7 +3420,7 @@
       {
         "platform": "OTHER",
         "linkType": "SUBSCRIPTION",
-        "url": "https://www.fubo.tv/welcome/program/MV000445850000?irmp=1206980&irad=599309",
+        "url": "https://www.philo.com/player/show/U2hvdzo2MDg1NDg4OTk2NDg1MTE0MjU",
         "price": null,
         "quality": "HD",
         "country": "US"
@@ -4108,7 +4108,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.fubo.tv/welcome/program/MV000346710000?irmp=1206980&irad=599309",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4124,13 +4124,13 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://athome.fandango.com/content/browse/details/The-Lawnmower-Man-Director-s-Cut-/867473",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
         "platform": "TUBI",
         "linkType": "FREE_WITH_ADS",
-        "url": "https://tubitv.com/movies/601184",
+        "url": "https://tubitv.com/movies/608156",
         "price": null,
         "quality": "SD",
         "country": "US"
@@ -4156,7 +4156,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/the-lawnmower-man/umc.cmc.1fi7lbz13xhjjuerpkj8fkl2m?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1514728071",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4172,7 +4172,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a52cfe28-520f-48e4-8038-d88a349e1a66",
         "price": "$6.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4470,7 +4470,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Graveyard-Shift/25780",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4502,7 +4502,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Graveyard-Shift/25780",
         "price": "$9.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -4786,7 +4786,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/a-return-to-salems-lot/umc.cmc.76un5ts0f7j85nfpqtg5bzq9o?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A295417300",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5039,7 +5039,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://tv.youtube.com/browse/UC8p__g0LvDdjnLjnN5HWwfQ",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5051,25 +5051,9 @@
         "country": "US"
       },
       {
-        "platform": "PLUTO_TV",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://pluto.tv/en/live-tv/5ca525b650be2571e3943c63/details/5ca525b650be2571e3943c63",
-        "price": null,
-        "quality": "HD",
-        "country": "US"
-      },
-      {
         "platform": "TUBI",
         "linkType": "FREE_WITH_ADS",
         "url": "https://tubitv.com/movies/100010458",
-        "price": null,
-        "quality": "SD",
-        "country": "US"
-      },
-      {
-        "platform": "OTHER",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://play.xumo.com/live-guide",
         "price": null,
         "quality": "SD",
         "country": "US"
@@ -5087,7 +5071,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Maximum-Overdrive/8367",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5712,69 +5696,77 @@
   {
     "tmdbId": 63201,
     "title": "The Woman in the Room",
-    "justWatchId": "ts10018",
+    "justWatchId": "tm61817",
     "offers": [
       {
-        "platform": "PEACOCK",
+        "platform": "AMC_PLUS",
         "linkType": "SUBSCRIPTION",
-        "url": "https://www.peacocktv.com/watch/asset/tv/the-black-adder/6651009223521777112/seasons/1/episodes/the-foretelling-episode-1/546f1750-c966-3f6c-8e6f-55536d107feb",
+        "url": "https://therokuchannel.roku.com/details/e68c9fce5b3a58e5bd6d1e3f3c116cb5/the-outsiders?source=bing",
         "price": null,
         "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "APPLE_TV_PLUS",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://tv.apple.com",
-        "price": null,
-        "quality": "SD",
-        "country": "US"
-      },
-      {
-        "platform": "OTHER",
-        "linkType": "FREE_WITH_ADS",
-        "url": "https://therokuchannel.roku.com/details/cf6c08faf067571b80d892d743be2100/the-foretelling?source=bing",
-        "price": null,
-        "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "OTHER",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://www.britbox.com/us/episode/Blackadder_S1_E1_p00bf57x",
-        "price": null,
-        "quality": "SD",
         "country": "US"
       },
       {
         "platform": "AMAZON_PRIME",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.86b8f2b3-1d4a-2fe9-26e3-dfce114ba43a",
-        "price": null,
+        "linkType": "RENT",
+        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
+        "price": "$3.99",
+        "quality": "4K",
+        "country": "US"
+      },
+      {
+        "platform": "ITUNES",
+        "linkType": "RENT",
+        "url": "https://tv.apple.com/us/movie/the-outsiders/umc.cmc.75uhk2e0nfsgmx33t69tm55ip?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1584386417",
+        "price": "$3.99",
+        "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "RENT",
+        "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
+        "price": "$3.99",
+        "quality": "4K",
+        "country": "US"
+      },
+      {
+        "platform": "OTHER",
+        "linkType": "RENT",
+        "url": "https://ondemand.spectrum.net/movies/6875/the-outsiders/",
+        "price": "$3.99",
+        "quality": "HD",
+        "country": "US"
+      },
+      {
+        "platform": "OTHER",
+        "linkType": "BUY",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-outsiders-francis-ford-coppola/3630551",
+        "price": "$5.99",
+        "quality": null,
+        "country": "US"
+      },
+      {
+        "platform": "AMAZON_PRIME",
+        "linkType": "BUY",
+        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.f297abf9-1f3e-47cd-9941-896d9d1a6051",
+        "price": "$9.99",
         "quality": "SD",
         "country": "US"
       },
       {
         "platform": "ITUNES",
         "linkType": "BUY",
-        "url": "https://tv.apple.com/us/show/blackadder/umc.cmc.3qs9hyo5c66je1v5m2bdjcy09?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv",
-        "price": "$43.96",
-        "quality": "SD",
+        "url": "https://tv.apple.com/us/movie/the-outsiders/umc.cmc.75uhk2e0nfsgmx33t69tm55ip?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1584386417",
+        "price": "$9.99",
+        "quality": "4K",
         "country": "US"
       },
       {
         "platform": "VUDU",
         "linkType": "BUY",
-        "url": "https://athome.fandango.com/content/browse/details/The-BlackAdder-Season-1/278728",
-        "price": "$43.96",
-        "quality": "SD",
-        "country": "US"
-      },
-      {
-        "platform": "AMAZON_PRIME",
-        "linkType": "BUY",
-        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.26b91eeb-76cb-34c8-aa56-b51a427384d4",
-        "price": "$57.96",
+        "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
+        "price": "$9.99",
         "quality": "SD",
         "country": "US"
       }
@@ -5956,7 +5948,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://tv.youtube.com/browse/UC8fGFgdZMyGj58Mb20jW_XA",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5964,7 +5956,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.youtube.com/watch?v=xHBKJ2_4Wu0",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5984,19 +5976,19 @@
         "country": "US"
       },
       {
+        "platform": "VUDU",
+        "linkType": "RENT",
+        "url": "https://athome.fandango.com/content/browse/details/Carrie/140571",
+        "price": "$2.99",
+        "quality": "SD",
+        "country": "US"
+      },
+      {
         "platform": "ITUNES",
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/carrie/umc.cmc.vhhyrc7hj2kijqr4tyoz6lwl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A387099242",
         "price": "$3.99",
         "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "VUDU",
-        "linkType": "RENT",
-        "url": "https://athome.fandango.com/content/browse/details/Carrie/45091",
-        "price": "$3.99",
-        "quality": "SD",
         "country": "US"
       },
       {
@@ -6008,25 +6000,25 @@
         "country": "US"
       },
       {
-        "platform": "VUDU",
-        "linkType": "BUY",
-        "url": "https://athome.fandango.com/content/browse/details/Carrie/45091",
-        "price": "$9.99",
-        "quality": "HD",
-        "country": "US"
-      },
-      {
         "platform": "AMAZON_PRIME",
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
         "platform": "ITUNES",
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/carrie/umc.cmc.vhhyrc7hj2kijqr4tyoz6lwl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A387099242",
+        "price": "$14.99",
+        "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "BUY",
+        "url": "https://athome.fandango.com/content/browse/details/Carrie/140571",
         "price": "$14.99",
         "quality": "HD",
         "country": "US"
