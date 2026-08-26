@@ -23,7 +23,7 @@
       {
         "platform": "OTHER",
         "linkType": "SUBSCRIPTION",
-        "url": "https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MjU2NTQ0MA",
+        "url": "https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MjYxMjQ0NQ",
         "price": null,
         "quality": "HD",
         "country": "US"
@@ -61,6 +61,22 @@
         "country": "US"
       },
       {
+        "platform": "ITUNES",
+        "linkType": "BUY",
+        "url": "https://tv.apple.com/us/movie/the-long-walk/umc.cmc.4j03c6evpx3y9kx0ntde47g3o?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1838516835",
+        "price": "$9.99",
+        "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "BUY",
+        "url": "https://athome.fandango.com/content/browse/details/The-Long-Walk/4500171",
+        "price": "$9.99",
+        "quality": "4K",
+        "country": "US"
+      },
+      {
         "platform": "OTHER",
         "linkType": "BUY",
         "url": "https://www.amazon.com/dp/B0FNT9RMLY?tag=justwatch09-20&linkCode=osi&th=1&psc=1",
@@ -73,23 +89,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.b2abf2cf-246c-4973-9994-8cf9f685ffc2",
         "price": "$14.99",
-        "quality": "SD",
-        "country": "US"
-      },
-      {
-        "platform": "ITUNES",
-        "linkType": "BUY",
-        "url": "https://tv.apple.com/us/movie/the-long-walk/umc.cmc.4j03c6evpx3y9kx0ntde47g3o?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1838516835",
-        "price": "$14.99",
         "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "VUDU",
-        "linkType": "BUY",
-        "url": "https://athome.fandango.com/content/browse/details/The-Long-Walk/4500171",
-        "price": "$14.99",
-        "quality": "SD",
         "country": "US"
       }
     ]
@@ -850,14 +850,6 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a022550e-78ab-4e80-8dd3-c2d1424522f3",
         "price": null,
-        "quality": "SD",
-        "country": "US"
-      },
-      {
-        "platform": "OTHER",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://www.philo.com/player/show/U2hvdzo2MDg1NDg4OTk2NDg0NjIyNTY",
-        "price": null,
         "quality": "HD",
         "country": "US"
       },
@@ -866,7 +858,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://therokuchannel.roku.com/details/7fd2e4da6aeb558eb9711e62c12ba581/cell?source=bing",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -882,7 +874,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a022550e-78ab-4e80-8dd3-c2d1424522f3",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -898,7 +890,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/cell/umc.cmc.2snbgte9gauf54ptfi1hqldck?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1115549770",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2030,7 +2022,7 @@
       {
         "platform": "OTHER",
         "linkType": "SUBSCRIPTION",
-        "url": "https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MjU1OTg4Mg",
+        "url": "https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MjU3NDQ5Ng",
         "price": null,
         "quality": "HD",
         "country": "US"
@@ -2164,7 +2156,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://therokuchannel.roku.com/details/f2ba2063337d530d83d132a7920b7c10/dreamcatcher?source=bing",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2172,7 +2164,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.youtube.com/watch?v=mD_srrlr2r8",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2212,7 +2204,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2228,14 +2220,6 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/dreamcatcher/umc.cmc.1skpaxb0dbl2xqjfyoo6g6f39?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A289165073",
         "price": "$4.99",
-        "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "VUDU",
-        "linkType": "BUY",
-        "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882",
-        "price": "$6.99",
         "quality": "SD",
         "country": "US"
       },
@@ -2245,6 +2229,14 @@
         "url": "https://gruv.com/products/dreamcatcher-dvd-new-packaging-dvd-_1000111743",
         "price": "$8.99",
         "quality": null,
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "BUY",
+        "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882",
+        "price": "$9.99",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -2558,7 +2550,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.4ec7734d-4112-4dd7-ab58-cc7bbcfe6470",
         "price": "$9.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2574,7 +2566,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Children-of-the-Corn-Revelation/23175",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2731,7 +2723,7 @@
         "platform": "VUDU",
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Green-Mile/9368",
-        "price": "$14.99",
+        "price": "$9.99",
         "quality": "SD",
         "country": "US"
       }
@@ -3414,7 +3406,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.72a9f7a6-dac7-6278-7579-10adec940ea8",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3438,7 +3430,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.plex.tv/live-tv/channel/non-stop-90s?autoplay=1&utm_content=65bd5a538314c24e11553543&utm_medium=deeplink&utm_source=justWatch-linear-catalog",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3453,7 +3445,7 @@
         "platform": "AMAZON_PRIME",
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.72a9f7a6-dac7-6278-7579-10adec940ea8",
-        "price": "$1.99",
+        "price": "$2.99",
         "quality": "SD",
         "country": "US"
       },
@@ -4659,6 +4651,14 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://tv.apple.com",
         "price": null,
+        "quality": "HD",
+        "country": "US"
+      },
+      {
+        "platform": "PLUTO_TV",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://pluto.tv/en/live-tv/687fea9a4fa995eff284a1c8/details/687fea9a4fa995eff284a1c8",
+        "price": null,
         "quality": "SD",
         "country": "US"
       },
@@ -4667,7 +4667,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.116f2c42-ef74-4005-8891-e6ed74917df9",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4675,7 +4675,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/the-running-man/umc.cmc.783yh8n1bffdclcgcu9kko7km?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A291745447",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -4683,7 +4683,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/The-Running-Man/6989",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -4699,7 +4699,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.116f2c42-ef74-4005-8891-e6ed74917df9",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4707,7 +4707,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/the-running-man/umc.cmc.783yh8n1bffdclcgcu9kko7km?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A291745447",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4715,7 +4715,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Running-Man/6989",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       }
     ]
@@ -4975,7 +4975,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5015,7 +5015,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
