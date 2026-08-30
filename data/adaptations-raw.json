@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.864,
-    "voteCount": 1836,
+    "voteAverage": 6.868,
+    "voteCount": 1864,
     "genres": [
       {
         "id": 878,
@@ -125,8 +125,8 @@
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 5.976,
-    "voteCount": 725,
+    "voteAverage": 5.969,
+    "voteCount": 728,
     "genres": [
       {
         "id": 27,
@@ -227,8 +227,8 @@
     "releaseYear": 2020,
     "releaseDate": "2020-12-17",
     "runtime": null,
-    "voteAverage": 6.795,
-    "voteCount": 745,
+    "voteAverage": 6.79,
+    "voteCount": 749,
     "genres": [
       {
         "id": 10765,
@@ -292,7 +292,7 @@
     "releaseDate": "2019-10-30",
     "runtime": 152,
     "voteAverage": 7.145,
-    "voteCount": 5006,
+    "voteCount": 5016,
     "genres": [
       {
         "id": 27,
@@ -401,8 +401,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-20",
     "runtime": 101,
-    "voteAverage": 5.548,
-    "voteCount": 2449,
+    "voteAverage": 5.549,
+    "voteCount": 2452,
     "genres": [
       {
         "id": 27,
@@ -487,8 +487,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-04",
     "runtime": 169,
-    "voteAverage": 6.831,
-    "voteCount": 9788,
+    "voteAverage": 6.83,
+    "voteCount": 9801,
     "genres": [
       {
         "id": 27,
@@ -602,7 +602,7 @@
     "releaseDate": "2019-04-04",
     "runtime": 101,
     "voteAverage": 5.738,
-    "voteCount": 3488,
+    "voteCount": 3492,
     "genres": [
       {
         "id": 27,
@@ -707,8 +707,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.236,
-    "voteCount": 700,
+    "voteAverage": 7.241,
+    "voteCount": 703,
     "genres": [
       {
         "id": 9648,
@@ -805,6 +805,10 @@
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "imdbId": "tt5565634",
@@ -1020,8 +1024,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-29",
     "runtime": 104,
-    "voteAverage": 6.395,
-    "voteCount": 3995,
+    "voteAverage": 6.397,
+    "voteCount": 4004,
     "genres": [
       {
         "id": 27,
@@ -1135,7 +1139,7 @@
     "releaseDate": "2017-09-06",
     "runtime": 135,
     "voteAverage": 7.24,
-    "voteCount": 20575,
+    "voteCount": 20601,
     "genres": [
       {
         "id": 27,
@@ -1249,7 +1253,7 @@
     "releaseDate": "2017-08-09",
     "runtime": null,
     "voteAverage": 7.143,
-    "voteCount": 415,
+    "voteCount": 416,
     "genres": [
       {
         "id": 9648,
@@ -1351,8 +1355,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.806,
-    "voteCount": 5633,
+    "voteAverage": 5.805,
+    "voteCount": 5643,
     "genres": [
       {
         "id": 14,
@@ -1568,8 +1572,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.716,
-    "voteCount": 1160,
+    "voteAverage": 4.713,
+    "voteCount": 1162,
     "genres": [
       {
         "id": 27,
@@ -2012,8 +2016,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.052,
-    "voteCount": 4787,
+    "voteAverage": 6.059,
+    "voteCount": 4803,
     "genres": [
       {
         "id": 18,
@@ -2123,7 +2127,7 @@
     "releaseDate": "2013-06-24",
     "runtime": 42,
     "voteAverage": 7.127,
-    "voteCount": 3931,
+    "voteCount": 3936,
     "genres": [
       {
         "id": 18,
@@ -2218,7 +2222,7 @@
     "releaseYear": 2011,
     "releaseDate": "2011-08-30",
     "runtime": 81,
-    "voteAverage": 4.1,
+    "voteAverage": 4.09,
     "voteCount": 162,
     "genres": [
       {
@@ -2324,8 +2328,8 @@
     "releaseYear": 2010,
     "releaseDate": "2010-07-09",
     "runtime": null,
-    "voteAverage": 7.515,
-    "voteCount": 517,
+    "voteAverage": 7.516,
+    "voteCount": 518,
     "genres": [
       {
         "id": 18,
@@ -2496,12 +2500,16 @@
     "releaseYear": 2009,
     "releaseDate": "2009-06-10",
     "runtime": 92,
-    "voteAverage": 4.456,
+    "voteAverage": 4.5,
     "voteCount": 214,
     "genres": [
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       },
       {
         "id": 10770,
@@ -2554,24 +2562,24 @@
         "order": 5
       },
       {
-        "tmdbId": 1171782,
-        "name": "Jake White",
-        "character": "Oldest Boy",
-        "profilePath": "/Aj86icdRFNvLN7lNnpcJjZefvOB.jpg",
+        "tmdbId": 2676380,
+        "name": "Remington Jennings",
+        "character": "Joseph / Ahaz",
+        "profilePath": null,
         "order": 6
       },
       {
-        "tmdbId": 1211177,
-        "name": "Zita Vass",
-        "character": "Ponytail girl",
-        "profilePath": "/edzMVUQA7UTrKPjeVjXC0gbY543.jpg",
+        "tmdbId": 2676378,
+        "name": "Austin Dreher",
+        "character": "Freckled Face Boy",
+        "profilePath": null,
         "order": 7
       },
       {
-        "tmdbId": 2676371,
-        "name": "Ryan Bertroche",
-        "character": "Amos",
-        "profilePath": "/23CRyCVIgpuzMvaoSbybXmRzF8O.jpg",
+        "tmdbId": 2676377,
+        "name": "Dominic Plue",
+        "character": "Jacob",
+        "profilePath": null,
         "order": 8
       },
       {
@@ -2597,13 +2605,13 @@
     "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
     "overviewCn": null,
     "tagline": "Fear changes everything.",
-    "posterPath": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+    "posterPath": "/c4UgUKZjM0Qzy5t4hAXSOFHYsnb.jpg",
     "backdropPath": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.952,
-    "voteCount": 6027,
+    "voteAverage": 6.953,
+    "voteCount": 6046,
     "genres": [
       {
         "id": 27,
@@ -2818,7 +2826,7 @@
     "tmdbId": 3021,
     "title": "1408",
     "mediaType": "movie",
-    "overview": "A man who specializes in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel. Soon after settling in, he confronts genuine terror.",
+    "overview": "A man who specializes in debunking paranormal occurrences checks into the fabled room 1408 at the Dolphin Hotel. Soon after settling in, he confronts genuine terror.",
     "overviewCn": null,
     "tagline": "The Dolphin Hotel invites you to stay in any of its stunning rooms. Except one.",
     "posterPath": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
@@ -2826,8 +2834,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.693,
-    "voteCount": 5019,
+    "voteAverage": 6.694,
+    "voteCount": 5033,
     "genres": [
       {
         "id": 27,
@@ -3168,7 +3176,7 @@
     "releaseYear": 2005,
     "releaseDate": "2005-11-29",
     "runtime": 84,
-    "voteAverage": 4.3,
+    "voteAverage": 4.288,
     "voteCount": 33,
     "genres": [
       {
@@ -3182,8 +3190,8 @@
     ],
     "imdbId": "tt0449066",
     "director": {
-      "tmdbId": 101487,
-      "name": "Erik Gardner",
+      "tmdbId": 101486,
+      "name": "Matt Cunningham",
       "profilePath": null
     },
     "cast": [
@@ -3385,8 +3393,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-03-12",
     "runtime": 96,
-    "voteAverage": 6.564,
-    "voteCount": 4002,
+    "voteAverage": 6.562,
+    "voteCount": 4010,
     "genres": [
       {
         "id": 9648,
@@ -3719,8 +3727,8 @@
     "releaseYear": 2003,
     "releaseDate": "2003-03-21",
     "runtime": 134,
-    "voteAverage": 5.646,
-    "voteCount": 1950,
+    "voteAverage": 5.648,
+    "voteCount": 1954,
     "genres": [
       {
         "id": 18,
@@ -3952,8 +3960,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.154,
-    "voteCount": 572,
+    "voteAverage": 6.15,
+    "voteCount": 573,
     "genres": [
       {
         "id": 27,
@@ -4229,12 +4237,16 @@
     "releaseYear": 2001,
     "releaseDate": "2001-10-09",
     "runtime": 82,
-    "voteAverage": 3.9,
+    "voteAverage": 3.91,
     "voteCount": 134,
     "genres": [
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "imdbId": "tt0279730",
@@ -4441,8 +4453,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-12-10",
     "runtime": 189,
-    "voteAverage": 8.505,
-    "voteCount": 19662,
+    "voteAverage": 8.506,
+    "voteCount": 19700,
     "genres": [
       {
         "id": 14,
@@ -4563,8 +4575,8 @@
         "name": "Horror"
       },
       {
-        "id": 9648,
-        "name": "Mystery"
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "imdbId": "tt0177625",
@@ -4665,8 +4677,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-03-12",
     "runtime": 105,
-    "voteAverage": 5.6,
-    "voteCount": 476,
+    "voteAverage": 5.654,
+    "voteCount": 478,
     "genres": [
       {
         "id": 27,
@@ -4885,8 +4897,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.539,
-    "voteCount": 747,
+    "voteAverage": 6.535,
+    "voteCount": 751,
     "genres": [
       {
         "id": 18,
@@ -5102,7 +5114,7 @@
     "releaseYear": 1997,
     "releaseDate": "1997-10-29",
     "runtime": 99,
-    "voteAverage": 4.6,
+    "voteAverage": 4.598,
     "voteCount": 92,
     "genres": [
       {
@@ -5338,8 +5350,8 @@
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 5.98,
-    "voteCount": 271,
+    "voteAverage": 5.983,
+    "voteCount": 272,
     "genres": [
       {
         "id": 27,
@@ -5445,8 +5457,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.907,
-    "voteCount": 691,
+    "voteAverage": 5.905,
+    "voteCount": 692,
     "genres": [
       {
         "id": 14,
@@ -5495,21 +5507,21 @@
       {
         "tmdbId": 163979,
         "name": "John Horton",
-        "character": "Judge Cary Rossington",
+        "character": "Cary Rossington",
         "profilePath": "/6c1x9prTCTcG3DyZ8l6pqvTEobk.jpg",
         "order": 4
       },
       {
         "tmdbId": 161547,
         "name": "Sam Freed",
-        "character": "Dr. Mike Houston",
+        "character": "Mike Houston",
         "profilePath": "/weMB6f1gB2SeUcOr56O9EB0lWuX.jpg",
         "order": 5
       },
       {
         "tmdbId": 1473,
         "name": "Daniel von Bargen",
-        "character": "Chief Duncan Hopley",
+        "character": "Duncan Hopley",
         "profilePath": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg",
         "order": 6
       },
@@ -5555,12 +5567,16 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-08",
     "runtime": 85,
-    "voteAverage": 4.5,
+    "voteAverage": 4.48,
     "voteCount": 177,
     "genres": [
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "imdbId": "tt0115885",
@@ -5657,7 +5673,7 @@
     "releaseYear": 1996,
     "releaseDate": "1996-09-03",
     "runtime": 98,
-    "voteAverage": 4.8,
+    "voteAverage": 4.796,
     "voteCount": 115,
     "genres": [
       {
@@ -5759,8 +5775,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-01-12",
     "runtime": 92,
-    "voteAverage": 3.3,
-    "voteCount": 178,
+    "voteAverage": 3.299,
+    "voteCount": 179,
     "genres": [
       {
         "id": 878,
@@ -5987,8 +6003,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.258,
-    "voteCount": 900,
+    "voteAverage": 7.263,
+    "voteCount": 902,
     "genres": [
       {
         "id": 80,
@@ -6101,8 +6117,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-03",
     "runtime": 106,
-    "voteAverage": 4.9,
-    "voteCount": 279,
+    "voteAverage": 4.898,
+    "voteCount": 280,
     "genres": [
       {
         "id": 27,
@@ -6208,12 +6224,12 @@
     "overviewCn": null,
     "tagline": "Fear can hold you prisoner. Hope can set you free.",
     "posterPath": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdropPath": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
     "voteAverage": 8.728,
-    "voteCount": 31112,
+    "voteCount": 31171,
     "genres": [
       {
         "id": 18,
@@ -6322,8 +6338,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-05-08",
     "runtime": 90,
-    "voteAverage": 6.807,
-    "voteCount": 528,
+    "voteAverage": 6.805,
+    "voteCount": 529,
     "genres": [
       {
         "id": 10765,
@@ -6414,8 +6430,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-08-27",
     "runtime": 121,
-    "voteAverage": 6.27,
-    "voteCount": 625,
+    "voteAverage": 6.269,
+    "voteCount": 626,
     "genres": [
       {
         "id": 18,
@@ -6524,7 +6540,7 @@
     "releaseYear": 1993,
     "releaseDate": "1993-04-23",
     "runtime": 122,
-    "voteAverage": 6,
+    "voteAverage": 5.975,
     "voteCount": 483,
     "genres": [
       {
@@ -6634,8 +6650,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.484,
-    "voteCount": 615,
+    "voteAverage": 5.481,
+    "voteCount": 616,
     "genres": [
       {
         "id": 27,
@@ -6740,8 +6756,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-04-10",
     "runtime": 89,
-    "voteAverage": 6.1,
-    "voteCount": 637,
+    "voteAverage": 6.08,
+    "voteCount": 641,
     "genres": [
       {
         "id": 27,
@@ -6855,7 +6871,7 @@
     "releaseDate": "1992-03-05",
     "runtime": 108,
     "voteAverage": 5.642,
-    "voteCount": 865,
+    "voteCount": 867,
     "genres": [
       {
         "id": 878,
@@ -6964,12 +6980,16 @@
     "releaseYear": 1992,
     "releaseDate": "1992-01-29",
     "runtime": 92,
-    "voteAverage": 4.801,
+    "voteAverage": 4.8,
     "voteCount": 286,
     "genres": [
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "imdbId": "tt0106557",
@@ -7065,14 +7085,18 @@
     "overview": "When an explosion at a top-secret government lab injures an elderly janitor, no one could have expected the terrifying results. Exposure to mysterious chemicals causes him to undergo a bizarre transformation. He is slowly... incredibly... growing younger every day. Now, a ruthless CIA assassin will stop at nothing to take him prisoner and turn him into a government guinea pig. With his future on the line, the janitor goes on the run with his wife and a feisty female agent. All the while, he continues to transform... into a being with powers that are as deadly as they are unimaginable.",
     "overviewCn": null,
     "tagline": null,
-    "posterPath": "/bO2jXElkXGkEWPHRToQqcXGc3xS.jpg",
+    "posterPath": "/2vm3INII79AlRZpXQXieilugmVW.jpg",
     "backdropPath": "/zs6xvFiPJdFDtnO5nJORfHw1FnD.jpg",
     "releaseYear": 1991,
     "releaseDate": "1991-07-16",
     "runtime": 232,
-    "voteAverage": 5.763,
+    "voteAverage": 5.8,
     "voteCount": 57,
     "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
       {
         "id": 878,
         "name": "Science Fiction"
@@ -7084,10 +7108,6 @@
       {
         "id": 10770,
         "name": "TV Movie"
-      },
-      {
-        "id": 27,
-        "name": "Horror"
       }
     ],
     "imdbId": "tt0101206",
@@ -7299,7 +7319,7 @@
     "releaseDate": "1990-11-30",
     "runtime": 107,
     "voteAverage": 7.754,
-    "voteCount": 5356,
+    "voteCount": 5369,
     "genres": [
       {
         "id": 18,
@@ -7408,8 +7428,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-10-26",
     "runtime": 89,
-    "voteAverage": 5.369,
-    "voteCount": 305,
+    "voteAverage": 5.37,
+    "voteCount": 307,
     "genres": [
       {
         "id": 27,
@@ -7423,7 +7443,7 @@
         "tmdbId": 7219,
         "name": "David Andrews",
         "character": "John Hall",
-        "profilePath": null,
+        "profilePath": "/s5jEvhtGrYptw3Mmv7bejvcAKLv.jpg",
         "order": 0
       },
       {
@@ -7512,7 +7532,7 @@
     "releaseDate": "1990-05-03",
     "runtime": 93,
     "voteAverage": 6.188,
-    "voteCount": 437,
+    "voteCount": 438,
     "genres": [
       {
         "id": 53,
@@ -7629,8 +7649,8 @@
     "releaseYear": 1989,
     "releaseDate": "1989-04-21",
     "runtime": 103,
-    "voteAverage": 6.655,
-    "voteCount": 2437,
+    "voteAverage": 6.653,
+    "voteCount": 2443,
     "genres": [
       {
         "id": 27,
@@ -7736,7 +7756,7 @@
     "releaseDate": "1987-11-13",
     "runtime": 101,
     "voteAverage": 6.54,
-    "voteCount": 2938,
+    "voteCount": 2946,
     "genres": [
       {
         "id": 28,
@@ -7845,8 +7865,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-09-11",
     "runtime": 100,
-    "voteAverage": 5.906,
-    "voteCount": 323,
+    "voteAverage": 5.897,
+    "voteCount": 324,
     "genres": [
       {
         "id": 27,
@@ -8065,8 +8085,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-08-08",
     "runtime": 89,
-    "voteAverage": 7.832,
-    "voteCount": 6677,
+    "voteAverage": 7.833,
+    "voteCount": 6696,
     "genres": [
       {
         "id": 18,
@@ -8151,7 +8171,7 @@
         "tmdbId": 3041,
         "name": "Marshall Bell",
         "character": "Mr. Lachance",
-        "profilePath": "/zLa0DdHu1pvEme0DyylltLh08rY.jpg",
+        "profilePath": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg",
         "order": 9
       }
     ],
@@ -8175,8 +8195,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-07-13",
     "runtime": 98,
-    "voteAverage": 5.8,
-    "voteCount": 882,
+    "voteAverage": 5.834,
+    "voteCount": 886,
     "genres": [
       {
         "id": 27,
@@ -8285,8 +8305,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.674,
-    "voteCount": 717,
+    "voteAverage": 6.678,
+    "voteCount": 720,
     "genres": [
       {
         "id": 27,
@@ -8393,8 +8413,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-04-12",
     "runtime": 94,
-    "voteAverage": 6.738,
-    "voteCount": 754,
+    "voteAverage": 6.746,
+    "voteCount": 757,
     "genres": [
       {
         "id": 27,
@@ -8504,8 +8524,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-05-11",
     "runtime": 114,
-    "voteAverage": 6.25,
-    "voteCount": 786,
+    "voteAverage": 6.254,
+    "voteCount": 788,
     "genres": [
       {
         "id": 27,
@@ -8538,7 +8558,7 @@
         "tmdbId": 18181,
         "name": "David Keith",
         "character": "Andrew McGee",
-        "profilePath": "/zY0egiQb1iLx74GxcKgYOHNEgRM.jpg",
+        "profilePath": "/ayfqRXPc3GFUXIMQ4bkrIe1B6hs.jpg",
         "order": 1
       },
       {
@@ -8618,8 +8638,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-03-09",
     "runtime": 92,
-    "voteAverage": 5.734,
-    "voteCount": 1157,
+    "voteAverage": 5.732,
+    "voteCount": 1161,
     "genres": [
       {
         "id": 27,
@@ -8729,7 +8749,7 @@
     "releaseDate": "1983-12-09",
     "runtime": 110,
     "voteAverage": 6.878,
-    "voteCount": 2306,
+    "voteCount": 2312,
     "genres": [
       {
         "id": 27,
@@ -8834,8 +8854,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7.008,
-    "voteCount": 1884,
+    "voteAverage": 7.014,
+    "voteCount": 1893,
     "genres": [
       {
         "id": 53,
@@ -8949,8 +8969,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-08-10",
     "runtime": 93,
-    "voteAverage": 6.2,
-    "voteCount": 1157,
+    "voteAverage": 6.176,
+    "voteCount": 1161,
     "genres": [
       {
         "id": 18,
@@ -9130,8 +9150,8 @@
     "releaseYear": 1982,
     "releaseDate": "1982-11-10",
     "runtime": 120,
-    "voteAverage": 6.892,
-    "voteCount": 1179,
+    "voteAverage": 6.891,
+    "voteCount": 1180,
     "genres": [
       {
         "id": 27,
@@ -9241,7 +9261,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19248,
+    "voteCount": 19283,
     "genres": [
       {
         "id": 27,
@@ -9256,7 +9276,7 @@
     "director": {
       "tmdbId": 240,
       "name": "Stanley Kubrick",
-      "profilePath": "/exfQ6vXXq7rMS5YWb3B88PK39a1.jpg"
+      "profilePath": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
     },
     "cast": [
       {
@@ -9351,8 +9371,8 @@
     "releaseYear": 1976,
     "releaseDate": "1976-11-03",
     "runtime": 98,
-    "voteAverage": 7.337,
-    "voteCount": 4390,
+    "voteAverage": 7.339,
+    "voteCount": 4405,
     "genres": [
       {
         "id": 27,
