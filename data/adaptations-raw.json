@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.868,
-    "voteCount": 1864,
+    "voteAverage": 6.9,
+    "voteCount": 1889,
     "genres": [
       {
         "id": 878,
@@ -49,31 +49,31 @@
         "order": 1
       },
       {
+        "tmdbId": 1446466,
+        "name": "Garrett Wareing",
+        "character": "Billy Stebbins #38",
+        "profilePath": "/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg",
+        "order": 2
+      },
+      {
         "tmdbId": 3033265,
         "name": "Ben Wang",
         "character": "Hank Olson #46",
         "profilePath": "/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg",
-        "order": 2
+        "order": 3
       },
       {
         "tmdbId": 2362672,
         "name": "Tut Nyuot",
         "character": "Arthur Baker #6",
         "profilePath": "/nnQCY629iCcf5veJ7pJVG6onMgC.jpg",
-        "order": 3
+        "order": 4
       },
       {
         "tmdbId": 1440574,
         "name": "Charlie Plummer",
         "character": "Gary Barkovitch #5",
         "profilePath": "/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg",
-        "order": 4
-      },
-      {
-        "tmdbId": 1446466,
-        "name": "Garrett Wareing",
-        "character": "Stebbins #38",
-        "profilePath": "/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg",
         "order": 5
       },
       {
@@ -125,8 +125,8 @@
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 5.969,
-    "voteCount": 728,
+    "voteAverage": 5.966,
+    "voteCount": 731,
     "genres": [
       {
         "id": 27,
@@ -227,8 +227,8 @@
     "releaseYear": 2020,
     "releaseDate": "2020-12-17",
     "runtime": null,
-    "voteAverage": 6.79,
-    "voteCount": 749,
+    "voteAverage": 6.795,
+    "voteCount": 751,
     "genres": [
       {
         "id": 10765,
@@ -269,6 +269,13 @@
         "character": "Abagail \"Mother Abagail\" Freemantle",
         "profilePath": "/78LZMMzNUJVfLI1MObxejScwZz5.jpg",
         "order": 3
+      },
+      {
+        "tmdbId": 55085,
+        "name": "Amber Heard",
+        "character": "Nadine  Cross",
+        "profilePath": "/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg",
+        "order": 14
       }
     ],
     "countries": [
@@ -291,8 +298,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-10-30",
     "runtime": 152,
-    "voteAverage": 7.145,
-    "voteCount": 5016,
+    "voteAverage": 7.147,
+    "voteCount": 5029,
     "genres": [
       {
         "id": 27,
@@ -321,7 +328,7 @@
         "tmdbId": 933238,
         "name": "Rebecca Ferguson",
         "character": "Rose the Hat",
-        "profilePath": "/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg",
+        "profilePath": "/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
         "order": 1
       },
       {
@@ -401,8 +408,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-20",
     "runtime": 101,
-    "voteAverage": 5.549,
-    "voteCount": 2452,
+    "voteAverage": 5.55,
+    "voteCount": 2455,
     "genres": [
       {
         "id": 27,
@@ -487,8 +494,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-04",
     "runtime": 169,
-    "voteAverage": 6.83,
-    "voteCount": 9801,
+    "voteAverage": 6.831,
+    "voteCount": 9815,
     "genres": [
       {
         "id": 27,
@@ -602,7 +609,7 @@
     "releaseDate": "2019-04-04",
     "runtime": 101,
     "voteAverage": 5.738,
-    "voteCount": 3492,
+    "voteCount": 3494,
     "genres": [
       {
         "id": 27,
@@ -707,8 +714,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.241,
-    "voteCount": 703,
+    "voteAverage": 7.238,
+    "voteCount": 705,
     "genres": [
       {
         "id": 9648,
@@ -909,8 +916,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-10-20",
     "runtime": 102,
-    "voteAverage": 5.947,
-    "voteCount": 2958,
+    "voteAverage": 5.9,
+    "voteCount": 2961,
     "genres": [
       {
         "id": 27,
@@ -1025,7 +1032,7 @@
     "releaseDate": "2017-09-29",
     "runtime": 104,
     "voteAverage": 6.397,
-    "voteCount": 4004,
+    "voteCount": 4010,
     "genres": [
       {
         "id": 27,
@@ -1138,8 +1145,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-06",
     "runtime": 135,
-    "voteAverage": 7.24,
-    "voteCount": 20601,
+    "voteAverage": 7.2,
+    "voteCount": 20624,
     "genres": [
       {
         "id": 27,
@@ -1252,8 +1259,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.143,
-    "voteCount": 416,
+    "voteAverage": 7.145,
+    "voteCount": 418,
     "genres": [
       {
         "id": 9648,
@@ -1356,7 +1363,7 @@
     "releaseDate": "2017-08-03",
     "runtime": 95,
     "voteAverage": 5.805,
-    "voteCount": 5643,
+    "voteCount": 5653,
     "genres": [
       {
         "id": 14,
@@ -1469,8 +1476,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.172,
-    "voteCount": 858,
+    "voteAverage": 6.167,
+    "voteCount": 860,
     "genres": [
       {
         "id": 10765,
@@ -1572,8 +1579,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.713,
-    "voteCount": 1162,
+    "voteAverage": 4.71,
+    "voteCount": 1166,
     "genres": [
       {
         "id": 27,
@@ -1681,12 +1688,12 @@
     "overview": "Tess Thorne, a famous writer, is determined to seek revenge on the man who brutally assaulted and raped her on a desolate New England road.",
     "overviewCn": null,
     "tagline": "Murder is a two-way street.",
-    "posterPath": "/eOGZagunINGbIMMDXSJnzKJ1Ai4.jpg",
-    "backdropPath": "/qv1wx1r4i0mvU0Bv9ISowKFkjMS.jpg",
+    "posterPath": "/wm2CQU8EjKG75acaMhv9iqnunf.jpg",
+    "backdropPath": "/c5RgeZszp75puLH9NXOyZkyvWiS.jpg",
     "releaseYear": 2014,
     "releaseDate": "2014-10-18",
     "runtime": 87,
-    "voteAverage": 5.704,
+    "voteAverage": 5.7,
     "voteCount": 235,
     "genres": [
       {
@@ -1910,8 +1917,8 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-03",
     "runtime": 103,
-    "voteAverage": 5.337,
-    "voteCount": 523,
+    "voteAverage": 5.3,
+    "voteCount": 527,
     "genres": [
       {
         "id": 53,
@@ -2016,8 +2023,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.059,
-    "voteCount": 4803,
+    "voteAverage": 6.063,
+    "voteCount": 4813,
     "genres": [
       {
         "id": 18,
@@ -2126,8 +2133,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-06-24",
     "runtime": 42,
-    "voteAverage": 7.127,
-    "voteCount": 3936,
+    "voteAverage": 7.126,
+    "voteCount": 3938,
     "genres": [
       {
         "id": 18,
@@ -2500,7 +2507,7 @@
     "releaseYear": 2009,
     "releaseDate": "2009-06-10",
     "runtime": 92,
-    "voteAverage": 4.5,
+    "voteAverage": 4.456,
     "voteCount": 214,
     "genres": [
       {
@@ -2529,42 +2536,42 @@
       {
         "tmdbId": 52507,
         "name": "Kandyse McClure",
-        "character": "Vicki",
+        "character": "Vicky",
         "profilePath": "/1GrvidW5ekjsTdhVKOvDAKXGfOY.jpg",
         "order": 1
+      },
+      {
+        "tmdbId": 2676380,
+        "name": "Remington Jennings",
+        "character": "Joseph / Ahaz",
+        "profilePath": null,
+        "order": 2
       },
       {
         "tmdbId": 1536670,
         "name": "Daniel Newman",
         "character": "Malachai",
         "profilePath": "/6e0BCLANpZeMRIskzNYesD6rXDM.jpg",
-        "order": 2
+        "order": 3
       },
       {
         "tmdbId": 80378,
         "name": "Preston Bailey",
         "character": "Issac",
         "profilePath": "/zRHivZKs5VzDdmI1dI6W0bGOKmX.jpg",
-        "order": 3
+        "order": 4
       },
       {
         "tmdbId": 1025970,
         "name": "Robert Gerdisch",
         "character": "Preacher Boy",
         "profilePath": "/3elsct6GHyd8RsDtgwNHneRCd8Y.jpg",
-        "order": 4
+        "order": 5
       },
       {
         "tmdbId": 2676381,
         "name": "Jordan Schmidt",
         "character": "Bloody Knife Boy",
-        "profilePath": null,
-        "order": 5
-      },
-      {
-        "tmdbId": 2676380,
-        "name": "Remington Jennings",
-        "character": "Joseph / Ahaz",
         "profilePath": null,
         "order": 6
       },
@@ -2610,8 +2617,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.953,
-    "voteCount": 6046,
+    "voteAverage": 6.954,
+    "voteCount": 6061,
     "genres": [
       {
         "id": 27,
@@ -2700,7 +2707,7 @@
         "tmdbId": 28109,
         "name": "Alexa Davalos",
         "character": "Sally",
-        "profilePath": "/d5R2gsdPwXvWyPYpYT4O5EcIqbC.jpg",
+        "profilePath": "/9kgPMNyjc7TTRReF5Gv0d3tMkBk.jpg",
         "order": 9
       }
     ],
@@ -2834,8 +2841,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.694,
-    "voteCount": 5033,
+    "voteAverage": 6.693,
+    "voteCount": 5045,
     "genres": [
       {
         "id": 27,
@@ -3190,8 +3197,8 @@
     ],
     "imdbId": "tt0449066",
     "director": {
-      "tmdbId": 101486,
-      "name": "Matt Cunningham",
+      "tmdbId": 101487,
+      "name": "Erik Gardner",
       "profilePath": null
     },
     "cast": [
@@ -3279,8 +3286,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-10-15",
     "runtime": 98,
-    "voteAverage": 5.069,
-    "voteCount": 224,
+    "voteAverage": 5.073,
+    "voteCount": 225,
     "genres": [
       {
         "id": 18,
@@ -3394,7 +3401,7 @@
     "releaseDate": "2004-03-12",
     "runtime": 96,
     "voteAverage": 6.562,
-    "voteCount": 4010,
+    "voteCount": 4012,
     "genres": [
       {
         "id": 9648,
@@ -3597,7 +3604,7 @@
     "tmdbId": 16175,
     "title": "The Diary of Ellen Rimbauer",
     "mediaType": "movie",
-    "overview": "Set at the turn of the century, this is the tale of Ellen Rimbauer who just received this mysterious mansion as a wedding gift from her new husband...",
+    "overview": "“The Diary of Ellen Rimbauer\" follows the story of the twisted marriage of matriarch Ellen Rimbauer to the promiscuous early 20th-century industrialist, John Rimbauer, and the haunted beginnings of an enormous Seattle mansion that has come to life. Based on the best-selling novel by Ridley Pearson, passages of the diary track a series of deadly encounters surrounding the Rose Red Estate that transform Ellen Rimbauer from the innocent and submissive wife of a wealthy industrialist into a woman possessed by the dark forces inhabiting her home.",
     "overviewCn": null,
     "tagline": null,
     "posterPath": "/fjTzrF9m2hC8OF4Q1umM5CPoeK9.jpg",
@@ -3710,7 +3717,7 @@
     "countries": [
       "US"
     ],
-    "budget": null,
+    "budget": 6000000,
     "revenue": null,
     "numberOfSeasons": null,
     "numberOfEpisodes": null
@@ -3727,8 +3734,8 @@
     "releaseYear": 2003,
     "releaseDate": "2003-03-21",
     "runtime": 134,
-    "voteAverage": 5.648,
-    "voteCount": 1954,
+    "voteAverage": 5.65,
+    "voteCount": 1958,
     "genres": [
       {
         "id": 18,
@@ -3960,8 +3967,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.15,
-    "voteCount": 573,
+    "voteAverage": 6.151,
+    "voteCount": 575,
     "genres": [
       {
         "id": 27,
@@ -4075,8 +4082,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-06-16",
     "runtime": null,
-    "voteAverage": 7.314,
-    "voteCount": 175,
+    "voteAverage": 7.313,
+    "voteCount": 176,
     "genres": [
       {
         "id": 18,
@@ -4286,7 +4293,7 @@
       },
       {
         "tmdbId": 134708,
-        "name": "Michael J Rogers",
+        "name": "Michael J. Rogers",
         "character": "Stan",
         "profilePath": "/zJ7OpRS5RhBdA2Rf2glpH4mxMJu.jpg",
         "order": 4
@@ -4347,8 +4354,8 @@
     "releaseYear": 2001,
     "releaseDate": "2001-09-28",
     "runtime": 101,
-    "voteAverage": 6.775,
-    "voteCount": 637,
+    "voteAverage": 6.777,
+    "voteCount": 638,
     "genres": [
       {
         "id": 18,
@@ -4380,7 +4387,7 @@
         "tmdbId": 15250,
         "name": "Hope Davis",
         "character": "Elizabeth 'Liz' Garfield",
-        "profilePath": "/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg",
+        "profilePath": "/t2cuZK3D4x2j2DaDbD5lu0SM2Lv.jpg",
         "order": 2
       },
       {
@@ -4454,7 +4461,7 @@
     "releaseDate": "1999-12-10",
     "runtime": 189,
     "voteAverage": 8.506,
-    "voteCount": 19700,
+    "voteCount": 19744,
     "genres": [
       {
         "id": 14,
@@ -4897,8 +4904,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.535,
-    "voteCount": 751,
+    "voteAverage": 6.534,
+    "voteCount": 754,
     "genres": [
       {
         "id": 18,
@@ -4917,17 +4924,17 @@
     },
     "cast": [
       {
-        "tmdbId": 51214,
-        "name": "Brad Renfro",
-        "character": "Todd Bowden",
-        "profilePath": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg",
-        "order": 0
-      },
-      {
         "tmdbId": 1327,
         "name": "Ian McKellen",
         "character": "Kurt Dussander",
         "profilePath": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg",
+        "order": 0
+      },
+      {
+        "tmdbId": 51214,
+        "name": "Brad Renfro",
+        "character": "Todd Bowden",
+        "profilePath": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg",
         "order": 1
       },
       {
@@ -4952,24 +4959,24 @@
         "order": 4
       },
       {
-        "tmdbId": 14409,
-        "name": "David Schwimmer",
-        "character": "Edward French",
-        "profilePath": "/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg",
-        "order": 5
-      },
-      {
         "tmdbId": 61151,
         "name": "Jan Tříska",
         "character": "Isaac Weiskopf",
         "profilePath": "/bbHPT2Xa27RSy77uGfJPhuquhSo.jpg",
-        "order": 6
+        "order": 5
       },
       {
         "tmdbId": 742,
         "name": "Michael Byrne",
         "character": "Ben Kramer",
         "profilePath": "/cWUhkJPdyPFbWAskmTuzgEXYR8X.jpg",
+        "order": 6
+      },
+      {
+        "tmdbId": 22248,
+        "name": "Heather McComb",
+        "character": "Becky Trask",
+        "profilePath": "/AhZ4n5qfZ4j0H6A1GQkMAeSOpcU.jpg",
         "order": 7
       },
       {
@@ -4980,10 +4987,10 @@
         "order": 8
       },
       {
-        "tmdbId": 22248,
-        "name": "Heather McComb",
-        "character": "Becky Trask",
-        "profilePath": "/AhZ4n5qfZ4j0H6A1GQkMAeSOpcU.jpg",
+        "tmdbId": 11866,
+        "name": "Joshua Jackson",
+        "character": "Joey",
+        "profilePath": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg",
         "order": 9
       }
     ],
@@ -5108,14 +5115,14 @@
     "mediaType": "movie",
     "overview": "A group of seemingly humanistic trucks takeover a truck stop and starts killing everything in sight. The remaining townsfolk must band together and come up with a way to murder the inanimate objects, a seemingly difficult task considering the abnormal circumstances.",
     "overviewCn": null,
-    "tagline": "U-TURN, YOU DIE!",
+    "tagline": "U-TURN, U-DIE!",
     "posterPath": "/aJN2BNCUSfrOftshzSginQNILPk.jpg",
-    "backdropPath": "/7ccuPWLIkAVERmvuwzwAP0hQOVU.jpg",
+    "backdropPath": "/5cjJSK0zBu8tqRmV6qE8cu2TuUi.jpg",
     "releaseYear": 1997,
     "releaseDate": "1997-10-29",
     "runtime": 99,
-    "voteAverage": 4.598,
-    "voteCount": 92,
+    "voteAverage": 4.581,
+    "voteCount": 93,
     "genres": [
       {
         "id": 27,
@@ -5305,7 +5312,7 @@
         "tmdbId": 5047,
         "name": "Veronica Cartwright",
         "character": "Myra",
-        "profilePath": "/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg",
+        "profilePath": "/fRa2mQ3iQz2m3zaFAiHoNRlVtFb.jpg",
         "order": 6
       },
       {
@@ -5346,11 +5353,11 @@
     "overviewCn": null,
     "tagline": "Evil has a flight plan.",
     "posterPath": "/3bMb6CzdKfpw0pZWVW2RbQRneIC.jpg",
-    "backdropPath": "/5iOZanJYpxfmexpG7RQwi9qAZHM.jpg",
+    "backdropPath": "/ffq9emGt0d2xrxDG0v0V1rcPWoU.jpg",
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 5.983,
+    "voteAverage": 6,
     "voteCount": 272,
     "genres": [
       {
@@ -5457,8 +5464,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.905,
-    "voteCount": 692,
+    "voteAverage": 5.904,
+    "voteCount": 693,
     "genres": [
       {
         "id": 14,
@@ -6003,8 +6010,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.263,
-    "voteCount": 902,
+    "voteAverage": 7.262,
+    "voteCount": 904,
     "genres": [
       {
         "id": 80,
@@ -6117,8 +6124,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-03",
     "runtime": 106,
-    "voteAverage": 4.898,
-    "voteCount": 280,
+    "voteAverage": 4.895,
+    "voteCount": 282,
     "genres": [
       {
         "id": 27,
@@ -6228,8 +6235,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
-    "voteAverage": 8.728,
-    "voteCount": 31171,
+    "voteAverage": 8.73,
+    "voteCount": 31237,
     "genres": [
       {
         "id": 18,
@@ -6338,8 +6345,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-05-08",
     "runtime": 90,
-    "voteAverage": 6.805,
-    "voteCount": 529,
+    "voteAverage": 6.808,
+    "voteCount": 530,
     "genres": [
       {
         "id": 10765,
@@ -6430,8 +6437,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-08-27",
     "runtime": 121,
-    "voteAverage": 6.269,
-    "voteCount": 626,
+    "voteAverage": 6.267,
+    "voteCount": 628,
     "genres": [
       {
         "id": 18,
@@ -6540,8 +6547,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-04-23",
     "runtime": 122,
-    "voteAverage": 5.975,
-    "voteCount": 483,
+    "voteAverage": 5.973,
+    "voteCount": 484,
     "genres": [
       {
         "id": 9648,
@@ -6651,7 +6658,7 @@
     "releaseDate": "1992-08-28",
     "runtime": 100,
     "voteAverage": 5.481,
-    "voteCount": 616,
+    "voteCount": 617,
     "genres": [
       {
         "id": 27,
@@ -6757,7 +6764,7 @@
     "releaseDate": "1992-04-10",
     "runtime": 89,
     "voteAverage": 6.08,
-    "voteCount": 641,
+    "voteCount": 642,
     "genres": [
       {
         "id": 27,
@@ -6870,8 +6877,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-03-05",
     "runtime": 108,
-    "voteAverage": 5.642,
-    "voteCount": 867,
+    "voteAverage": 5.639,
+    "voteCount": 869,
     "genres": [
       {
         "id": 878,
@@ -6980,7 +6987,7 @@
     "releaseYear": 1992,
     "releaseDate": "1992-01-29",
     "runtime": 92,
-    "voteAverage": 4.8,
+    "voteAverage": 4.801,
     "voteCount": 286,
     "genres": [
       {
@@ -7218,6 +7225,14 @@
       {
         "id": 10770,
         "name": "TV Movie"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
       }
     ],
     "imdbId": "tt0102960",
@@ -7318,8 +7333,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-11-30",
     "runtime": 107,
-    "voteAverage": 7.754,
-    "voteCount": 5369,
+    "voteAverage": 7.753,
+    "voteCount": 5382,
     "genres": [
       {
         "id": 18,
@@ -7649,8 +7664,8 @@
     "releaseYear": 1989,
     "releaseDate": "1989-04-21",
     "runtime": 103,
-    "voteAverage": 6.653,
-    "voteCount": 2443,
+    "voteAverage": 6.655,
+    "voteCount": 2450,
     "genres": [
       {
         "id": 27,
@@ -7755,8 +7770,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-11-13",
     "runtime": 101,
-    "voteAverage": 6.54,
-    "voteCount": 2946,
+    "voteAverage": 6.539,
+    "voteCount": 2956,
     "genres": [
       {
         "id": 28,
@@ -7865,8 +7880,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-09-11",
     "runtime": 100,
-    "voteAverage": 5.897,
-    "voteCount": 324,
+    "voteAverage": 5.903,
+    "voteCount": 325,
     "genres": [
       {
         "id": 27,
@@ -7975,8 +7990,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-05-01",
     "runtime": 92,
-    "voteAverage": 6.243,
-    "voteCount": 667,
+    "voteAverage": 6.241,
+    "voteCount": 668,
     "genres": [
       {
         "id": 27,
@@ -8086,7 +8101,7 @@
     "releaseDate": "1986-08-08",
     "runtime": 89,
     "voteAverage": 7.833,
-    "voteCount": 6696,
+    "voteCount": 6710,
     "genres": [
       {
         "id": 18,
@@ -8195,8 +8210,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-07-13",
     "runtime": 98,
-    "voteAverage": 5.834,
-    "voteCount": 886,
+    "voteAverage": 5.833,
+    "voteCount": 890,
     "genres": [
       {
         "id": 27,
@@ -8305,8 +8320,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.678,
-    "voteCount": 720,
+    "voteAverage": 6.681,
+    "voteCount": 722,
     "genres": [
       {
         "id": 27,
@@ -8414,7 +8429,7 @@
     "releaseDate": "1985-04-12",
     "runtime": 94,
     "voteAverage": 6.746,
-    "voteCount": 757,
+    "voteCount": 758,
     "genres": [
       {
         "id": 27,
@@ -8436,7 +8451,7 @@
         "tmdbId": 69597,
         "name": "Drew Barrymore",
         "character": "Our Girl",
-        "profilePath": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
+        "profilePath": "/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg",
         "order": 0
       },
       {
@@ -8524,8 +8539,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-05-11",
     "runtime": 114,
-    "voteAverage": 6.254,
-    "voteCount": 788,
+    "voteAverage": 6.259,
+    "voteCount": 790,
     "genres": [
       {
         "id": 27,
@@ -8551,7 +8566,7 @@
         "tmdbId": 69597,
         "name": "Drew Barrymore",
         "character": "Charlie McGee",
-        "profilePath": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
+        "profilePath": "/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg",
         "order": 0
       },
       {
@@ -8639,7 +8654,7 @@
     "releaseDate": "1984-03-09",
     "runtime": 92,
     "voteAverage": 5.732,
-    "voteCount": 1161,
+    "voteCount": 1164,
     "genres": [
       {
         "id": 27,
@@ -8748,8 +8763,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-12-09",
     "runtime": 110,
-    "voteAverage": 6.878,
-    "voteCount": 2312,
+    "voteAverage": 6.877,
+    "voteCount": 2314,
     "genres": [
       {
         "id": 27,
@@ -8855,7 +8870,7 @@
     "releaseDate": "1983-10-21",
     "runtime": 103,
     "voteAverage": 7.014,
-    "voteCount": 1893,
+    "voteCount": 1894,
     "genres": [
       {
         "id": 53,
@@ -8970,7 +8985,7 @@
     "releaseDate": "1983-08-10",
     "runtime": 93,
     "voteAverage": 6.176,
-    "voteCount": 1161,
+    "voteCount": 1163,
     "genres": [
       {
         "id": 18,
@@ -9150,8 +9165,8 @@
     "releaseYear": 1982,
     "releaseDate": "1982-11-10",
     "runtime": 120,
-    "voteAverage": 6.891,
-    "voteCount": 1180,
+    "voteAverage": 6.895,
+    "voteCount": 1182,
     "genres": [
       {
         "id": 27,
@@ -9261,7 +9276,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19283,
+    "voteCount": 19315,
     "genres": [
       {
         "id": 27,
@@ -9371,8 +9386,8 @@
     "releaseYear": 1976,
     "releaseDate": "1976-11-03",
     "runtime": 98,
-    "voteAverage": 7.339,
-    "voteCount": 4405,
+    "voteAverage": 7.341,
+    "voteCount": 4411,
     "genres": [
       {
         "id": 27,
