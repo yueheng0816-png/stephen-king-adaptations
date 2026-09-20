@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.873,
-    "voteCount": 1914,
+    "voteAverage": 6.864,
+    "voteCount": 1937,
     "genres": [
       {
         "id": 878,
@@ -121,12 +121,12 @@
     "overviewCn": null,
     "tagline": "Be careful what you invite inside.",
     "posterPath": "/vCUpo94Qm6DhV5fkQF4xMPsKCP8.jpg",
-    "backdropPath": "/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
+    "backdropPath": "/hJpTWcFlucIOOo5WEuYN0w69fJi.jpg",
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 6,
-    "voteCount": 736,
+    "voteAverage": 5.968,
+    "voteCount": 739,
     "genres": [
       {
         "id": 27,
@@ -298,8 +298,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-10-30",
     "runtime": 152,
-    "voteAverage": 7.146,
-    "voteCount": 5041,
+    "voteAverage": 7.148,
+    "voteCount": 5049,
     "genres": [
       {
         "id": 27,
@@ -409,7 +409,7 @@
     "releaseDate": "2019-09-20",
     "runtime": 101,
     "voteAverage": 5.552,
-    "voteCount": 2461,
+    "voteCount": 2463,
     "genres": [
       {
         "id": 27,
@@ -494,8 +494,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-04",
     "runtime": 169,
-    "voteAverage": 6.829,
-    "voteCount": 9835,
+    "voteAverage": 6.83,
+    "voteCount": 9843,
     "genres": [
       {
         "id": 27,
@@ -608,8 +608,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-04-04",
     "runtime": 101,
-    "voteAverage": 5.738,
-    "voteCount": 3500,
+    "voteAverage": 5.737,
+    "voteCount": 3503,
     "genres": [
       {
         "id": 27,
@@ -714,8 +714,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.239,
-    "voteCount": 706,
+    "voteAverage": 7.238,
+    "voteCount": 707,
     "genres": [
       {
         "id": 9648,
@@ -806,7 +806,7 @@
     "releaseYear": 2018,
     "releaseDate": "2018-03-13",
     "runtime": 82,
-    "voteAverage": 4.587,
+    "voteAverage": 4.6,
     "voteCount": 86,
     "genres": [
       {
@@ -917,7 +917,7 @@
     "releaseDate": "2017-10-20",
     "runtime": 102,
     "voteAverage": 5.948,
-    "voteCount": 2967,
+    "voteCount": 2970,
     "genres": [
       {
         "id": 27,
@@ -1031,8 +1031,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-29",
     "runtime": 104,
-    "voteAverage": 6.397,
-    "voteCount": 4013,
+    "voteAverage": 6.4,
+    "voteCount": 4020,
     "genres": [
       {
         "id": 27,
@@ -1146,7 +1146,7 @@
     "releaseDate": "2017-09-06",
     "runtime": 135,
     "voteAverage": 7.241,
-    "voteCount": 20660,
+    "voteCount": 20675,
     "genres": [
       {
         "id": 27,
@@ -1186,7 +1186,7 @@
         "tmdbId": 1481238,
         "name": "Sophia Lillis",
         "character": "Beverly Marsh",
-        "profilePath": "/AscFyjYymxGtBtIZf1TX98VSgrY.jpg",
+        "profilePath": "/4jUkLBBhGnFi6LymePzWVw4oVFa.jpg",
         "order": 2
       },
       {
@@ -1259,8 +1259,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.151,
-    "voteCount": 420,
+    "voteAverage": 7.153,
+    "voteCount": 422,
     "genres": [
       {
         "id": 9648,
@@ -1362,8 +1362,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.807,
-    "voteCount": 5663,
+    "voteAverage": 5.808,
+    "voteCount": 5673,
     "genres": [
       {
         "id": 14,
@@ -1476,8 +1476,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.173,
-    "voteCount": 862,
+    "voteAverage": 6.175,
+    "voteCount": 865,
     "genres": [
       {
         "id": 10765,
@@ -1579,8 +1579,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.71,
-    "voteCount": 1169,
+    "voteAverage": 4.713,
+    "voteCount": 1171,
     "genres": [
       {
         "id": 27,
@@ -1613,7 +1613,7 @@
         "tmdbId": 2231,
         "name": "Samuel L. Jackson",
         "character": "Thomas 'Tom' McCourt",
-        "profilePath": "/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg",
+        "profilePath": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
         "order": 1
       },
       {
@@ -1693,7 +1693,7 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-18",
     "runtime": 87,
-    "voteAverage": 5.7,
+    "voteAverage": 5.704,
     "voteCount": 235,
     "genres": [
       {
@@ -2023,8 +2023,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.064,
-    "voteCount": 4819,
+    "voteAverage": 6.067,
+    "voteCount": 4826,
     "genres": [
       {
         "id": 18,
@@ -2133,8 +2133,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-06-24",
     "runtime": 42,
-    "voteAverage": 7.124,
-    "voteCount": 3944,
+    "voteAverage": 7.126,
+    "voteCount": 3947,
     "genres": [
       {
         "id": 18,
@@ -2229,7 +2229,7 @@
     "releaseYear": 2011,
     "releaseDate": "2011-08-30",
     "runtime": 81,
-    "voteAverage": 4.089,
+    "voteAverage": 4.1,
     "voteCount": 163,
     "genres": [
       {
@@ -2507,7 +2507,7 @@
     "releaseYear": 2009,
     "releaseDate": "2009-06-10",
     "runtime": 92,
-    "voteAverage": 4.447,
+    "voteAverage": 4.4,
     "voteCount": 216,
     "genres": [
       {
@@ -2617,8 +2617,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.953,
-    "voteCount": 6079,
+    "voteAverage": 7,
+    "voteCount": 6085,
     "genres": [
       {
         "id": 27,
@@ -2731,8 +2731,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-10-26",
     "runtime": 126,
-    "voteAverage": 6.9,
-    "voteCount": 79,
+    "voteAverage": 6.905,
+    "voteCount": 80,
     "genres": [
       {
         "id": 53,
@@ -2842,7 +2842,7 @@
     "releaseDate": "2007-06-22",
     "runtime": 104,
     "voteAverage": 6.7,
-    "voteCount": 5061,
+    "voteCount": 5068,
     "genres": [
       {
         "id": 27,
@@ -2871,7 +2871,7 @@
         "tmdbId": 2231,
         "name": "Samuel L. Jackson",
         "character": "Gerald Olin",
-        "profilePath": "/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg",
+        "profilePath": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
         "order": 1
       },
       {
@@ -3073,7 +3073,7 @@
     "releaseYear": 2006,
     "releaseDate": "2006-04-24",
     "runtime": 104,
-    "voteAverage": 4.528,
+    "voteAverage": 4.5,
     "voteCount": 215,
     "genres": [
       {
@@ -3197,8 +3197,8 @@
     ],
     "imdbId": "tt0449066",
     "director": {
-      "tmdbId": 101487,
-      "name": "Erik Gardner",
+      "tmdbId": 101486,
+      "name": "Matt Cunningham",
       "profilePath": null
     },
     "cast": [
@@ -3400,8 +3400,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-03-12",
     "runtime": 96,
-    "voteAverage": 6.562,
-    "voteCount": 4020,
+    "voteAverage": 6.563,
+    "voteCount": 4022,
     "genres": [
       {
         "id": 9648,
@@ -3735,7 +3735,7 @@
     "releaseDate": "2003-03-21",
     "runtime": 134,
     "voteAverage": 5.655,
-    "voteCount": 1965,
+    "voteCount": 1967,
     "genres": [
       {
         "id": 18,
@@ -3967,8 +3967,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.147,
-    "voteCount": 577,
+    "voteAverage": 6.2,
+    "voteCount": 578,
     "genres": [
       {
         "id": 27,
@@ -4082,8 +4082,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-06-16",
     "runtime": null,
-    "voteAverage": 7.311,
-    "voteCount": 177,
+    "voteAverage": 7.303,
+    "voteCount": 178,
     "genres": [
       {
         "id": 18,
@@ -4140,7 +4140,7 @@
     "releaseYear": 2002,
     "releaseDate": "2002-02-26",
     "runtime": 97,
-    "voteAverage": 3.459,
+    "voteAverage": 3.5,
     "voteCount": 37,
     "genres": [
       {
@@ -4244,7 +4244,7 @@
     "releaseYear": 2001,
     "releaseDate": "2001-10-09",
     "runtime": 82,
-    "voteAverage": 3.911,
+    "voteAverage": 3.9,
     "voteCount": 135,
     "genres": [
       {
@@ -4354,8 +4354,8 @@
     "releaseYear": 2001,
     "releaseDate": "2001-09-28",
     "runtime": 101,
-    "voteAverage": 6.78,
-    "voteCount": 643,
+    "voteAverage": 6.773,
+    "voteCount": 644,
     "genres": [
       {
         "id": 18,
@@ -4461,7 +4461,7 @@
     "releaseDate": "1999-12-10",
     "runtime": 189,
     "voteAverage": 8.506,
-    "voteCount": 19790,
+    "voteCount": 19816,
     "genres": [
       {
         "id": 14,
@@ -4574,7 +4574,7 @@
     "releaseYear": 1999,
     "releaseDate": "1999-10-19",
     "runtime": 82,
-    "voteAverage": 4.557,
+    "voteAverage": 4.6,
     "voteCount": 210,
     "genres": [
       {
@@ -4684,8 +4684,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-03-12",
     "runtime": 105,
-    "voteAverage": 5.649,
-    "voteCount": 480,
+    "voteAverage": 5.669,
+    "voteCount": 486,
     "genres": [
       {
         "id": 27,
@@ -4904,8 +4904,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.534,
-    "voteCount": 755,
+    "voteAverage": 6.536,
+    "voteCount": 756,
     "genres": [
       {
         "id": 18,
@@ -5015,7 +5015,7 @@
     "releaseYear": 1998,
     "releaseDate": "1998-06-21",
     "runtime": 83,
-    "voteAverage": 4.149,
+    "voteAverage": 4.1,
     "voteCount": 188,
     "genres": [
       {
@@ -5357,7 +5357,7 @@
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 5.984,
+    "voteAverage": 6,
     "voteCount": 273,
     "genres": [
       {
@@ -5464,7 +5464,7 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.9,
+    "voteAverage": 5.903,
     "voteCount": 695,
     "genres": [
       {
@@ -5574,7 +5574,7 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-08",
     "runtime": 85,
-    "voteAverage": 4.48,
+    "voteAverage": 4.5,
     "voteCount": 179,
     "genres": [
       {
@@ -5628,7 +5628,7 @@
         "tmdbId": 8499,
         "name": "William Windom",
         "character": "Doctor Rob Larson",
-        "profilePath": "/2CGxCqMFRCosNuyF5jnOLIgDljw.jpg",
+        "profilePath": "/jLKGf2gQR4cBDnUWFOsXY2y5Pui.jpg",
         "order": 5
       },
       {
@@ -5896,11 +5896,11 @@
     "overviewCn": null,
     "tagline": "In the heart of a city, an adult nightmare is about to be reborn...",
     "posterPath": "/xTNGI3MGTlOTiYU9ucfWd79kV2k.jpg",
-    "backdropPath": "/1PkEymGA97ZNodZNgHN2RnHl1Wg.jpg",
+    "backdropPath": "/c2JSNywZp3ifP9Ea8NSvLkfv57h.jpg",
     "releaseYear": 1995,
     "releaseDate": "1995-09-12",
     "runtime": 90,
-    "voteAverage": 4.801,
+    "voteAverage": 4.8,
     "voteCount": 234,
     "genres": [
       {
@@ -6006,12 +6006,12 @@
     "overviewCn": null,
     "tagline": "Sometimes, an accident can be an unhappy woman's best friend.",
     "posterPath": "/yqY5h9kI456xXRWv6u9t0Axn9CS.jpg",
-    "backdropPath": "/9vJ57nbL4hWJrmsyjKTxiGXqrBU.jpg",
+    "backdropPath": "/puWAyIPaujRp1Nvp4Ikzc5nEIb0.jpg",
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.262,
-    "voteCount": 904,
+    "voteAverage": 7.3,
+    "voteCount": 905,
     "genres": [
       {
         "id": 80,
@@ -6124,8 +6124,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-03",
     "runtime": 106,
-    "voteAverage": 4.895,
-    "voteCount": 282,
+    "voteAverage": 4.899,
+    "voteCount": 283,
     "genres": [
       {
         "id": 27,
@@ -6231,12 +6231,12 @@
     "overviewCn": null,
     "tagline": "Fear can hold you prisoner. Hope can set you free.",
     "posterPath": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdropPath": "/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+    "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
     "voteAverage": 8.731,
-    "voteCount": 31304,
+    "voteCount": 31359,
     "genres": [
       {
         "id": 18,
@@ -6345,8 +6345,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-05-08",
     "runtime": 90,
-    "voteAverage": 6.808,
-    "voteCount": 530,
+    "voteAverage": 6.81,
+    "voteCount": 531,
     "genres": [
       {
         "id": 10765,
@@ -6657,8 +6657,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.48,
-    "voteCount": 618,
+    "voteAverage": 5.487,
+    "voteCount": 619,
     "genres": [
       {
         "id": 27,
@@ -6987,7 +6987,7 @@
     "releaseYear": 1992,
     "releaseDate": "1992-01-29",
     "runtime": 92,
-    "voteAverage": 4.801,
+    "voteAverage": 4.8,
     "voteCount": 287,
     "genres": [
       {
@@ -7177,7 +7177,7 @@
         "tmdbId": 40275,
         "name": "Tim Guinee",
         "character": "Fredericks",
-        "profilePath": "/bl2kh12pzVORh6oavx0zYeuefl1.jpg",
+        "profilePath": "/4ceLJK0hD8DhRBARGxfodluK8Bh.jpg",
         "order": 7
       },
       {
@@ -7334,7 +7334,7 @@
     "releaseDate": "1990-11-30",
     "runtime": 107,
     "voteAverage": 7.754,
-    "voteCount": 5403,
+    "voteCount": 5412,
     "genres": [
       {
         "id": 18,
@@ -7664,8 +7664,8 @@
     "releaseYear": 1989,
     "releaseDate": "1989-04-21",
     "runtime": 103,
-    "voteAverage": 6.653,
-    "voteCount": 2457,
+    "voteAverage": 6.655,
+    "voteCount": 2461,
     "genres": [
       {
         "id": 27,
@@ -7771,7 +7771,7 @@
     "releaseDate": "1987-11-13",
     "runtime": 101,
     "voteAverage": 6.541,
-    "voteCount": 2968,
+    "voteCount": 2972,
     "genres": [
       {
         "id": 28,
@@ -7990,7 +7990,7 @@
     "releaseYear": 1987,
     "releaseDate": "1987-05-01",
     "runtime": 92,
-    "voteAverage": 6.235,
+    "voteAverage": 6.2,
     "voteCount": 671,
     "genres": [
       {
@@ -8101,7 +8101,7 @@
     "releaseDate": "1986-08-08",
     "runtime": 89,
     "voteAverage": 7.834,
-    "voteCount": 6734,
+    "voteCount": 6746,
     "genres": [
       {
         "id": 18,
@@ -8654,7 +8654,7 @@
     "releaseDate": "1984-03-09",
     "runtime": 92,
     "voteAverage": 5.73,
-    "voteCount": 1167,
+    "voteCount": 1168,
     "genres": [
       {
         "id": 27,
@@ -8764,7 +8764,7 @@
     "releaseDate": "1983-12-09",
     "runtime": 110,
     "voteAverage": 6.875,
-    "voteCount": 2321,
+    "voteCount": 2324,
     "genres": [
       {
         "id": 27,
@@ -8869,8 +8869,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7.013,
-    "voteCount": 1898,
+    "voteAverage": 7.012,
+    "voteCount": 1900,
     "genres": [
       {
         "id": 53,
@@ -8896,7 +8896,7 @@
         "tmdbId": 4690,
         "name": "Christopher Walken",
         "character": "Johnny Smith",
-        "profilePath": "/wShPFtq1fjTH4zx7W6SeKsO9Npz.jpg",
+        "profilePath": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg",
         "order": 0
       },
       {
@@ -8985,7 +8985,7 @@
     "releaseDate": "1983-08-10",
     "runtime": 93,
     "voteAverage": 6.18,
-    "voteCount": 1166,
+    "voteCount": 1167,
     "genres": [
       {
         "id": 18,
@@ -9165,8 +9165,8 @@
     "releaseYear": 1982,
     "releaseDate": "1982-11-10",
     "runtime": 120,
-    "voteAverage": 6.9,
-    "voteCount": 1190,
+    "voteAverage": 6.902,
+    "voteCount": 1192,
     "genres": [
       {
         "id": 27,
@@ -9276,7 +9276,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19352,
+    "voteCount": 19377,
     "genres": [
       {
         "id": 27,
@@ -9298,7 +9298,7 @@
         "tmdbId": 514,
         "name": "Jack Nicholson",
         "character": "Jack Torrance",
-        "profilePath": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+        "profilePath": "/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg",
         "order": 0
       },
       {
@@ -9387,7 +9387,7 @@
     "releaseDate": "1976-11-03",
     "runtime": 98,
     "voteAverage": 7.341,
-    "voteCount": 4431,
+    "voteCount": 4439,
     "genres": [
       {
         "id": 27,
