@@ -9,7 +9,15 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.b2abf2cf-246c-4973-9994-8cf9f685ffc2",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://www.fandango.com/the-long-walk-2025-240615/movie-overview",
+        "price": null,
+        "quality": null,
         "country": "US"
       },
       {
@@ -25,7 +33,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.b2abf2cf-246c-4973-9994-8cf9f685ffc2",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -33,7 +41,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/The-Long-Walk/4500171",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -41,7 +49,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/the-long-walk/umc.cmc.4j03c6evpx3y9kx0ntde47g3o?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1838516835",
         "price": "$5.99",
-        "quality": "4K",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -65,7 +73,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.b2abf2cf-246c-4973-9994-8cf9f685ffc2",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -73,7 +81,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/the-long-walk/umc.cmc.4j03c6evpx3y9kx0ntde47g3o?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1838516835",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -81,7 +89,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Long-Walk/4500171",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       }
     ]
@@ -96,7 +104,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.57dbc3f7-185f-46bc-87ea-32c9620e7ad4",
         "price": null,
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       }
     ]
@@ -190,7 +198,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d0ba67c7-8453-86af-ec48-3e36ebb805d3",
         "price": "$5.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -198,7 +206,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/doctor-sleep/umc.cmc.6fd2cc9lb6s8ktn2smfh2tmp?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1483982171",
         "price": "$5.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -206,7 +214,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Doctor-Sleep/1279298",
         "price": "$5.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -222,7 +230,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d0ba67c7-8453-86af-ec48-3e36ebb805d3",
         "price": "$7.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -268,7 +276,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -292,7 +300,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/it-chapter-two/umc.cmc.696nxlzfifs6t1h6hi8d9nlux?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1477409210",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -300,7 +308,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/It-Chapter-Two/1159756",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -308,7 +316,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f",
         "price": "$7.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -324,7 +332,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/it-chapter-two/umc.cmc.696nxlzfifs6t1h6hi8d9nlux?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1477409210",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -347,7 +355,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.paramountplus.com/movies/pet-sematary/_pv_OqjNGiWc67M0M3pCYUnM2G5c_DhP?searchReferral=publisher&source=search-feeds",
         "price": null,
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -355,7 +363,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.0eb4ecd0-88d8-2d86-04a1-0eefc4c3da01",
         "price": null,
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -363,7 +371,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.kanopy.com/product/justwatch-16059194",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -379,7 +387,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.0eb4ecd0-88d8-2d86-04a1-0eefc4c3da01",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -387,7 +395,7 @@
         "linkType": "RENT",
         "url": "https://ondemand.spectrum.net/movies/16080296/pet-sematary/",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -395,7 +403,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/pet-sematary/umc.cmc.4w2dnmtnaosfuk3f9ollsnowu?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1456351512",
         "price": "$5.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -419,7 +427,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.0eb4ecd0-88d8-2d86-04a1-0eefc4c3da01",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -427,7 +435,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/pet-sematary/umc.cmc.4w2dnmtnaosfuk3f9ollsnowu?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1456351512",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -435,7 +443,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Pet-Sematary-2019-/1089241",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -592,7 +600,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.netflix.com/watch/80135164",
         "price": null,
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       }
     ]
@@ -607,7 +615,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.netflix.com/watch/80128722",
         "price": null,
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       }
     ]
@@ -639,6 +647,14 @@
         "url": "https://www.amc.com/movies/it-2017--1073219",
         "price": null,
         "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "OTHER",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://www.cinepolisusa.com/movie/5-it",
+        "price": null,
+        "quality": null,
         "country": "US"
       },
       {
@@ -678,7 +694,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.62af1664-3079-0727-4e69-e328de055f13",
         "price": "$9.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -686,7 +702,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/it/umc.cmc.5x3xgjig5ocx63puqy9px8jgq?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1275323693",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -740,7 +756,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.fubo.tv/welcome/program/MV008661750000?irmp=1206980&irad=599309",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -764,7 +780,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.f8aecd3a-8804-3125-1027-61ab635ad4a6",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -788,7 +804,7 @@
         "linkType": "RENT",
         "url": "https://ondemand.spectrum.net/movies/12676586/the-dark-tower/",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -820,7 +836,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Dark-Tower/865262",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -1024,7 +1040,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/mercy/umc.cmc.4vtgmsxipcnkboczohr2nvovv?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A922167563",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -1032,7 +1048,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Mercy/574335",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -1040,7 +1056,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.42a9f730-794c-a7b8-d012-60665034b31d",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2056,7 +2072,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.fubo.tv/welcome/program/MV001465950000?irmp=1206980&irad=599309",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2088,7 +2104,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a6a9f6b8-6dbd-3ffc-7d34-0ce8e1679384",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2112,7 +2128,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Secret-Window/41017",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2128,7 +2144,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a6a9f6b8-6dbd-3ffc-7d34-0ce8e1679384",
         "price": "$12.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2144,7 +2160,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Secret-Window/41017",
         "price": "$13.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -2245,7 +2261,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.plex.tv/live-tv/channel/horror-stories?autoplay=1&utm_content=66b136d2a9ef8c41ec0841ae&utm_medium=deeplink&utm_source=justWatch-linear-catalog",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2261,7 +2277,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.82a9f65b-a949-d0be-db18-62955dddb054",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2277,7 +2293,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2285,7 +2301,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.82a9f65b-a949-d0be-db18-62955dddb054",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2309,7 +2325,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882",
         "price": "$9.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -3495,7 +3511,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.72a9f7a6-dac7-6278-7579-10adec940ea8",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3503,7 +3519,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://therokuchannel.roku.com/details/6cd254318a055528aa4f54c4afd79c88/lawnmower-man-2-beyond-cyberspace?source=bing",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3511,7 +3527,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://athome.fandango.com/content/browse/details/Lawnmower-Man-2-Beyond-Cyberspace/1564916",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3519,7 +3535,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.youtube.com/watch?v=NjlxiId5BQc",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3559,7 +3575,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/lawnmower-man-2-beyond-cyberspace/umc.cmc.37zkk41lfoclanjn7a65je145?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1538254245",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3677,7 +3693,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.f6a9f7ad-d9e0-b68a-3bcb-c76c66602425",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3685,7 +3701,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/dolores-claiborne/umc.cmc.1g8us2ogs0c351eo0pw93hf14?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A297061504",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3693,7 +3709,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Dolores-Claiborne/9178",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3717,7 +3733,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/dolores-claiborne/umc.cmc.1g8us2ogs0c351eo0pw93hf14?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A297061504",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3725,7 +3741,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Dolores-Claiborne/9178",
         "price": "$5.00",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -3976,7 +3992,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.kanopy.com/product/justwatch-13811800",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4000,7 +4016,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/the-dark-half/umc.cmc.1l7856rumkce2i022ujux2nt0?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A865596714",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4032,7 +4048,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Dark-Half/140677",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       }
     ]
@@ -4047,7 +4063,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.paramountplus.com/movies/pet-sematary-ii/XVjjozVzWWN82ssLM4i_UyoLkzzB1Uf6?searchReferral=publisher&source=search-feeds",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4071,7 +4087,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/pet-sematary-two/umc.cmc.3ppjf6zk3ls9urwbboa0xdew?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A305363991",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4087,7 +4103,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.4a92ec0c-ef6b-4354-a094-51187b3e44d5",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4103,7 +4119,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/pet-sematary-two/umc.cmc.3ppjf6zk3ls9urwbboa0xdew?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A305363991",
         "price": "$12.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4472,7 +4488,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.amc.com/movies/misery--1055224",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4480,7 +4496,7 @@
         "linkType": "RENT",
         "url": "https://ondemand.spectrum.net/movies/12891/misery/",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4496,7 +4512,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.f83c3e80-4b2d-4774-96bd-dfe2ba2928ce",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4512,7 +4528,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Misery/13584",
         "price": "$14.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       }
     ]
@@ -4709,7 +4725,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.4582ee73-83ca-465c-84ee-71ea9d67f390",
         "price": null,
-        "quality": "4K",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4717,7 +4733,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.kanopy.com/product/justwatch-15187551",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4741,7 +4757,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/pet-sematary/umc.cmc.6mu30xwnam5rb7uywvnkzaoqp?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A212848151",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4749,7 +4765,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Pet-Sematary-1989-/16593",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5081,7 +5097,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.596ecfbd-591b-4e11-8a87-e128eb529596",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5089,7 +5105,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.596ecfbd-591b-4e11-8a87-e128eb529596",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5113,7 +5129,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/stand-by-me/umc.cmc.o1f68kw690wa5x8h3n52abkw?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A263821729",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5121,7 +5137,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Stand-by-Me/12466",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5137,7 +5153,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/stand-by-me/umc.cmc.o1f68kw690wa5x8h3n52abkw?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A263821729",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5145,7 +5161,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Stand-by-Me/12466",
         "price": "$13.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5492,7 +5508,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.fubo.tv/welcome/program/MV000166850000?irmp=1206980&irad=599309",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5516,7 +5532,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.55deb4e1-ad55-4547-94cf-1dcf2bc4d2b9",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5540,7 +5556,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/children-of-the-corn/umc.cmc.93ltbd40pkpu281xlwd8zqz9?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1837845326",
         "price": "$4.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5556,7 +5572,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.55deb4e1-ad55-4547-94cf-1dcf2bc4d2b9",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5595,7 +5611,15 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.criterionchannel.com/christine-1",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://www.fandango.com/christine-40th-anniversary-232201/movie-overview",
+        "price": null,
+        "quality": null,
         "country": "US"
       },
       {
@@ -5619,7 +5643,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Christine/14371",
         "price": "$3.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5627,7 +5651,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/christine/umc.cmc.5kzmip5fwsr7zzjdqyt6dvrpa?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A292384353",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5635,7 +5659,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Christine/14371",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5666,7 +5690,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.paramountplus.com/movies/dead-zone/1_8Z7FZc3dITj9Xh7sVOlWiewX7UvN9X?searchReferral=publisher&source=search-feeds",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5682,7 +5706,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.historyvault.com/collections/asset-details/the-dead-zone",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5730,7 +5754,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/the-dead-zone/umc.cmc.2e3vnnqsgm1v4uh48utlylo9n?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A267736390",
         "price": "$6.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5738,7 +5762,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Dead-Zone/16592",
         "price": "$6.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5769,7 +5793,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.youtube.com/watch?v=Wjh86zJ0yOg",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5777,7 +5801,7 @@
         "linkType": "RENT",
         "url": "https://www.justwatch.com/us/movie/cujo-stephen-king?package=jwt",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5801,7 +5825,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Cujo/16208",
         "price": "$5.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5809,7 +5833,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.08eb860b-3df2-4948-8b2a-e8bc785caa40",
         "price": "$6.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5817,7 +5841,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/cujo/umc.cmc.2ayravu3334qri6htca5vtdum?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A737278669",
         "price": "$6.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5825,7 +5849,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Cujo/16208",
         "price": "$6.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5888,7 +5912,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5904,7 +5928,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5920,7 +5944,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
         "price": "$9.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5959,7 +5983,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.1ab56949-59bf-5efc-1d94-6a783a309803",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5967,7 +5991,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/creepshow/umc.cmc.2uo7z9l6n0ivkfivgy4zw2kw5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A272821782",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -5975,7 +5999,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Creepshow/9275",
         "price": "$4.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -5991,7 +6015,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.1ab56949-59bf-5efc-1d94-6a783a309803",
         "price": "$8.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5999,7 +6023,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/creepshow/umc.cmc.2uo7z9l6n0ivkfivgy4zw2kw5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A272821782",
         "price": "$12.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -6038,7 +6062,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.tcm.com/watchtcm/titles/89937",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -6054,7 +6078,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.c7f0ed7a-2486-4013-a07d-c614a3622632",
         "price": "$5.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -6070,7 +6094,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/The-Shining/9235",
         "price": "$5.99",
-        "quality": "SD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -6117,7 +6141,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -6125,7 +6149,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://www.youtube.com/watch?v=xHBKJ2_4Wu0",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -6134,6 +6158,14 @@
         "url": "https://fawesome.tv/movies/10823056/carrie?utm_source=justwatch&utm_medium=feed",
         "price": null,
         "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "OTHER",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://www.cinepolisusa.com/movie/5-carrie",
+        "price": null,
+        "quality": null,
         "country": "US"
       },
       {
@@ -6149,7 +6181,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -6157,7 +6189,7 @@
         "linkType": "RENT",
         "url": "https://tv.apple.com/us/movie/carrie/umc.cmc.vhhyrc7hj2kijqr4tyoz6lwl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A387099242",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -6189,7 +6221,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/carrie/umc.cmc.vhhyrc7hj2kijqr4tyoz6lwl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A387099242",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -6197,7 +6229,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Carrie/140571",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       }
     ]
