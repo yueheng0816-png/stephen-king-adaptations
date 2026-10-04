@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.86,
-    "voteCount": 1959,
+    "voteAverage": 6.853,
+    "voteCount": 1994,
     "genres": [
       {
         "id": 878,
@@ -125,8 +125,8 @@
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 6,
-    "voteCount": 742,
+    "voteAverage": 5.959,
+    "voteCount": 748,
     "genres": [
       {
         "id": 27,
@@ -299,7 +299,7 @@
     "releaseDate": "2019-10-30",
     "runtime": 152,
     "voteAverage": 7.148,
-    "voteCount": 5066,
+    "voteCount": 5082,
     "genres": [
       {
         "id": 27,
@@ -321,7 +321,7 @@
         "tmdbId": 3061,
         "name": "Ewan McGregor",
         "character": "Danny Torrance",
-        "profilePath": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+        "profilePath": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
         "order": 0
       },
       {
@@ -408,8 +408,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-20",
     "runtime": 101,
-    "voteAverage": 5.6,
-    "voteCount": 2472,
+    "voteAverage": 5.551,
+    "voteCount": 2479,
     "genres": [
       {
         "id": 27,
@@ -494,8 +494,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-04",
     "runtime": 169,
-    "voteAverage": 6.8,
-    "voteCount": 9866,
+    "voteAverage": 6.825,
+    "voteCount": 9889,
     "genres": [
       {
         "id": 27,
@@ -609,7 +609,7 @@
     "releaseDate": "2019-04-04",
     "runtime": 101,
     "voteAverage": 5.736,
-    "voteCount": 3512,
+    "voteCount": 3518,
     "genres": [
       {
         "id": 27,
@@ -714,8 +714,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.231,
-    "voteCount": 712,
+    "voteAverage": 7.232,
+    "voteCount": 714,
     "genres": [
       {
         "id": 9648,
@@ -916,8 +916,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-10-20",
     "runtime": 102,
-    "voteAverage": 5.947,
-    "voteCount": 2977,
+    "voteAverage": 5.949,
+    "voteCount": 2983,
     "genres": [
       {
         "id": 27,
@@ -1031,8 +1031,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-29",
     "runtime": 104,
-    "voteAverage": 6.4,
-    "voteCount": 4028,
+    "voteAverage": 6.399,
+    "voteCount": 4037,
     "genres": [
       {
         "id": 27,
@@ -1145,8 +1145,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-06",
     "runtime": 135,
-    "voteAverage": 7.241,
-    "voteCount": 20702,
+    "voteAverage": 7.24,
+    "voteCount": 20729,
     "genres": [
       {
         "id": 27,
@@ -1259,8 +1259,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.151,
-    "voteCount": 427,
+    "voteAverage": 7.153,
+    "voteCount": 428,
     "genres": [
       {
         "id": 9648,
@@ -1281,7 +1281,7 @@
       {
         "tmdbId": 2039,
         "name": "Brendan Gleeson",
-        "character": "Detective Bill Hodges",
+        "character": "Bill Hodges",
         "profilePath": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
         "order": 0
       },
@@ -1362,8 +1362,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.81,
-    "voteCount": 5683,
+    "voteAverage": 5.811,
+    "voteCount": 5699,
     "genres": [
       {
         "id": 14,
@@ -1476,7 +1476,7 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.178,
+    "voteAverage": 6.2,
     "voteCount": 868,
     "genres": [
       {
@@ -1579,8 +1579,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.714,
-    "voteCount": 1175,
+    "voteAverage": 4.711,
+    "voteCount": 1177,
     "genres": [
       {
         "id": 27,
@@ -1693,8 +1693,8 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-18",
     "runtime": 87,
-    "voteAverage": 5.704,
-    "voteCount": 235,
+    "voteAverage": 5.7,
+    "voteCount": 236,
     "genres": [
       {
         "id": 80,
@@ -1807,8 +1807,8 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-07",
     "runtime": 78,
-    "voteAverage": 5.159,
-    "voteCount": 264,
+    "voteAverage": 5.146,
+    "voteCount": 267,
     "genres": [
       {
         "id": 53,
@@ -1917,7 +1917,7 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-03",
     "runtime": 103,
-    "voteAverage": 5.344,
+    "voteAverage": 5.3,
     "voteCount": 530,
     "genres": [
       {
@@ -2024,7 +2024,7 @@
     "releaseDate": "2013-10-16",
     "runtime": 101,
     "voteAverage": 6.069,
-    "voteCount": 4836,
+    "voteCount": 4846,
     "genres": [
       {
         "id": 18,
@@ -2133,8 +2133,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-06-24",
     "runtime": 42,
-    "voteAverage": 7.123,
-    "voteCount": 3957,
+    "voteAverage": 7.122,
+    "voteCount": 3964,
     "genres": [
       {
         "id": 18,
@@ -2230,7 +2230,7 @@
     "releaseDate": "2011-08-30",
     "runtime": 81,
     "voteAverage": 4.1,
-    "voteCount": 163,
+    "voteCount": 164,
     "genres": [
       {
         "id": 27,
@@ -2335,7 +2335,7 @@
     "releaseYear": 2010,
     "releaseDate": "2010-07-09",
     "runtime": null,
-    "voteAverage": 7.519,
+    "voteAverage": 7.5,
     "voteCount": 519,
     "genres": [
       {
@@ -2507,8 +2507,8 @@
     "releaseYear": 2009,
     "releaseDate": "2009-06-10",
     "runtime": 92,
-    "voteAverage": 4.4,
-    "voteCount": 216,
+    "voteAverage": 4.435,
+    "voteCount": 217,
     "genres": [
       {
         "id": 27,
@@ -2617,8 +2617,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 7,
-    "voteCount": 6101,
+    "voteAverage": 6.955,
+    "voteCount": 6111,
     "genres": [
       {
         "id": 27,
@@ -2731,8 +2731,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-10-26",
     "runtime": 126,
-    "voteAverage": 6.9,
-    "voteCount": 80,
+    "voteAverage": 6.92,
+    "voteCount": 81,
     "genres": [
       {
         "id": 53,
@@ -2841,8 +2841,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.695,
-    "voteCount": 5090,
+    "voteAverage": 6.697,
+    "voteCount": 5103,
     "genres": [
       {
         "id": 27,
@@ -2951,7 +2951,7 @@
     "releaseYear": 2006,
     "releaseDate": "2006-05-23",
     "runtime": 131,
-    "voteAverage": 5.483,
+    "voteAverage": 5.5,
     "voteCount": 233,
     "genres": [
       {
@@ -3183,7 +3183,7 @@
     "releaseYear": 2005,
     "releaseDate": "2005-11-29",
     "runtime": 84,
-    "voteAverage": 4.288,
+    "voteAverage": 4.3,
     "voteCount": 33,
     "genres": [
       {
@@ -3286,8 +3286,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-10-15",
     "runtime": 98,
-    "voteAverage": 5.073,
-    "voteCount": 226,
+    "voteAverage": 5.077,
+    "voteCount": 228,
     "genres": [
       {
         "id": 18,
@@ -3400,8 +3400,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-03-12",
     "runtime": 96,
-    "voteAverage": 6.563,
-    "voteCount": 4033,
+    "voteAverage": 6.564,
+    "voteCount": 4043,
     "genres": [
       {
         "id": 9648,
@@ -3506,7 +3506,7 @@
     "releaseYear": 2004,
     "releaseDate": "2004-03-03",
     "runtime": 608,
-    "voteAverage": 6.412,
+    "voteAverage": 6.4,
     "voteCount": 51,
     "genres": [
       {
@@ -3514,7 +3514,7 @@
         "name": "Horror"
       }
     ],
-    "imdbId": "tt0324864",
+    "imdbId": null,
     "director": {
       "tmdbId": 63709,
       "name": "Craig R. Baxley",
@@ -3612,7 +3612,7 @@
     "releaseYear": 2003,
     "releaseDate": "2003-05-12",
     "runtime": 88,
-    "voteAverage": 5.449,
+    "voteAverage": 5.4,
     "voteCount": 79,
     "genres": [
       {
@@ -3734,8 +3734,8 @@
     "releaseYear": 2003,
     "releaseDate": "2003-03-21",
     "runtime": 134,
-    "voteAverage": 5.657,
-    "voteCount": 1973,
+    "voteAverage": 5.661,
+    "voteCount": 1979,
     "genres": [
       {
         "id": 18,
@@ -3848,8 +3848,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-05",
     "runtime": 83,
-    "voteAverage": 7.545,
-    "voteCount": 44,
+    "voteAverage": 7.5,
+    "voteCount": 45,
     "genres": [
       {
         "id": 18,
@@ -3967,8 +3967,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.15,
-    "voteCount": 579,
+    "voteAverage": 6.155,
+    "voteCount": 582,
     "genres": [
       {
         "id": 27,
@@ -4057,7 +4057,7 @@
         "tmdbId": 27136,
         "name": "Katharine Isabelle",
         "character": "Tina Blake",
-        "profilePath": "/c9db3Cq3BQhWXCmVthyGQBN1W95.jpg",
+        "profilePath": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
         "order": 9
       }
     ],
@@ -4082,8 +4082,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-06-16",
     "runtime": null,
-    "voteAverage": 7.303,
-    "voteCount": 178,
+    "voteAverage": 7.3,
+    "voteCount": 179,
     "genres": [
       {
         "id": 18,
@@ -4354,8 +4354,8 @@
     "releaseYear": 2001,
     "releaseDate": "2001-09-28",
     "runtime": 101,
-    "voteAverage": 6.778,
-    "voteCount": 647,
+    "voteAverage": 6.781,
+    "voteCount": 652,
     "genres": [
       {
         "id": 18,
@@ -4460,8 +4460,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-12-10",
     "runtime": 189,
-    "voteAverage": 8.506,
-    "voteCount": 19860,
+    "voteAverage": 8.505,
+    "voteCount": 19895,
     "genres": [
       {
         "id": 14,
@@ -4684,8 +4684,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-03-12",
     "runtime": 105,
-    "voteAverage": 5.7,
-    "voteCount": 486,
+    "voteAverage": 5.68,
+    "voteCount": 489,
     "genres": [
       {
         "id": 27,
@@ -4798,7 +4798,7 @@
     "releaseYear": 1998,
     "releaseDate": "1998-11-01",
     "runtime": 90,
-    "voteAverage": 4.329,
+    "voteAverage": 4.3,
     "voteCount": 76,
     "genres": [
       {
@@ -4904,8 +4904,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.533,
-    "voteCount": 762,
+    "voteAverage": 6.535,
+    "voteCount": 765,
     "genres": [
       {
         "id": 18,
@@ -5121,7 +5121,7 @@
     "releaseYear": 1997,
     "releaseDate": "1997-10-29",
     "runtime": 99,
-    "voteAverage": 4.596,
+    "voteAverage": 4.6,
     "voteCount": 94,
     "genres": [
       {
@@ -5243,7 +5243,7 @@
     "releaseYear": 1997,
     "releaseDate": "1997-05-13",
     "runtime": 90,
-    "voteAverage": 5.013,
+    "voteAverage": 5,
     "voteCount": 75,
     "genres": [
       {
@@ -5464,8 +5464,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.895,
-    "voteCount": 699,
+    "voteAverage": 5.896,
+    "voteCount": 700,
     "genres": [
       {
         "id": 14,
@@ -5680,8 +5680,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-09-03",
     "runtime": 98,
-    "voteAverage": 4.797,
-    "voteCount": 116,
+    "voteAverage": 4.765,
+    "voteCount": 117,
     "genres": [
       {
         "id": 27,
@@ -5782,8 +5782,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-01-12",
     "runtime": 92,
-    "voteAverage": 3.312,
-    "voteCount": 181,
+    "voteAverage": 3.31,
+    "voteCount": 182,
     "genres": [
       {
         "id": 878,
@@ -6010,8 +6010,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.258,
-    "voteCount": 906,
+    "voteAverage": 7.262,
+    "voteCount": 910,
     "genres": [
       {
         "id": 80,
@@ -6235,8 +6235,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
-    "voteAverage": 8.7,
-    "voteCount": 31424,
+    "voteAverage": 8.731,
+    "voteCount": 31482,
     "genres": [
       {
         "id": 18,
@@ -6345,7 +6345,7 @@
     "releaseYear": 1994,
     "releaseDate": "1994-05-08",
     "runtime": 90,
-    "voteAverage": 6.805,
+    "voteAverage": 6.8,
     "voteCount": 533,
     "genres": [
       {
@@ -6437,7 +6437,7 @@
     "releaseYear": 1993,
     "releaseDate": "1993-08-27",
     "runtime": 121,
-    "voteAverage": 6.269,
+    "voteAverage": 6.3,
     "voteCount": 634,
     "genres": [
       {
@@ -6547,8 +6547,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-04-23",
     "runtime": 122,
-    "voteAverage": 5.977,
-    "voteCount": 487,
+    "voteAverage": 5.98,
+    "voteCount": 488,
     "genres": [
       {
         "id": 9648,
@@ -6653,12 +6653,12 @@
     "overviewCn": null,
     "tagline": "Raise some hell.",
     "posterPath": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
-    "backdropPath": "/yLGlSNfVVidVeanH6vY8ZntdPiy.jpg",
+    "backdropPath": "/mR4pGZWRcH0clbRQ219t7JC38wC.jpg",
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.482,
-    "voteCount": 626,
+    "voteAverage": 5.5,
+    "voteCount": 628,
     "genres": [
       {
         "id": 27,
@@ -6763,8 +6763,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-04-10",
     "runtime": 89,
-    "voteAverage": 6.095,
-    "voteCount": 649,
+    "voteAverage": 6.092,
+    "voteCount": 650,
     "genres": [
       {
         "id": 27,
@@ -6878,7 +6878,7 @@
     "releaseDate": "1992-03-05",
     "runtime": 108,
     "voteAverage": 5.637,
-    "voteCount": 881,
+    "voteCount": 883,
     "genres": [
       {
         "id": 878,
@@ -6987,7 +6987,7 @@
     "releaseYear": 1992,
     "releaseDate": "1992-01-29",
     "runtime": 92,
-    "voteAverage": 4.802,
+    "voteAverage": 4.8,
     "voteCount": 288,
     "genres": [
       {
@@ -7215,8 +7215,8 @@
     "releaseYear": 1991,
     "releaseDate": "1991-05-07",
     "runtime": 98,
-    "voteAverage": 5.854,
-    "voteCount": 284,
+    "voteAverage": 5.862,
+    "voteCount": 286,
     "genres": [
       {
         "id": 27,
@@ -7334,7 +7334,7 @@
     "releaseDate": "1990-11-30",
     "runtime": 107,
     "voteAverage": 7.753,
-    "voteCount": 5428,
+    "voteCount": 5442,
     "genres": [
       {
         "id": 18,
@@ -7349,7 +7349,7 @@
     "director": {
       "tmdbId": 3026,
       "name": "Rob Reiner",
-      "profilePath": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+      "profilePath": "/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg"
     },
     "cast": [
       {
@@ -7443,8 +7443,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-10-26",
     "runtime": 89,
-    "voteAverage": 5.376,
-    "voteCount": 310,
+    "voteAverage": 5.383,
+    "voteCount": 311,
     "genres": [
       {
         "id": 27,
@@ -7546,8 +7546,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-05-03",
     "runtime": 93,
-    "voteAverage": 6.2,
-    "voteCount": 441,
+    "voteAverage": 6.198,
+    "voteCount": 443,
     "genres": [
       {
         "id": 53,
@@ -7664,8 +7664,8 @@
     "releaseYear": 1989,
     "releaseDate": "1989-04-21",
     "runtime": 103,
-    "voteAverage": 6.655,
-    "voteCount": 2473,
+    "voteAverage": 6.658,
+    "voteCount": 2480,
     "genres": [
       {
         "id": 27,
@@ -7771,7 +7771,7 @@
     "releaseDate": "1987-11-13",
     "runtime": 101,
     "voteAverage": 6.543,
-    "voteCount": 2982,
+    "voteCount": 2992,
     "genres": [
       {
         "id": 28,
@@ -7793,7 +7793,7 @@
         "tmdbId": 1100,
         "name": "Arnold Schwarzenegger",
         "character": "Ben Richards",
-        "profilePath": "/dgCABuZp2HBehCT84O4WBp7KIoe.jpg",
+        "profilePath": "/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg",
         "order": 0
       },
       {
@@ -7880,8 +7880,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-09-11",
     "runtime": 100,
-    "voteAverage": 5.9,
-    "voteCount": 326,
+    "voteAverage": 5.928,
+    "voteCount": 328,
     "genres": [
       {
         "id": 27,
@@ -7990,8 +7990,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-05-01",
     "runtime": 92,
-    "voteAverage": 6.233,
-    "voteCount": 674,
+    "voteAverage": 6.2,
+    "voteCount": 675,
     "genres": [
       {
         "id": 27,
@@ -8100,8 +8100,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-08-08",
     "runtime": 89,
-    "voteAverage": 7.835,
-    "voteCount": 6761,
+    "voteAverage": 7.834,
+    "voteCount": 6774,
     "genres": [
       {
         "id": 18,
@@ -8116,7 +8116,7 @@
     "director": {
       "tmdbId": 3026,
       "name": "Rob Reiner",
-      "profilePath": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+      "profilePath": "/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg"
     },
     "cast": [
       {
@@ -8211,7 +8211,7 @@
     "releaseDate": "1986-07-13",
     "runtime": 98,
     "voteAverage": 5.836,
-    "voteCount": 894,
+    "voteCount": 895,
     "genres": [
       {
         "id": 27,
@@ -8320,8 +8320,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.678,
-    "voteCount": 726,
+    "voteAverage": 6.686,
+    "voteCount": 730,
     "genres": [
       {
         "id": 27,
@@ -8428,8 +8428,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-04-12",
     "runtime": 94,
-    "voteAverage": 6.744,
-    "voteCount": 765,
+    "voteAverage": 6.7,
+    "voteCount": 767,
     "genres": [
       {
         "id": 27,
@@ -8539,8 +8539,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-05-11",
     "runtime": 114,
-    "voteAverage": 6.254,
-    "voteCount": 796,
+    "voteAverage": 6.259,
+    "voteCount": 797,
     "genres": [
       {
         "id": 27,
@@ -8653,8 +8653,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-03-09",
     "runtime": 92,
-    "voteAverage": 5.726,
-    "voteCount": 1175,
+    "voteAverage": 5.725,
+    "voteCount": 1178,
     "genres": [
       {
         "id": 27,
@@ -8690,7 +8690,7 @@
         "tmdbId": 1107,
         "name": "R.G. Armstrong",
         "character": "Diehl",
-        "profilePath": "/wDsIQBOtNZotwMEi2QJLSNrLEXc.jpg",
+        "profilePath": "/5UjO0XPx6zoubmtb8jOUvaCBmiG.jpg",
         "order": 2
       },
       {
@@ -8763,8 +8763,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-12-09",
     "runtime": 110,
-    "voteAverage": 6.877,
-    "voteCount": 2332,
+    "voteAverage": 6.878,
+    "voteCount": 2340,
     "genres": [
       {
         "id": 27,
@@ -8869,8 +8869,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7,
-    "voteCount": 1909,
+    "voteAverage": 7.011,
+    "voteCount": 1913,
     "genres": [
       {
         "id": 53,
@@ -8984,8 +8984,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-08-10",
     "runtime": 93,
-    "voteAverage": 6.181,
-    "voteCount": 1172,
+    "voteAverage": 6.184,
+    "voteCount": 1175,
     "genres": [
       {
         "id": 18,
@@ -9165,8 +9165,8 @@
     "releaseYear": 1982,
     "releaseDate": "1982-11-10",
     "runtime": 120,
-    "voteAverage": 6.904,
-    "voteCount": 1197,
+    "voteAverage": 6.9,
+    "voteCount": 1200,
     "genres": [
       {
         "id": 27,
@@ -9276,7 +9276,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19426,
+    "voteCount": 19461,
     "genres": [
       {
         "id": 27,
@@ -9386,8 +9386,8 @@
     "releaseYear": 1976,
     "releaseDate": "1976-11-03",
     "runtime": 98,
-    "voteAverage": 7.3,
-    "voteCount": 4453,
+    "voteAverage": 7.341,
+    "voteCount": 4467,
     "genres": [
       {
         "id": 27,
@@ -9402,7 +9402,7 @@
     "director": {
       "tmdbId": 1150,
       "name": "Brian De Palma",
-      "profilePath": "/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg"
+      "profilePath": "/bWjOPDt8HRww5VAtpZ5FiCxpIxu.jpg"
     },
     "cast": [
       {
@@ -9472,7 +9472,7 @@
         "tmdbId": 7085,
         "name": "Sydney Lassick",
         "character": "Mr. Fromm",
-        "profilePath": "/o0pwM2GNZjfNRK1SMBTSE8jpS7x.jpg",
+        "profilePath": "/9nQUk1p5jNDnrXAHL2Gda13kZiU.jpg",
         "order": 9
       }
     ],
