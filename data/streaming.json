@@ -3988,7 +3988,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.20b4c3cf-b703-aebb-41bd-0dc683f8c0c8",
         "price": "$7.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4319,7 +4319,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8886b761-06bd-434e-9795-d6c2d6d3e58b",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -4327,7 +4327,7 @@
         "linkType": "RENT",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.92a9f6c9-6d96-0bf6-ad81-891b16e18e10",
         "price": "$3.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -4359,7 +4359,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8886b761-06bd-434e-9795-d6c2d6d3e58b",
         "price": "$14.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -6254,42 +6254,42 @@
       },
       {
         "platform": "OTHER",
-        "linkType": "BUY",
-        "url": "https://www.amazon.com/dp/B00002E237?tag=justwatch09-20&linkCode=osi&th=1&psc=1",
-        "price": "$2.25",
-        "quality": null,
+        "linkType": "RENT",
+        "url": "https://watch.plex.tv/movie/the-outsiders?utm_content=5d77682454f42c001f8c24c5&utm_medium=deeplink&utm_source=justWatch-v2-catalog",
+        "price": "$2.99",
+        "quality": "SD",
+        "country": "US"
+      },
+      {
+        "platform": "AMAZON_PRIME",
+        "linkType": "RENT",
+        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
+        "price": "$4.99",
+        "quality": "4K",
+        "country": "US"
+      },
+      {
+        "platform": "ITUNES",
+        "linkType": "RENT",
+        "url": "https://tv.apple.com/us/movie/the-outsiders/umc.cmc.75uhk2e0nfsgmx33t69tm55ip?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1584386417",
+        "price": "$4.99",
+        "quality": "4K",
+        "country": "US"
+      },
+      {
+        "platform": "VUDU",
+        "linkType": "RENT",
+        "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
+        "price": "$4.99",
+        "quality": "4K",
         "country": "US"
       },
       {
         "platform": "OTHER",
-        "linkType": "RENT",
-        "url": "https://watch.plex.tv/movie/the-outsiders?utm_content=5d77682454f42c001f8c24c5&utm_medium=deeplink&utm_source=justWatch-v2-catalog",
-        "price": "$2.99",
-        "quality": "HD",
-        "country": "US"
-      },
-      {
-        "platform": "AMAZON_PRIME",
-        "linkType": "RENT",
-        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
-        "price": "$4.99",
-        "quality": "4K",
-        "country": "US"
-      },
-      {
-        "platform": "ITUNES",
-        "linkType": "RENT",
-        "url": "https://tv.apple.com/us/movie/the-outsiders/umc.cmc.75uhk2e0nfsgmx33t69tm55ip?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1584386417",
-        "price": "$4.99",
-        "quality": "4K",
-        "country": "US"
-      },
-      {
-        "platform": "VUDU",
-        "linkType": "RENT",
-        "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
-        "price": "$4.99",
-        "quality": "4K",
+        "linkType": "BUY",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-outsiders-francis-ford-coppola/3630551",
+        "price": "$5.00",
+        "quality": null,
         "country": "US"
       },
       {
@@ -6297,7 +6297,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86",
         "price": "$9.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -6305,7 +6305,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/the-outsiders/umc.cmc.75uhk2e0nfsgmx33t69tm55ip?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1584386417",
         "price": "$9.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -6313,7 +6313,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/The-Outsiders-The-Complete-Novel/447985",
         "price": "$9.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       }
     ]

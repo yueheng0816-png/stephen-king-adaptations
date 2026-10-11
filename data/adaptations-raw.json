@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.853,
-    "voteCount": 1994,
+    "voteAverage": 6.846,
+    "voteCount": 2026,
     "genres": [
       {
         "id": 878,
@@ -38,7 +38,7 @@
         "tmdbId": 2764542,
         "name": "Cooper Hoffman",
         "character": "Raymond Garraty #47",
-        "profilePath": "/6VY3YOg5o2k8CTldr8lYLijGnsN.jpg",
+        "profilePath": "/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg",
         "order": 0
       },
       {
@@ -125,8 +125,8 @@
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 5.959,
-    "voteCount": 748,
+    "voteAverage": 5.957,
+    "voteCount": 755,
     "genres": [
       {
         "id": 27,
@@ -227,8 +227,8 @@
     "releaseYear": 2020,
     "releaseDate": "2020-12-17",
     "runtime": null,
-    "voteAverage": 6.787,
-    "voteCount": 757,
+    "voteAverage": 6.784,
+    "voteCount": 760,
     "genres": [
       {
         "id": 10765,
@@ -298,8 +298,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-10-30",
     "runtime": 152,
-    "voteAverage": 7.148,
-    "voteCount": 5082,
+    "voteAverage": 7.1,
+    "voteCount": 5092,
     "genres": [
       {
         "id": 27,
@@ -409,7 +409,7 @@
     "releaseDate": "2019-09-20",
     "runtime": 101,
     "voteAverage": 5.551,
-    "voteCount": 2479,
+    "voteCount": 2486,
     "genres": [
       {
         "id": 27,
@@ -495,7 +495,7 @@
     "releaseDate": "2019-09-04",
     "runtime": 169,
     "voteAverage": 6.825,
-    "voteCount": 9889,
+    "voteCount": 9903,
     "genres": [
       {
         "id": 27,
@@ -542,7 +542,7 @@
         "tmdbId": 1237603,
         "name": "Isaiah Mustafa",
         "character": "Mike Hanlon",
-        "profilePath": "/tnwz9bf0bplixzyaqyu4iAI9lLj.jpg",
+        "profilePath": "/cdXLqmG0nZWjfwfduZk22eBDsmP.jpg",
         "order": 3
       },
       {
@@ -608,8 +608,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-04-04",
     "runtime": 101,
-    "voteAverage": 5.736,
-    "voteCount": 3518,
+    "voteAverage": 5.7,
+    "voteCount": 3523,
     "genres": [
       {
         "id": 27,
@@ -714,8 +714,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.232,
-    "voteCount": 714,
+    "voteAverage": 7.235,
+    "voteCount": 716,
     "genres": [
       {
         "id": 9648,
@@ -917,7 +917,7 @@
     "releaseDate": "2017-10-20",
     "runtime": 102,
     "voteAverage": 5.949,
-    "voteCount": 2983,
+    "voteCount": 2987,
     "genres": [
       {
         "id": 27,
@@ -964,7 +964,7 @@
         "tmdbId": 1467169,
         "name": "Kaitlyn Bernard",
         "character": "Shannon Cotterie",
-        "profilePath": null,
+        "profilePath": "/l5zesIpNEfvtFErydGuM3O3YBjd.jpg",
         "order": 3
       },
       {
@@ -1031,8 +1031,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-09-29",
     "runtime": 104,
-    "voteAverage": 6.399,
-    "voteCount": 4037,
+    "voteAverage": 6.397,
+    "voteCount": 4045,
     "genres": [
       {
         "id": 27,
@@ -1146,7 +1146,7 @@
     "releaseDate": "2017-09-06",
     "runtime": 135,
     "voteAverage": 7.24,
-    "voteCount": 20729,
+    "voteCount": 20757,
     "genres": [
       {
         "id": 27,
@@ -1259,8 +1259,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.153,
-    "voteCount": 428,
+    "voteAverage": 7.152,
+    "voteCount": 430,
     "genres": [
       {
         "id": 9648,
@@ -1362,8 +1362,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.811,
-    "voteCount": 5699,
+    "voteAverage": 5.8,
+    "voteCount": 5711,
     "genres": [
       {
         "id": 14,
@@ -1476,8 +1476,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.2,
-    "voteCount": 868,
+    "voteAverage": 6.182,
+    "voteCount": 871,
     "genres": [
       {
         "id": 10765,
@@ -1579,8 +1579,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.711,
-    "voteCount": 1177,
+    "voteAverage": 4.709,
+    "voteCount": 1179,
     "genres": [
       {
         "id": 27,
@@ -1693,8 +1693,8 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-18",
     "runtime": 87,
-    "voteAverage": 5.7,
-    "voteCount": 236,
+    "voteAverage": 5.707,
+    "voteCount": 237,
     "genres": [
       {
         "id": 80,
@@ -1807,7 +1807,7 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-07",
     "runtime": 78,
-    "voteAverage": 5.146,
+    "voteAverage": 5.1,
     "voteCount": 267,
     "genres": [
       {
@@ -2023,8 +2023,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.069,
-    "voteCount": 4846,
+    "voteAverage": 6.071,
+    "voteCount": 4855,
     "genres": [
       {
         "id": 18,
@@ -2134,7 +2134,7 @@
     "releaseDate": "2013-06-24",
     "runtime": 42,
     "voteAverage": 7.122,
-    "voteCount": 3964,
+    "voteCount": 3969,
     "genres": [
       {
         "id": 18,
@@ -2336,7 +2336,7 @@
     "releaseDate": "2010-07-09",
     "runtime": null,
     "voteAverage": 7.5,
-    "voteCount": 519,
+    "voteCount": 520,
     "genres": [
       {
         "id": 18,
@@ -2397,8 +2397,8 @@
     "releaseYear": 2009,
     "releaseDate": "2009-07-01",
     "runtime": 89,
-    "voteAverage": 5.9,
-    "voteCount": 166,
+    "voteAverage": 5.938,
+    "voteCount": 168,
     "genres": [
       {
         "id": 80,
@@ -2507,8 +2507,8 @@
     "releaseYear": 2009,
     "releaseDate": "2009-06-10",
     "runtime": 92,
-    "voteAverage": 4.435,
-    "voteCount": 217,
+    "voteAverage": 4.434,
+    "voteCount": 220,
     "genres": [
       {
         "id": 27,
@@ -2617,8 +2617,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.955,
-    "voteCount": 6111,
+    "voteAverage": 6.958,
+    "voteCount": 6131,
     "genres": [
       {
         "id": 27,
@@ -2731,8 +2731,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-10-26",
     "runtime": 126,
-    "voteAverage": 6.92,
-    "voteCount": 81,
+    "voteAverage": 6.9,
+    "voteCount": 82,
     "genres": [
       {
         "id": 53,
@@ -2841,8 +2841,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.697,
-    "voteCount": 5103,
+    "voteAverage": 6.696,
+    "voteCount": 5114,
     "genres": [
       {
         "id": 27,
@@ -2952,7 +2952,7 @@
     "releaseDate": "2006-05-23",
     "runtime": 131,
     "voteAverage": 5.5,
-    "voteCount": 233,
+    "voteCount": 234,
     "genres": [
       {
         "id": 18,
@@ -3073,8 +3073,8 @@
     "releaseYear": 2006,
     "releaseDate": "2006-04-24",
     "runtime": 104,
-    "voteAverage": 4.5,
-    "voteCount": 215,
+    "voteAverage": 4.521,
+    "voteCount": 218,
     "genres": [
       {
         "id": 27,
@@ -3286,7 +3286,7 @@
     "releaseYear": 2004,
     "releaseDate": "2004-10-15",
     "runtime": 98,
-    "voteAverage": 5.077,
+    "voteAverage": 5.1,
     "voteCount": 228,
     "genres": [
       {
@@ -3401,7 +3401,7 @@
     "releaseDate": "2004-03-12",
     "runtime": 96,
     "voteAverage": 6.564,
-    "voteCount": 4043,
+    "voteCount": 4052,
     "genres": [
       {
         "id": 9648,
@@ -3734,8 +3734,8 @@
     "releaseYear": 2003,
     "releaseDate": "2003-03-21",
     "runtime": 134,
-    "voteAverage": 5.661,
-    "voteCount": 1979,
+    "voteAverage": 5.7,
+    "voteCount": 1983,
     "genres": [
       {
         "id": 18,
@@ -3967,8 +3967,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.155,
-    "voteCount": 582,
+    "voteAverage": 6.152,
+    "voteCount": 585,
     "genres": [
       {
         "id": 27,
@@ -4083,7 +4083,7 @@
     "releaseDate": "2002-06-16",
     "runtime": null,
     "voteAverage": 7.3,
-    "voteCount": 179,
+    "voteCount": 181,
     "genres": [
       {
         "id": 18,
@@ -4245,7 +4245,7 @@
     "releaseDate": "2001-10-09",
     "runtime": 82,
     "voteAverage": 3.9,
-    "voteCount": 135,
+    "voteCount": 136,
     "genres": [
       {
         "id": 27,
@@ -4355,7 +4355,7 @@
     "releaseDate": "2001-09-28",
     "runtime": 101,
     "voteAverage": 6.781,
-    "voteCount": 652,
+    "voteCount": 654,
     "genres": [
       {
         "id": 18,
@@ -4461,7 +4461,7 @@
     "releaseDate": "1999-12-10",
     "runtime": 189,
     "voteAverage": 8.505,
-    "voteCount": 19895,
+    "voteCount": 19939,
     "genres": [
       {
         "id": 14,
@@ -4684,8 +4684,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-03-12",
     "runtime": 105,
-    "voteAverage": 5.68,
-    "voteCount": 489,
+    "voteAverage": 5.689,
+    "voteCount": 491,
     "genres": [
       {
         "id": 27,
@@ -4904,8 +4904,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.535,
-    "voteCount": 765,
+    "voteAverage": 6.537,
+    "voteCount": 767,
     "genres": [
       {
         "id": 18,
@@ -5122,7 +5122,7 @@
     "releaseDate": "1997-10-29",
     "runtime": 99,
     "voteAverage": 4.6,
-    "voteCount": 94,
+    "voteCount": 95,
     "genres": [
       {
         "id": 27,
@@ -5244,7 +5244,7 @@
     "releaseDate": "1997-05-13",
     "runtime": 90,
     "voteAverage": 5,
-    "voteCount": 75,
+    "voteCount": 76,
     "genres": [
       {
         "id": 27,
@@ -5357,8 +5357,8 @@
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 6,
-    "voteCount": 273,
+    "voteAverage": 5.984,
+    "voteCount": 274,
     "genres": [
       {
         "id": 27,
@@ -5464,8 +5464,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.896,
-    "voteCount": 700,
+    "voteAverage": 5.9,
+    "voteCount": 703,
     "genres": [
       {
         "id": 14,
@@ -5680,7 +5680,7 @@
     "releaseYear": 1996,
     "releaseDate": "1996-09-03",
     "runtime": 98,
-    "voteAverage": 4.765,
+    "voteAverage": 4.8,
     "voteCount": 117,
     "genres": [
       {
@@ -5782,8 +5782,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-01-12",
     "runtime": 92,
-    "voteAverage": 3.31,
-    "voteCount": 182,
+    "voteAverage": 3.3,
+    "voteCount": 185,
     "genres": [
       {
         "id": 878,
@@ -5901,7 +5901,7 @@
     "releaseDate": "1995-09-12",
     "runtime": 90,
     "voteAverage": 4.8,
-    "voteCount": 234,
+    "voteCount": 235,
     "genres": [
       {
         "id": 27,
@@ -6010,8 +6010,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.262,
-    "voteCount": 910,
+    "voteAverage": 7.258,
+    "voteCount": 914,
     "genres": [
       {
         "id": 80,
@@ -6235,8 +6235,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
-    "voteAverage": 8.731,
-    "voteCount": 31482,
+    "voteAverage": 8.732,
+    "voteCount": 31550,
     "genres": [
       {
         "id": 18,
@@ -6346,7 +6346,7 @@
     "releaseDate": "1994-05-08",
     "runtime": 90,
     "voteAverage": 6.8,
-    "voteCount": 533,
+    "voteCount": 537,
     "genres": [
       {
         "id": 10765,
@@ -6437,8 +6437,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-08-27",
     "runtime": 121,
-    "voteAverage": 6.3,
-    "voteCount": 634,
+    "voteAverage": 6.266,
+    "voteCount": 637,
     "genres": [
       {
         "id": 18,
@@ -6547,8 +6547,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-04-23",
     "runtime": 122,
-    "voteAverage": 5.98,
-    "voteCount": 488,
+    "voteAverage": 6,
+    "voteCount": 490,
     "genres": [
       {
         "id": 9648,
@@ -6657,8 +6657,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.5,
-    "voteCount": 628,
+    "voteAverage": 5.475,
+    "voteCount": 631,
     "genres": [
       {
         "id": 27,
@@ -6763,7 +6763,7 @@
     "releaseYear": 1992,
     "releaseDate": "1992-04-10",
     "runtime": 89,
-    "voteAverage": 6.092,
+    "voteAverage": 6.1,
     "voteCount": 650,
     "genres": [
       {
@@ -6877,8 +6877,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-03-05",
     "runtime": 108,
-    "voteAverage": 5.637,
-    "voteCount": 883,
+    "voteAverage": 5.644,
+    "voteCount": 888,
     "genres": [
       {
         "id": 878,
@@ -6988,7 +6988,7 @@
     "releaseDate": "1992-01-29",
     "runtime": 92,
     "voteAverage": 4.8,
-    "voteCount": 288,
+    "voteCount": 289,
     "genres": [
       {
         "id": 27,
@@ -7215,8 +7215,8 @@
     "releaseYear": 1991,
     "releaseDate": "1991-05-07",
     "runtime": 98,
-    "voteAverage": 5.862,
-    "voteCount": 286,
+    "voteAverage": 5.9,
+    "voteCount": 287,
     "genres": [
       {
         "id": 27,
@@ -7334,7 +7334,7 @@
     "releaseDate": "1990-11-30",
     "runtime": 107,
     "voteAverage": 7.753,
-    "voteCount": 5442,
+    "voteCount": 5464,
     "genres": [
       {
         "id": 18,
@@ -7443,8 +7443,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-10-26",
     "runtime": 89,
-    "voteAverage": 5.383,
-    "voteCount": 311,
+    "voteAverage": 5.38,
+    "voteCount": 312,
     "genres": [
       {
         "id": 27,
@@ -7546,8 +7546,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-05-03",
     "runtime": 93,
-    "voteAverage": 6.198,
-    "voteCount": 443,
+    "voteAverage": 6.2,
+    "voteCount": 445,
     "genres": [
       {
         "id": 53,
@@ -7664,8 +7664,8 @@
     "releaseYear": 1989,
     "releaseDate": "1989-04-21",
     "runtime": 103,
-    "voteAverage": 6.658,
-    "voteCount": 2480,
+    "voteAverage": 6.7,
+    "voteCount": 2488,
     "genres": [
       {
         "id": 27,
@@ -7770,8 +7770,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-11-13",
     "runtime": 101,
-    "voteAverage": 6.543,
-    "voteCount": 2992,
+    "voteAverage": 6.545,
+    "voteCount": 3006,
     "genres": [
       {
         "id": 28,
@@ -7880,8 +7880,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-09-11",
     "runtime": 100,
-    "voteAverage": 5.928,
-    "voteCount": 328,
+    "voteAverage": 5.972,
+    "voteCount": 337,
     "genres": [
       {
         "id": 27,
@@ -7945,7 +7945,7 @@
         "tmdbId": 1234,
         "name": "Tara Reid",
         "character": "Amanda",
-        "profilePath": "/94484Iheg04yA1UbiXoBAOB6330.jpg",
+        "profilePath": "/c2RYIMfmDGjIxTJT3MMsabutA5o.jpg",
         "order": 6
       },
       {
@@ -7991,7 +7991,7 @@
     "releaseDate": "1987-05-01",
     "runtime": 92,
     "voteAverage": 6.2,
-    "voteCount": 675,
+    "voteCount": 679,
     "genres": [
       {
         "id": 27,
@@ -8100,8 +8100,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-08-08",
     "runtime": 89,
-    "voteAverage": 7.834,
-    "voteCount": 6774,
+    "voteAverage": 7.8,
+    "voteCount": 6789,
     "genres": [
       {
         "id": 18,
@@ -8210,8 +8210,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-07-13",
     "runtime": 98,
-    "voteAverage": 5.836,
-    "voteCount": 895,
+    "voteAverage": 5.8,
+    "voteCount": 900,
     "genres": [
       {
         "id": 27,
@@ -8320,8 +8320,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.686,
-    "voteCount": 730,
+    "voteAverage": 6.683,
+    "voteCount": 734,
     "genres": [
       {
         "id": 27,
@@ -8429,7 +8429,7 @@
     "releaseDate": "1985-04-12",
     "runtime": 94,
     "voteAverage": 6.7,
-    "voteCount": 767,
+    "voteCount": 769,
     "genres": [
       {
         "id": 27,
@@ -8539,8 +8539,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-05-11",
     "runtime": 114,
-    "voteAverage": 6.259,
-    "voteCount": 797,
+    "voteAverage": 6.258,
+    "voteCount": 801,
     "genres": [
       {
         "id": 27,
@@ -8649,12 +8649,12 @@
     "overviewCn": null,
     "tagline": "And a child shall lead them...",
     "posterPath": "/jJTrFHu3rjAgP1lryKGEsC9hqyM.jpg",
-    "backdropPath": "/1IKOtiErR3I4JMgK4LjCFc2DQ0d.jpg",
+    "backdropPath": "/h7nrngTouejDkG1MuTVtExheyUy.jpg",
     "releaseYear": 1984,
     "releaseDate": "1984-03-09",
     "runtime": 92,
-    "voteAverage": 5.725,
-    "voteCount": 1178,
+    "voteAverage": 5.718,
+    "voteCount": 1184,
     "genres": [
       {
         "id": 27,
@@ -8763,8 +8763,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-12-09",
     "runtime": 110,
-    "voteAverage": 6.878,
-    "voteCount": 2340,
+    "voteAverage": 6.887,
+    "voteCount": 2357,
     "genres": [
       {
         "id": 27,
@@ -8869,8 +8869,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7.011,
-    "voteCount": 1913,
+    "voteAverage": 7.006,
+    "voteCount": 1925,
     "genres": [
       {
         "id": 53,
@@ -8984,8 +8984,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-08-10",
     "runtime": 93,
-    "voteAverage": 6.184,
-    "voteCount": 1175,
+    "voteAverage": 6.2,
+    "voteCount": 1179,
     "genres": [
       {
         "id": 18,
@@ -9089,7 +9089,7 @@
     "overview": "The main character, an attorney by profession, spends endless hours with his terminally ill mother. Death is her only way out and he's the only one that can help.",
     "overviewCn": null,
     "tagline": "Death is her only way out... he's the only one that can help.",
-    "posterPath": "/koV0XalTaIq6lDgd8fIDno8BinC.jpg",
+    "posterPath": "/9ZJXB631lWa09f41mvrhf7vmhjm.jpg",
     "backdropPath": "/p8IntlFMqLSMt0XpLO0RRQCB8fO.jpg",
     "releaseYear": 1983,
     "releaseDate": "1983-04-16",
@@ -9166,7 +9166,7 @@
     "releaseDate": "1982-11-10",
     "runtime": 120,
     "voteAverage": 6.9,
-    "voteCount": 1200,
+    "voteCount": 1203,
     "genres": [
       {
         "id": 27,
@@ -9276,7 +9276,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19461,
+    "voteCount": 19505,
     "genres": [
       {
         "id": 27,
@@ -9386,8 +9386,8 @@
     "releaseYear": 1976,
     "releaseDate": "1976-11-03",
     "runtime": 98,
-    "voteAverage": 7.341,
-    "voteCount": 4467,
+    "voteAverage": 7.3,
+    "voteCount": 4492,
     "genres": [
       {
         "id": 27,
