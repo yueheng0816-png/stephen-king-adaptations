@@ -338,8 +338,8 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://gruv.com/products/it-chapter-two-dvd-_1000740299",
-        "price": "$8.87",
+        "url": "https://www.amazon.com/dp/B0842N6MSZ?tag=justwatch09-20&linkCode=osi&th=1&psc=1",
+        "price": "$8.45",
         "quality": null,
         "country": "US"
       },
@@ -5465,6 +5465,14 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
         "price": null,
+        "quality": "HD",
+        "country": "US"
+      },
+      {
+        "platform": "OTHER",
+        "linkType": "SUBSCRIPTION",
+        "url": "https://www.fubo.tv/welcome/program/MV000208090000?irmp=1206980&irad=599309",
+        "price": null,
         "quality": "SD",
         "country": "US"
       },
@@ -5481,7 +5489,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5493,35 +5501,27 @@
         "country": "US"
       },
       {
-        "platform": "OTHER",
-        "linkType": "SUBSCRIPTION",
-        "url": "https://watch.sling.com/1/program/8257388ba75bd52494a0c9cd3b9b64aa/watch",
-        "price": null,
+        "platform": "AMAZON_PRIME",
+        "linkType": "RENT",
+        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
+        "price": "$3.99",
         "quality": "HD",
         "country": "US"
       },
       {
-        "platform": "AMAZON_PRIME",
+        "platform": "VUDU",
         "linkType": "RENT",
-        "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
+        "url": "https://athome.fandango.com/content/browse/details/Maximum-Overdrive/8367",
         "price": "$3.99",
         "quality": "SD",
         "country": "US"
       },
       {
-        "platform": "VUDU",
-        "linkType": "RENT",
-        "url": "https://athome.fandango.com/content/browse/details/Maximum-Overdrive/8367",
-        "price": "$3.99",
-        "quality": "HD",
-        "country": "US"
-      },
-      {
         "platform": "AMAZON_PRIME",
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.70af9ad5-68ee-4e07-a325-9503d458d874",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5529,7 +5529,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Maximum-Overdrive/8367",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {

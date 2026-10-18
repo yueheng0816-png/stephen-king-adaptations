@@ -3,7 +3,7 @@
     "tmdbId": 604079,
     "title": "The Long Walk",
     "mediaType": "movie",
-    "overview": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "overview": "In a dystopian America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
     "overviewCn": null,
     "tagline": "The task is simple: walk or die.",
     "posterPath": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.846,
-    "voteCount": 2026,
+    "voteAverage": 6.844,
+    "voteCount": 2053,
     "genres": [
       {
         "id": 878,
@@ -125,8 +125,8 @@
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
-    "voteAverage": 5.957,
-    "voteCount": 755,
+    "voteAverage": 5.962,
+    "voteCount": 758,
     "genres": [
       {
         "id": 27,
@@ -227,8 +227,8 @@
     "releaseYear": 2020,
     "releaseDate": "2020-12-17",
     "runtime": null,
-    "voteAverage": 6.784,
-    "voteCount": 760,
+    "voteAverage": 6.786,
+    "voteCount": 761,
     "genres": [
       {
         "id": 10765,
@@ -298,8 +298,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-10-30",
     "runtime": 152,
-    "voteAverage": 7.1,
-    "voteCount": 5092,
+    "voteAverage": 7.148,
+    "voteCount": 5103,
     "genres": [
       {
         "id": 27,
@@ -408,8 +408,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-20",
     "runtime": 101,
-    "voteAverage": 5.551,
-    "voteCount": 2486,
+    "voteAverage": 5.6,
+    "voteCount": 2488,
     "genres": [
       {
         "id": 27,
@@ -495,7 +495,7 @@
     "releaseDate": "2019-09-04",
     "runtime": 169,
     "voteAverage": 6.825,
-    "voteCount": 9903,
+    "voteCount": 9911,
     "genres": [
       {
         "id": 27,
@@ -608,8 +608,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-04-04",
     "runtime": 101,
-    "voteAverage": 5.7,
-    "voteCount": 3523,
+    "voteAverage": 5.735,
+    "voteCount": 3529,
     "genres": [
       {
         "id": 27,
@@ -714,7 +714,7 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.235,
+    "voteAverage": 7.2,
     "voteCount": 716,
     "genres": [
       {
@@ -917,7 +917,7 @@
     "releaseDate": "2017-10-20",
     "runtime": 102,
     "voteAverage": 5.949,
-    "voteCount": 2987,
+    "voteCount": 2990,
     "genres": [
       {
         "id": 27,
@@ -1032,7 +1032,7 @@
     "releaseDate": "2017-09-29",
     "runtime": 104,
     "voteAverage": 6.397,
-    "voteCount": 4045,
+    "voteCount": 4054,
     "genres": [
       {
         "id": 27,
@@ -1146,7 +1146,7 @@
     "releaseDate": "2017-09-06",
     "runtime": 135,
     "voteAverage": 7.24,
-    "voteCount": 20757,
+    "voteCount": 20773,
     "genres": [
       {
         "id": 27,
@@ -1200,7 +1200,7 @@
         "tmdbId": 1643043,
         "name": "Chosen Jacobs",
         "character": "Mike Hanlon",
-        "profilePath": "/y7Aho0JOSIyT6SH7nyhheRibPCf.jpg",
+        "profilePath": "/1avHpvsK5oNQ5xFhyQY94nD7QoT.jpg",
         "order": 4
       },
       {
@@ -1259,7 +1259,7 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.152,
+    "voteAverage": 7.2,
     "voteCount": 430,
     "genres": [
       {
@@ -1362,8 +1362,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.8,
-    "voteCount": 5711,
+    "voteAverage": 5.815,
+    "voteCount": 5722,
     "genres": [
       {
         "id": 14,
@@ -1476,7 +1476,7 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.182,
+    "voteAverage": 6.2,
     "voteCount": 871,
     "genres": [
       {
@@ -1579,7 +1579,7 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.709,
+    "voteAverage": 4.7,
     "voteCount": 1179,
     "genres": [
       {
@@ -1917,8 +1917,8 @@
     "releaseYear": 2014,
     "releaseDate": "2014-10-03",
     "runtime": 103,
-    "voteAverage": 5.3,
-    "voteCount": 530,
+    "voteAverage": 5.342,
+    "voteCount": 533,
     "genres": [
       {
         "id": 53,
@@ -2019,12 +2019,12 @@
     "overviewCn": null,
     "tagline": "You will know her name.",
     "posterPath": "/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
-    "backdropPath": "/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg",
+    "backdropPath": "/pmJDMH2YX9YrIwiawqPrgpRiZXb.jpg",
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.071,
-    "voteCount": 4855,
+    "voteAverage": 6.072,
+    "voteCount": 4873,
     "genres": [
       {
         "id": 18,
@@ -2134,7 +2134,7 @@
     "releaseDate": "2013-06-24",
     "runtime": 42,
     "voteAverage": 7.122,
-    "voteCount": 3969,
+    "voteCount": 3973,
     "genres": [
       {
         "id": 18,
@@ -2229,8 +2229,8 @@
     "releaseYear": 2011,
     "releaseDate": "2011-08-30",
     "runtime": 81,
-    "voteAverage": 4.1,
-    "voteCount": 164,
+    "voteAverage": 4.095,
+    "voteCount": 163,
     "genres": [
       {
         "id": 27,
@@ -2335,8 +2335,8 @@
     "releaseYear": 2010,
     "releaseDate": "2010-07-09",
     "runtime": null,
-    "voteAverage": 7.5,
-    "voteCount": 520,
+    "voteAverage": 7.509,
+    "voteCount": 521,
     "genres": [
       {
         "id": 18,
@@ -2413,7 +2413,7 @@
     "director": {
       "tmdbId": 85204,
       "name": "Jeff Beesley",
-      "profilePath": "/fAlhPhTYEzywPpkdaZOVwpviX9W.jpg"
+      "profilePath": null
     },
     "cast": [
       {
@@ -2617,8 +2617,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.958,
-    "voteCount": 6131,
+    "voteAverage": 6.959,
+    "voteCount": 6142,
     "genres": [
       {
         "id": 27,
@@ -2731,8 +2731,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-10-26",
     "runtime": 126,
-    "voteAverage": 6.9,
-    "voteCount": 82,
+    "voteAverage": 6.934,
+    "voteCount": 83,
     "genres": [
       {
         "id": 53,
@@ -2837,12 +2837,12 @@
     "overviewCn": null,
     "tagline": "The Dolphin Hotel invites you to stay in any of its stunning rooms. Except one.",
     "posterPath": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
-    "backdropPath": "/9CaNCElCXrjdJoUadfXHiNTMFcR.jpg",
+    "backdropPath": "/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.696,
-    "voteCount": 5114,
+    "voteAverage": 6.697,
+    "voteCount": 5123,
     "genres": [
       {
         "id": 27,
@@ -3073,7 +3073,7 @@
     "releaseYear": 2006,
     "releaseDate": "2006-04-24",
     "runtime": 104,
-    "voteAverage": 4.521,
+    "voteAverage": 4.5,
     "voteCount": 218,
     "genres": [
       {
@@ -3401,7 +3401,7 @@
     "releaseDate": "2004-03-12",
     "runtime": 96,
     "voteAverage": 6.564,
-    "voteCount": 4052,
+    "voteCount": 4057,
     "genres": [
       {
         "id": 9648,
@@ -3968,7 +3968,7 @@
     "releaseDate": "2002-11-04",
     "runtime": 132,
     "voteAverage": 6.152,
-    "voteCount": 585,
+    "voteCount": 591,
     "genres": [
       {
         "id": 27,
@@ -4461,7 +4461,7 @@
     "releaseDate": "1999-12-10",
     "runtime": 189,
     "voteAverage": 8.505,
-    "voteCount": 19939,
+    "voteCount": 19985,
     "genres": [
       {
         "id": 14,
@@ -4529,7 +4529,7 @@
         "tmdbId": 6804,
         "name": "Graham Greene",
         "character": "Arlen Bitterbuck",
-        "profilePath": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg",
+        "profilePath": "/ui1x4vGTiI9eANYM9BZ6R4oushJ.jpg",
         "order": 6
       },
       {
@@ -4684,8 +4684,8 @@
     "releaseYear": 1999,
     "releaseDate": "1999-03-12",
     "runtime": 105,
-    "voteAverage": 5.689,
-    "voteCount": 491,
+    "voteAverage": 5.706,
+    "voteCount": 497,
     "genres": [
       {
         "id": 27,
@@ -4904,8 +4904,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.537,
-    "voteCount": 767,
+    "voteAverage": 6.54,
+    "voteCount": 769,
     "genres": [
       {
         "id": 18,
@@ -5357,8 +5357,8 @@
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 5.984,
-    "voteCount": 274,
+    "voteAverage": 5.987,
+    "voteCount": 275,
     "genres": [
       {
         "id": 27,
@@ -5464,8 +5464,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-25",
     "runtime": 92,
-    "voteAverage": 5.9,
-    "voteCount": 703,
+    "voteAverage": 5.896,
+    "voteCount": 704,
     "genres": [
       {
         "id": 14,
@@ -6010,8 +6010,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.258,
-    "voteCount": 914,
+    "voteAverage": 7.261,
+    "voteCount": 916,
     "genres": [
       {
         "id": 80,
@@ -6130,10 +6130,6 @@
       {
         "id": 27,
         "name": "Horror"
-      },
-      {
-        "id": 53,
-        "name": "Thriller"
       }
     ],
     "imdbId": "tt0113762",
@@ -6236,7 +6232,7 @@
     "releaseDate": "1994-09-23",
     "runtime": 142,
     "voteAverage": 8.732,
-    "voteCount": 31550,
+    "voteCount": 31601,
     "genres": [
       {
         "id": 18,
@@ -6346,7 +6342,7 @@
     "releaseDate": "1994-05-08",
     "runtime": 90,
     "voteAverage": 6.8,
-    "voteCount": 537,
+    "voteCount": 536,
     "genres": [
       {
         "id": 10765,
@@ -6657,8 +6653,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.475,
-    "voteCount": 631,
+    "voteAverage": 5.472,
+    "voteCount": 632,
     "genres": [
       {
         "id": 27,
@@ -6763,8 +6759,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-04-10",
     "runtime": 89,
-    "voteAverage": 6.1,
-    "voteCount": 650,
+    "voteAverage": 6.098,
+    "voteCount": 651,
     "genres": [
       {
         "id": 27,
@@ -6877,8 +6873,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-03-05",
     "runtime": 108,
-    "voteAverage": 5.644,
-    "voteCount": 888,
+    "voteAverage": 5.649,
+    "voteCount": 890,
     "genres": [
       {
         "id": 878,
@@ -7333,8 +7329,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-11-30",
     "runtime": 107,
-    "voteAverage": 7.753,
-    "voteCount": 5464,
+    "voteAverage": 7.754,
+    "voteCount": 5478,
     "genres": [
       {
         "id": 18,
@@ -7443,8 +7439,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-10-26",
     "runtime": 89,
-    "voteAverage": 5.38,
-    "voteCount": 312,
+    "voteAverage": 5.377,
+    "voteCount": 314,
     "genres": [
       {
         "id": 27,
@@ -7665,7 +7661,7 @@
     "releaseDate": "1989-04-21",
     "runtime": 103,
     "voteAverage": 6.7,
-    "voteCount": 2488,
+    "voteCount": 2494,
     "genres": [
       {
         "id": 27,
@@ -7771,7 +7767,7 @@
     "releaseDate": "1987-11-13",
     "runtime": 101,
     "voteAverage": 6.545,
-    "voteCount": 3006,
+    "voteCount": 3013,
     "genres": [
       {
         "id": 28,
@@ -7835,7 +7831,7 @@
         "tmdbId": 3013,
         "name": "Erland van Lidth",
         "character": "Dynamo",
-        "profilePath": "/13wG7s5WjxPiAZ6CtXcIuvNjEKm.jpg",
+        "profilePath": "/jewEhkMhAFnsvkJYkx4h2h3LmV7.jpg",
         "order": 6
       },
       {
@@ -7880,8 +7876,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-09-11",
     "runtime": 100,
-    "voteAverage": 5.972,
-    "voteCount": 337,
+    "voteAverage": 5.984,
+    "voteCount": 339,
     "genres": [
       {
         "id": 27,
@@ -7990,8 +7986,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-05-01",
     "runtime": 92,
-    "voteAverage": 6.2,
-    "voteCount": 679,
+    "voteAverage": 6.24,
+    "voteCount": 680,
     "genres": [
       {
         "id": 27,
@@ -8076,7 +8072,7 @@
         "tmdbId": 7497,
         "name": "Holt McCallany",
         "character": "Sam Whitemoon",
-        "profilePath": "/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg",
+        "profilePath": "/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg",
         "order": 9
       }
     ],
@@ -8101,7 +8097,7 @@
     "releaseDate": "1986-08-08",
     "runtime": 89,
     "voteAverage": 7.8,
-    "voteCount": 6789,
+    "voteCount": 6802,
     "genres": [
       {
         "id": 18,
@@ -8210,7 +8206,7 @@
     "releaseYear": 1986,
     "releaseDate": "1986-07-13",
     "runtime": 98,
-    "voteAverage": 5.8,
+    "voteAverage": 5.824,
     "voteCount": 900,
     "genres": [
       {
@@ -8320,8 +8316,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.683,
-    "voteCount": 734,
+    "voteAverage": 6.687,
+    "voteCount": 736,
     "genres": [
       {
         "id": 27,
@@ -8428,8 +8424,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-04-12",
     "runtime": 94,
-    "voteAverage": 6.7,
-    "voteCount": 769,
+    "voteAverage": 6.747,
+    "voteCount": 772,
     "genres": [
       {
         "id": 27,
@@ -8653,8 +8649,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-03-09",
     "runtime": 92,
-    "voteAverage": 5.718,
-    "voteCount": 1184,
+    "voteAverage": 5.715,
+    "voteCount": 1188,
     "genres": [
       {
         "id": 27,
@@ -8763,8 +8759,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-12-09",
     "runtime": 110,
-    "voteAverage": 6.887,
-    "voteCount": 2357,
+    "voteAverage": 6.889,
+    "voteCount": 2366,
     "genres": [
       {
         "id": 27,
@@ -8869,8 +8865,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7.006,
-    "voteCount": 1925,
+    "voteAverage": 7.005,
+    "voteCount": 1929,
     "genres": [
       {
         "id": 53,
@@ -8984,8 +8980,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-08-10",
     "runtime": 93,
-    "voteAverage": 6.2,
-    "voteCount": 1179,
+    "voteAverage": 6.187,
+    "voteCount": 1180,
     "genres": [
       {
         "id": 18,
@@ -9165,8 +9161,8 @@
     "releaseYear": 1982,
     "releaseDate": "1982-11-10",
     "runtime": 120,
-    "voteAverage": 6.9,
-    "voteCount": 1203,
+    "voteAverage": 6.899,
+    "voteCount": 1205,
     "genres": [
       {
         "id": 27,
@@ -9202,7 +9198,7 @@
         "tmdbId": 6839,
         "name": "Fritz Weaver",
         "character": "Dexter Stanley (segment \"The Crate\")",
-        "profilePath": "/gjudPIeWyMJaxDvkRgx0HoTf2zG.jpg",
+        "profilePath": "/fNIGbgy9cfzNK1pDgRB56b2N3uq.jpg",
         "order": 2
       },
       {
@@ -9276,7 +9272,7 @@
     "releaseDate": "1980-05-23",
     "runtime": 144,
     "voteAverage": 8.2,
-    "voteCount": 19505,
+    "voteCount": 19534,
     "genres": [
       {
         "id": 27,
@@ -9381,13 +9377,13 @@
     "overview": "Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
     "overviewCn": null,
     "tagline": "If you've got a taste for terror...Take Carrie to the prom!",
-    "posterPath": "/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
+    "posterPath": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
     "backdropPath": "/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
     "releaseYear": 1976,
     "releaseDate": "1976-11-03",
     "runtime": 98,
-    "voteAverage": 7.3,
-    "voteCount": 4492,
+    "voteAverage": 7.342,
+    "voteCount": 4525,
     "genres": [
       {
         "id": 27,
