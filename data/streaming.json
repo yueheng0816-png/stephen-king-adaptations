@@ -403,7 +403,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.0eb4ecd0-88d8-2d86-04a1-0eefc4c3da01",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -419,7 +419,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Pet-Sematary-2019-/1089241",
         "price": "$5.99",
-        "quality": "HD",
+        "quality": "4K",
         "country": "US"
       },
       {
@@ -694,7 +694,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.62af1664-3079-0727-4e69-e328de055f13",
         "price": "$9.99",
-        "quality": "4K",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -1260,7 +1260,7 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-carrie-kimberly-peirce/24085016",
+        "url": "https://www.barnesandnoble.com/w/dvd-carrie-peirce/24085016",
         "price": "$11.89",
         "quality": null,
         "country": "US"
@@ -3867,7 +3867,7 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-the-shawshank-redemption-the-green-mile-the-shawshank-redemption-the-green-mile-2-discs/30988699",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-shawshank-redemption-frank-darabont/3557553",
         "price": "$5.00",
         "quality": null,
         "country": "US"
@@ -4680,7 +4680,7 @@
         "platform": "OTHER",
         "linkType": "BUY",
         "url": "https://www.barnesandnoble.com/w/dvd-graveyard-shift-ralph-singleton/3634197",
-        "price": "$20.99",
+        "price": "$31.49",
         "quality": null,
         "country": "US"
       }
@@ -4845,8 +4845,8 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-pet-sematary-pet-sematary-2019-1989-2-movie-collection/1149315787",
-        "price": "$12.99",
+        "url": "https://www.amazon.com/dp/B00004W5UF?tag=justwatch09-20&linkCode=osi&th=1&psc=1",
+        "price": "$20.88",
         "quality": null,
         "country": "US"
       }
@@ -6070,7 +6070,7 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-the-shining-nicholson/3619965",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-shining-stanley-kubrick/3619965",
         "price": "$5.00",
         "quality": null,
         "country": "US"
