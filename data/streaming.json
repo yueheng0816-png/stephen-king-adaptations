@@ -1087,7 +1087,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://www.peacocktv.com/watch/asset/movies/stephen-kings-a-good-marriage/b281cdde-96bf-3cd3-b394-31b8b01ded1b",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -1135,7 +1135,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.sling.com/1/program/ecc8f4efc9c9d874884871894863e5f1/watch",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -1183,7 +1183,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/stephen-kings-a-good-marriage/umc.cmc.1jvj23gejwt4cj0alofzilk3d?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1460433115",
         "price": "$7.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -1387,7 +1387,7 @@
         "platform": "OTHER",
         "linkType": "BUY",
         "url": "https://www.amazon.com/dp/B0054MYSPM?tag=justwatch09-20&linkCode=osi&th=1&psc=1",
-        "price": "$7.99",
+        "price": "$9.50",
         "quality": null,
         "country": "US"
       }
@@ -2631,7 +2631,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.bea9f73e-9fbb-b5d0-469f-c32ff2beb6ae",
         "price": null,
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2647,7 +2647,7 @@
         "linkType": "FREE_WITH_ADS",
         "url": "https://watch.plex.tv/movie/hearts-in-atlantis-2001?autoplay=1&utm_content=5d776836eb5d26001f1e0e6b&utm_medium=deeplink&utm_source=justWatch-v2-catalog",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2655,7 +2655,7 @@
         "linkType": "SUBSCRIPTION",
         "url": "https://watch.plex.tv/live-tv/channel/at-the-movies?autoplay=1&utm_content=66a2c1370b91165254efdb3c&utm_medium=deeplink&utm_source=justWatch-linear-catalog",
         "price": null,
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2687,7 +2687,7 @@
         "linkType": "RENT",
         "url": "https://athome.fandango.com/content/browse/details/Hearts-in-Atlantis/9581",
         "price": "$3.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -2695,7 +2695,7 @@
         "linkType": "BUY",
         "url": "https://tv.apple.com/us/movie/hearts-in-atlantis/umc.cmc.4z05lukrgfc9hz3fan5kdk3oy?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A296073060",
         "price": "$4.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -2703,7 +2703,7 @@
         "linkType": "BUY",
         "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.bea9f73e-9fbb-b5d0-469f-c32ff2beb6ae",
         "price": "$6.99",
-        "quality": "SD",
+        "quality": "HD",
         "country": "US"
       },
       {
@@ -3826,7 +3826,7 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-the-shawshank-redemption-frank-darabont/3557553",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-shawshank-redemption-the-green-mile-the-shawshank-redemption-the-green-mile-2-discs/30988699",
         "price": "$5.00",
         "quality": null,
         "country": "US"
@@ -5217,7 +5217,7 @@
         "linkType": "BUY",
         "url": "https://athome.fandango.com/content/browse/details/Maximum-Overdrive/8367",
         "price": "$14.99",
-        "quality": "HD",
+        "quality": "SD",
         "country": "US"
       },
       {
@@ -5973,7 +5973,7 @@
       {
         "platform": "OTHER",
         "linkType": "BUY",
-        "url": "https://www.barnesandnoble.com/w/dvd-the-shining-jack-nicholson/3619965",
+        "url": "https://www.barnesandnoble.com/w/dvd-the-shining-nicholson/3619965",
         "price": "$5.00",
         "quality": null,
         "country": "US"

@@ -11,8 +11,8 @@
     "releaseYear": 2025,
     "releaseDate": "2025-09-10",
     "runtime": 108,
-    "voteAverage": 6.8,
-    "voteCount": 2152,
+    "voteAverage": 6.832,
+    "voteCount": 2168,
     "genres": [
       {
         "id": 878,
@@ -121,12 +121,12 @@
     "overviewCn": null,
     "tagline": "Be careful what you invite inside.",
     "posterPath": "/vCUpo94Qm6DhV5fkQF4xMPsKCP8.jpg",
-    "backdropPath": "/hJpTWcFlucIOOo5WEuYN0w69fJi.jpg",
+    "backdropPath": "/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
     "releaseYear": 2024,
     "releaseDate": "2024-10-03",
     "runtime": 113,
     "voteAverage": 5.936,
-    "voteCount": 776,
+    "voteCount": 778,
     "genres": [
       {
         "id": 27,
@@ -299,7 +299,7 @@
     "releaseDate": "2019-10-30",
     "runtime": 152,
     "voteAverage": 7.149,
-    "voteCount": 5144,
+    "voteCount": 5152,
     "genres": [
       {
         "id": 27,
@@ -328,7 +328,7 @@
         "tmdbId": 933238,
         "name": "Rebecca Ferguson",
         "character": "Rose the Hat",
-        "profilePath": "/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg",
+        "profilePath": "/lJloTOheuQSirSLXNA3JHsrMNfH.jpg",
         "order": 1
       },
       {
@@ -409,7 +409,7 @@
     "releaseDate": "2019-09-20",
     "runtime": 101,
     "voteAverage": 5.549,
-    "voteCount": 2509,
+    "voteCount": 2514,
     "genres": [
       {
         "id": 27,
@@ -494,8 +494,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-09-04",
     "runtime": 169,
-    "voteAverage": 6.826,
-    "voteCount": 9986,
+    "voteAverage": 6.825,
+    "voteCount": 10002,
     "genres": [
       {
         "id": 27,
@@ -608,8 +608,8 @@
     "releaseYear": 2019,
     "releaseDate": "2019-04-04",
     "runtime": 101,
-    "voteAverage": 5.75,
-    "voteCount": 3570,
+    "voteAverage": 5.753,
+    "voteCount": 3579,
     "genres": [
       {
         "id": 27,
@@ -714,8 +714,8 @@
     "releaseYear": 2018,
     "releaseDate": "2018-07-25",
     "runtime": 60,
-    "voteAverage": 7.24,
-    "voteCount": 723,
+    "voteAverage": 7.233,
+    "voteCount": 729,
     "genres": [
       {
         "id": 9648,
@@ -916,8 +916,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-10-20",
     "runtime": 102,
-    "voteAverage": 5.948,
-    "voteCount": 3004,
+    "voteAverage": 5.95,
+    "voteCount": 3010,
     "genres": [
       {
         "id": 27,
@@ -1032,7 +1032,7 @@
     "releaseDate": "2017-09-29",
     "runtime": 104,
     "voteAverage": 6.397,
-    "voteCount": 4084,
+    "voteCount": 4093,
     "genres": [
       {
         "id": 27,
@@ -1041,10 +1041,6 @@
       {
         "id": 53,
         "name": "Thriller"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
       }
     ],
     "imdbId": "tt3748172",
@@ -1141,12 +1137,12 @@
     "overviewCn": null,
     "tagline": "You'll float too.",
     "posterPath": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
-    "backdropPath": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+    "backdropPath": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
     "releaseYear": 2017,
     "releaseDate": "2017-09-06",
     "runtime": 135,
-    "voteAverage": 7.24,
-    "voteCount": 20887,
+    "voteAverage": 7.241,
+    "voteCount": 20910,
     "genres": [
       {
         "id": 27,
@@ -1259,8 +1255,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-09",
     "runtime": null,
-    "voteAverage": 7.171,
-    "voteCount": 436,
+    "voteAverage": 7.2,
+    "voteCount": 442,
     "genres": [
       {
         "id": 9648,
@@ -1331,7 +1327,7 @@
         "tmdbId": 1471259,
         "name": "Rarmian Newton",
         "character": "Peter Saubers",
-        "profilePath": "/yF8hld3grc3jhNyMuKXoEezCB3e.jpg",
+        "profilePath": "/1gQbeE6ftQnYxawMvDLlyTMQLdr.jpg",
         "order": 15
       },
       {
@@ -1362,8 +1358,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-08-03",
     "runtime": 95,
-    "voteAverage": 5.8,
-    "voteCount": 5758,
+    "voteAverage": 5.816,
+    "voteCount": 5770,
     "genres": [
       {
         "id": 14,
@@ -1476,8 +1472,8 @@
     "releaseYear": 2017,
     "releaseDate": "2017-06-22",
     "runtime": 40,
-    "voteAverage": 6.191,
-    "voteCount": 874,
+    "voteAverage": 6.185,
+    "voteCount": 879,
     "genres": [
       {
         "id": 10765,
@@ -1579,8 +1575,8 @@
     "releaseYear": 2016,
     "releaseDate": "2016-07-06",
     "runtime": 98,
-    "voteAverage": 4.709,
-    "voteCount": 1185,
+    "voteAverage": 4.706,
+    "voteCount": 1187,
     "genres": [
       {
         "id": 27,
@@ -2023,8 +2019,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-10-16",
     "runtime": 101,
-    "voteAverage": 6.076,
-    "voteCount": 4924,
+    "voteAverage": 6.075,
+    "voteCount": 4930,
     "genres": [
       {
         "id": 18,
@@ -2133,8 +2129,8 @@
     "releaseYear": 2013,
     "releaseDate": "2013-06-24",
     "runtime": 42,
-    "voteAverage": 7.122,
-    "voteCount": 3994,
+    "voteAverage": 7.119,
+    "voteCount": 4001,
     "genres": [
       {
         "id": 18,
@@ -2335,8 +2331,8 @@
     "releaseYear": 2010,
     "releaseDate": "2010-07-09",
     "runtime": null,
-    "voteAverage": 7.512,
-    "voteCount": 523,
+    "voteAverage": 7.5,
+    "voteCount": 526,
     "genres": [
       {
         "id": 18,
@@ -2398,7 +2394,7 @@
     "releaseDate": "2009-07-01",
     "runtime": 89,
     "voteAverage": 5.95,
-    "voteCount": 170,
+    "voteCount": 171,
     "genres": [
       {
         "id": 80,
@@ -2617,8 +2613,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-11-21",
     "runtime": 126,
-    "voteAverage": 6.958,
-    "voteCount": 6204,
+    "voteAverage": 6.959,
+    "voteCount": 6214,
     "genres": [
       {
         "id": 27,
@@ -2731,7 +2727,7 @@
     "releaseYear": 2007,
     "releaseDate": "2007-10-26",
     "runtime": 126,
-    "voteAverage": 6.941,
+    "voteAverage": 6.9,
     "voteCount": 85,
     "genres": [
       {
@@ -2841,8 +2837,8 @@
     "releaseYear": 2007,
     "releaseDate": "2007-06-22",
     "runtime": 104,
-    "voteAverage": 6.697,
-    "voteCount": 5166,
+    "voteAverage": 6.699,
+    "voteCount": 5178,
     "genres": [
       {
         "id": 27,
@@ -2951,8 +2947,8 @@
     "releaseYear": 2006,
     "releaseDate": "2006-05-23",
     "runtime": 131,
-    "voteAverage": 5.472,
-    "voteCount": 236,
+    "voteAverage": 5.456,
+    "voteCount": 238,
     "genres": [
       {
         "id": 18,
@@ -3073,7 +3069,7 @@
     "releaseYear": 2006,
     "releaseDate": "2006-04-24",
     "runtime": 104,
-    "voteAverage": 4.507,
+    "voteAverage": 4.5,
     "voteCount": 220,
     "genres": [
       {
@@ -3286,8 +3282,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-10-15",
     "runtime": 98,
-    "voteAverage": 5.076,
-    "voteCount": 229,
+    "voteAverage": 5.085,
+    "voteCount": 230,
     "genres": [
       {
         "id": 18,
@@ -3400,8 +3396,8 @@
     "releaseYear": 2004,
     "releaseDate": "2004-03-12",
     "runtime": 96,
-    "voteAverage": 6.565,
-    "voteCount": 4091,
+    "voteAverage": 6.564,
+    "voteCount": 4100,
     "genres": [
       {
         "id": 9648,
@@ -3735,7 +3731,7 @@
     "releaseDate": "2003-03-21",
     "runtime": 134,
     "voteAverage": 5.662,
-    "voteCount": 2004,
+    "voteCount": 2009,
     "genres": [
       {
         "id": 18,
@@ -3967,8 +3963,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-11-04",
     "runtime": 132,
-    "voteAverage": 6.1,
-    "voteCount": 607,
+    "voteAverage": 6.139,
+    "voteCount": 608,
     "genres": [
       {
         "id": 27,
@@ -4036,7 +4032,7 @@
         "tmdbId": 52509,
         "name": "Jesse Cadotte",
         "character": "Billy Nolan",
-        "profilePath": "/oAGwEFMzOKY1qWQA95uGcDFki08.jpg",
+        "profilePath": null,
         "order": 6
       },
       {
@@ -4082,8 +4078,8 @@
     "releaseYear": 2002,
     "releaseDate": "2002-06-16",
     "runtime": null,
-    "voteAverage": 7.297,
-    "voteCount": 182,
+    "voteAverage": 7.284,
+    "voteCount": 183,
     "genres": [
       {
         "id": 18,
@@ -4354,8 +4350,8 @@
     "releaseYear": 2001,
     "releaseDate": "2001-09-28",
     "runtime": 101,
-    "voteAverage": 6.78,
-    "voteCount": 659,
+    "voteAverage": 6.778,
+    "voteCount": 663,
     "genres": [
       {
         "id": 18,
@@ -4461,7 +4457,7 @@
     "releaseDate": "1999-12-10",
     "runtime": 189,
     "voteAverage": 8.504,
-    "voteCount": 20139,
+    "voteCount": 20180,
     "genres": [
       {
         "id": 14,
@@ -4543,7 +4539,7 @@
         "tmdbId": 6807,
         "name": "Sam Rockwell",
         "character": "'Wild Bill' Wharton",
-        "profilePath": "/v6FOxVHwfn7JxI5DWIIS7BnUFiF.jpg",
+        "profilePath": "/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg",
         "order": 8
       },
       {
@@ -4685,7 +4681,7 @@
     "releaseDate": "1999-03-12",
     "runtime": 105,
     "voteAverage": 5.7,
-    "voteCount": 507,
+    "voteCount": 509,
     "genres": [
       {
         "id": 27,
@@ -4904,8 +4900,8 @@
     "releaseYear": 1998,
     "releaseDate": "1998-10-23",
     "runtime": 107,
-    "voteAverage": 6.536,
-    "voteCount": 775,
+    "voteAverage": 6.5,
+    "voteCount": 777,
     "genres": [
       {
         "id": 18,
@@ -5357,8 +5353,8 @@
     "releaseYear": 1997,
     "releaseDate": "1997-04-30",
     "runtime": 93,
-    "voteAverage": 5.991,
-    "voteCount": 278,
+    "voteAverage": 5.995,
+    "voteCount": 280,
     "genres": [
       {
         "id": 27,
@@ -5465,7 +5461,7 @@
     "releaseDate": "1996-10-25",
     "runtime": 92,
     "voteAverage": 5.888,
-    "voteCount": 710,
+    "voteCount": 713,
     "genres": [
       {
         "id": 14,
@@ -5574,8 +5570,8 @@
     "releaseYear": 1996,
     "releaseDate": "1996-10-08",
     "runtime": 85,
-    "voteAverage": 4.47,
-    "voteCount": 183,
+    "voteAverage": 4.467,
+    "voteCount": 184,
     "genres": [
       {
         "id": 27,
@@ -5680,7 +5676,7 @@
     "releaseYear": 1996,
     "releaseDate": "1996-09-03",
     "runtime": 98,
-    "voteAverage": 4.727,
+    "voteAverage": 4.7,
     "voteCount": 119,
     "genres": [
       {
@@ -5900,7 +5896,7 @@
     "releaseYear": 1995,
     "releaseDate": "1995-09-12",
     "runtime": 90,
-    "voteAverage": 4.805,
+    "voteAverage": 4.8,
     "voteCount": 239,
     "genres": [
       {
@@ -6010,8 +6006,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-24",
     "runtime": 132,
-    "voteAverage": 7.268,
-    "voteCount": 927,
+    "voteAverage": 7.271,
+    "voteCount": 933,
     "genres": [
       {
         "id": 80,
@@ -6124,8 +6120,8 @@
     "releaseYear": 1995,
     "releaseDate": "1995-03-03",
     "runtime": 106,
-    "voteAverage": 4.884,
-    "voteCount": 290,
+    "voteAverage": 4.892,
+    "voteCount": 291,
     "genres": [
       {
         "id": 27,
@@ -6227,12 +6223,12 @@
     "overviewCn": null,
     "tagline": "Fear can hold you prisoner. Hope can set you free.",
     "posterPath": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "backdropPath": "/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
     "releaseYear": 1994,
     "releaseDate": "1994-09-23",
     "runtime": 142,
     "voteAverage": 8.735,
-    "voteCount": 31844,
+    "voteCount": 31914,
     "genres": [
       {
         "id": 18,
@@ -6341,8 +6337,8 @@
     "releaseYear": 1994,
     "releaseDate": "1994-05-08",
     "runtime": 90,
-    "voteAverage": 6.8,
-    "voteCount": 545,
+    "voteAverage": 6.803,
+    "voteCount": 549,
     "genres": [
       {
         "id": 10765,
@@ -6428,13 +6424,13 @@
     "overview": "A mysterious new shop opens in a small town which always seems to stock the deepest desires of each shopper, with a price far heavier than expected.",
     "overviewCn": null,
     "tagline": "Buy now. Pay later.",
-    "posterPath": "/9RxE6kd1ky4689WxqX6CHEpIWya.jpg",
-    "backdropPath": "/cFm73y9i3ijvlQIgp5o1vzRVHQv.jpg",
+    "posterPath": "/yt7O8vQ0c5gdzmHClgycqEXweP3.jpg",
+    "backdropPath": "/hLxUpuwjYRh8c4k5iW8nTXUBO4I.jpg",
     "releaseYear": 1993,
     "releaseDate": "1993-08-27",
     "runtime": 121,
-    "voteAverage": 6.266,
-    "voteCount": 644,
+    "voteAverage": 6.269,
+    "voteCount": 646,
     "genres": [
       {
         "id": 18,
@@ -6470,7 +6466,7 @@
         "tmdbId": 7673,
         "name": "Bonnie Bedelia",
         "character": "Polly Chalmers",
-        "profilePath": "/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg",
+        "profilePath": "/cIouTc75H6VRTXkt3IH1agMScWh.jpg",
         "order": 2
       },
       {
@@ -6543,8 +6539,8 @@
     "releaseYear": 1993,
     "releaseDate": "1993-04-23",
     "runtime": 122,
-    "voteAverage": 5.991,
-    "voteCount": 498,
+    "voteAverage": 5.993,
+    "voteCount": 501,
     "genres": [
       {
         "id": 9648,
@@ -6653,8 +6649,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-08-28",
     "runtime": 100,
-    "voteAverage": 5.449,
-    "voteCount": 642,
+    "voteAverage": 5.5,
+    "voteCount": 643,
     "genres": [
       {
         "id": 27,
@@ -6759,8 +6755,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-04-10",
     "runtime": 89,
-    "voteAverage": 6.098,
-    "voteCount": 662,
+    "voteAverage": 6.1,
+    "voteCount": 663,
     "genres": [
       {
         "id": 27,
@@ -6873,8 +6869,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-03-05",
     "runtime": 108,
-    "voteAverage": 5.649,
-    "voteCount": 902,
+    "voteAverage": 5.646,
+    "voteCount": 905,
     "genres": [
       {
         "id": 878,
@@ -6983,8 +6979,8 @@
     "releaseYear": 1992,
     "releaseDate": "1992-01-29",
     "runtime": 92,
-    "voteAverage": 4.813,
-    "voteCount": 294,
+    "voteAverage": 4.81,
+    "voteCount": 295,
     "genres": [
       {
         "id": 27,
@@ -7138,7 +7134,7 @@
         "tmdbId": 21523,
         "name": "Ed Lauter",
         "character": "Gen. Louis Crewes",
-        "profilePath": "/5q1CNG6M4cKIrFjFmy7typjEPqt.jpg",
+        "profilePath": "/rk9YGLIyRPjn4vpNcL8z3vi3IPT.jpg",
         "order": 2
       },
       {
@@ -7211,8 +7207,8 @@
     "releaseYear": 1991,
     "releaseDate": "1991-05-07",
     "runtime": 98,
-    "voteAverage": 5.8,
-    "voteCount": 291,
+    "voteAverage": 5.855,
+    "voteCount": 293,
     "genres": [
       {
         "id": 27,
@@ -7329,8 +7325,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-11-30",
     "runtime": 107,
-    "voteAverage": 7.754,
-    "voteCount": 5528,
+    "voteAverage": 7.753,
+    "voteCount": 5545,
     "genres": [
       {
         "id": 18,
@@ -7439,8 +7435,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-10-26",
     "runtime": 89,
-    "voteAverage": 5.4,
-    "voteCount": 318,
+    "voteAverage": 5.365,
+    "voteCount": 319,
     "genres": [
       {
         "id": 27,
@@ -7542,8 +7538,8 @@
     "releaseYear": 1990,
     "releaseDate": "1990-05-03",
     "runtime": 93,
-    "voteAverage": 6.2,
-    "voteCount": 449,
+    "voteAverage": 6.192,
+    "voteCount": 451,
     "genres": [
       {
         "id": 53,
@@ -7661,7 +7657,7 @@
     "releaseDate": "1989-04-21",
     "runtime": 103,
     "voteAverage": 6.658,
-    "voteCount": 2526,
+    "voteCount": 2534,
     "genres": [
       {
         "id": 27,
@@ -7766,8 +7762,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-11-13",
     "runtime": 101,
-    "voteAverage": 6.543,
-    "voteCount": 3053,
+    "voteAverage": 6.544,
+    "voteCount": 3062,
     "genres": [
       {
         "id": 28,
@@ -7982,8 +7978,8 @@
     "releaseYear": 1987,
     "releaseDate": "1987-05-01",
     "runtime": 92,
-    "voteAverage": 6.242,
-    "voteCount": 686,
+    "voteAverage": 6.241,
+    "voteCount": 689,
     "genres": [
       {
         "id": 27,
@@ -8092,8 +8088,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-08-08",
     "runtime": 89,
-    "voteAverage": 7.8,
-    "voteCount": 6850,
+    "voteAverage": 7.834,
+    "voteCount": 6866,
     "genres": [
       {
         "id": 18,
@@ -8202,8 +8198,8 @@
     "releaseYear": 1986,
     "releaseDate": "1986-07-13",
     "runtime": 98,
-    "voteAverage": 5.815,
-    "voteCount": 912,
+    "voteAverage": 5.812,
+    "voteCount": 914,
     "genres": [
       {
         "id": 27,
@@ -8312,8 +8308,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-10-10",
     "runtime": 95,
-    "voteAverage": 6.691,
-    "voteCount": 746,
+    "voteAverage": 6.689,
+    "voteCount": 748,
     "genres": [
       {
         "id": 27,
@@ -8420,8 +8416,8 @@
     "releaseYear": 1985,
     "releaseDate": "1985-04-12",
     "runtime": 94,
-    "voteAverage": 6.8,
-    "voteCount": 785,
+    "voteAverage": 6.768,
+    "voteCount": 788,
     "genres": [
       {
         "id": 27,
@@ -8531,8 +8527,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-05-11",
     "runtime": 114,
-    "voteAverage": 6.254,
-    "voteCount": 810,
+    "voteAverage": 6.255,
+    "voteCount": 813,
     "genres": [
       {
         "id": 27,
@@ -8645,8 +8641,8 @@
     "releaseYear": 1984,
     "releaseDate": "1984-03-09",
     "runtime": 92,
-    "voteAverage": 5.705,
-    "voteCount": 1203,
+    "voteAverage": 5.701,
+    "voteCount": 1208,
     "genres": [
       {
         "id": 27,
@@ -8755,8 +8751,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-12-09",
     "runtime": 110,
-    "voteAverage": 6.9,
-    "voteCount": 2394,
+    "voteAverage": 6.889,
+    "voteCount": 2399,
     "genres": [
       {
         "id": 27,
@@ -8861,8 +8857,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-10-21",
     "runtime": 103,
-    "voteAverage": 7.012,
-    "voteCount": 1955,
+    "voteAverage": 7.008,
+    "voteCount": 1960,
     "genres": [
       {
         "id": 53,
@@ -8976,8 +8972,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-08-10",
     "runtime": 93,
-    "voteAverage": 6.2,
-    "voteCount": 1190,
+    "voteAverage": 6.19,
+    "voteCount": 1193,
     "genres": [
       {
         "id": 18,
@@ -9027,7 +9023,7 @@
         "tmdbId": 21523,
         "name": "Ed Lauter",
         "character": "Joe Camber",
-        "profilePath": "/5q1CNG6M4cKIrFjFmy7typjEPqt.jpg",
+        "profilePath": "/rk9YGLIyRPjn4vpNcL8z3vi3IPT.jpg",
         "order": 4
       },
       {
@@ -9086,8 +9082,8 @@
     "releaseYear": 1983,
     "releaseDate": "1983-04-16",
     "runtime": 30,
-    "voteAverage": 5.6,
-    "voteCount": 19,
+    "voteAverage": 5.5,
+    "voteCount": 20,
     "genres": [
       {
         "id": 18,
@@ -9158,7 +9154,7 @@
     "releaseDate": "1982-11-10",
     "runtime": 120,
     "voteAverage": 6.9,
-    "voteCount": 1216,
+    "voteCount": 1219,
     "genres": [
       {
         "id": 27,
@@ -9267,8 +9263,8 @@
     "releaseYear": 1980,
     "releaseDate": "1980-05-23",
     "runtime": 144,
-    "voteAverage": 8.201,
-    "voteCount": 19689,
+    "voteAverage": 8.2,
+    "voteCount": 19726,
     "genres": [
       {
         "id": 27,
@@ -9379,7 +9375,7 @@
     "releaseDate": "1976-11-03",
     "runtime": 98,
     "voteAverage": 7.343,
-    "voteCount": 4604,
+    "voteCount": 4618,
     "genres": [
       {
         "id": 27,
